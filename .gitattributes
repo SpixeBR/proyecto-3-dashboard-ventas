@@ -1,0 +1,12 @@
+# Normalize line endings for text files
+* text=auto
+*.py text eol=lf
+*.html text eol=lf
+*.csv text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+
+# Binary files
+*.pdf binary
+*.png binary
+*.xlsx binary

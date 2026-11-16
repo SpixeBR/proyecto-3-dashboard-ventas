@@ -1,0 +1,1729 @@
+mes,provincia,sabor,kilos
+2024-01,Córdoba,Dulce de leche,1672.1
+2024-01,Córdoba,Chocolate,1351.4
+2024-01,Córdoba,Dulce de leche granizado,857.8
+2024-01,Córdoba,Frutilla a la crema,1061.1
+2024-01,Córdoba,Sambayón,591.1
+2024-01,Córdoba,Limón,925.0
+2024-01,Córdoba,Menta granizada,691.2
+2024-01,Córdoba,Americana,464.3
+2024-01,Córdoba,Banana split,494.3
+2024-01,Córdoba,Tramontana,456.3
+2024-01,Córdoba,Chocolate amargo,562.9
+2024-01,Córdoba,Mascarpone con frutos rojos,509.9
+2024-01,Buenos Aires,Dulce de leche,1115.2
+2024-01,Buenos Aires,Chocolate,776.3
+2024-01,Buenos Aires,Dulce de leche granizado,656.6
+2024-01,Buenos Aires,Frutilla a la crema,711.5
+2024-01,Buenos Aires,Sambayón,346.7
+2024-01,Buenos Aires,Limón,564.0
+2024-01,Buenos Aires,Menta granizada,414.9
+2024-01,Buenos Aires,Americana,353.8
+2024-01,Buenos Aires,Banana split,340.0
+2024-01,Buenos Aires,Tramontana,353.3
+2024-01,Buenos Aires,Chocolate amargo,398.6
+2024-01,Buenos Aires,Mascarpone con frutos rojos,445.2
+2024-01,CABA,Dulce de leche,1451.4
+2024-01,CABA,Chocolate,1294.6
+2024-01,CABA,Dulce de leche granizado,846.0
+2024-01,CABA,Frutilla a la crema,1218.1
+2024-01,CABA,Sambayón,530.1
+2024-01,CABA,Limón,845.1
+2024-01,CABA,Menta granizada,501.7
+2024-01,CABA,Americana,482.4
+2024-01,CABA,Banana split,471.5
+2024-01,CABA,Tramontana,486.6
+2024-01,CABA,Chocolate amargo,561.7
+2024-01,CABA,Mascarpone con frutos rojos,505.5
+2024-01,Santa Fe,Dulce de leche,783.7
+2024-01,Santa Fe,Chocolate,559.0
+2024-01,Santa Fe,Dulce de leche granizado,375.7
+2024-01,Santa Fe,Frutilla a la crema,566.6
+2024-01,Santa Fe,Sambayón,290.4
+2024-01,Santa Fe,Limón,474.0
+2024-01,Santa Fe,Menta granizada,302.5
+2024-01,Santa Fe,Americana,236.3
+2024-01,Santa Fe,Banana split,232.7
+2024-01,Santa Fe,Tramontana,255.3
+2024-01,Santa Fe,Chocolate amargo,236.4
+2024-01,Santa Fe,Mascarpone con frutos rojos,338.2
+2024-01,Mendoza,Dulce de leche,593.1
+2024-01,Mendoza,Chocolate,559.2
+2024-01,Mendoza,Dulce de leche granizado,364.9
+2024-01,Mendoza,Frutilla a la crema,419.9
+2024-01,Mendoza,Sambayón,231.1
+2024-01,Mendoza,Limón,386.7
+2024-01,Mendoza,Menta granizada,257.9
+2024-01,Mendoza,Americana,216.6
+2024-01,Mendoza,Banana split,195.1
+2024-01,Mendoza,Tramontana,259.2
+2024-01,Mendoza,Chocolate amargo,218.2
+2024-01,Mendoza,Mascarpone con frutos rojos,272.4
+2024-01,Tucumán,Dulce de leche,349.1
+2024-01,Tucumán,Chocolate,300.2
+2024-01,Tucumán,Dulce de leche granizado,237.2
+2024-01,Tucumán,Frutilla a la crema,349.7
+2024-01,Tucumán,Sambayón,145.8
+2024-01,Tucumán,Limón,249.9
+2024-01,Tucumán,Menta granizada,138.4
+2024-01,Tucumán,Americana,136.3
+2024-01,Tucumán,Banana split,132.6
+2024-01,Tucumán,Tramontana,156.9
+2024-01,Tucumán,Chocolate amargo,139.6
+2024-01,Tucumán,Mascarpone con frutos rojos,159.1
+2024-02,Córdoba,Dulce de leche,1402.4
+2024-02,Córdoba,Chocolate,1239.9
+2024-02,Córdoba,Dulce de leche granizado,883.8
+2024-02,Córdoba,Frutilla a la crema,1138.7
+2024-02,Córdoba,Sambayón,625.6
+2024-02,Córdoba,Limón,804.0
+2024-02,Córdoba,Menta granizada,664.5
+2024-02,Córdoba,Americana,593.0
+2024-02,Córdoba,Banana split,445.0
+2024-02,Córdoba,Tramontana,475.9
+2024-02,Córdoba,Chocolate amargo,531.0
+2024-02,Córdoba,Mascarpone con frutos rojos,518.6
+2024-02,Buenos Aires,Dulce de leche,820.0
+2024-02,Buenos Aires,Chocolate,737.0
+2024-02,Buenos Aires,Dulce de leche granizado,514.1
+2024-02,Buenos Aires,Frutilla a la crema,714.5
+2024-02,Buenos Aires,Sambayón,311.0
+2024-02,Buenos Aires,Limón,526.9
+2024-02,Buenos Aires,Menta granizada,345.1
+2024-02,Buenos Aires,Americana,282.9
+2024-02,Buenos Aires,Banana split,275.0
+2024-02,Buenos Aires,Tramontana,330.3
+2024-02,Buenos Aires,Chocolate amargo,310.2
+2024-02,Buenos Aires,Mascarpone con frutos rojos,283.8
+2024-02,CABA,Dulce de leche,1471.3
+2024-02,CABA,Chocolate,1207.5
+2024-02,CABA,Dulce de leche granizado,876.9
+2024-02,CABA,Frutilla a la crema,1056.9
+2024-02,CABA,Sambayón,517.4
+2024-02,CABA,Limón,801.9
+2024-02,CABA,Menta granizada,534.4
+2024-02,CABA,Americana,503.1
+2024-02,CABA,Banana split,418.1
+2024-02,CABA,Tramontana,430.3
+2024-02,CABA,Chocolate amargo,449.7
+2024-02,CABA,Mascarpone con frutos rojos,485.1
+2024-02,Santa Fe,Dulce de leche,759.3
+2024-02,Santa Fe,Chocolate,494.5
+2024-02,Santa Fe,Dulce de leche granizado,412.2
+2024-02,Santa Fe,Frutilla a la crema,537.1
+2024-02,Santa Fe,Sambayón,243.1
+2024-02,Santa Fe,Limón,398.4
+2024-02,Santa Fe,Menta granizada,280.9
+2024-02,Santa Fe,Americana,293.1
+2024-02,Santa Fe,Banana split,209.6
+2024-02,Santa Fe,Tramontana,241.3
+2024-02,Santa Fe,Chocolate amargo,269.7
+2024-02,Santa Fe,Mascarpone con frutos rojos,273.4
+2024-02,Mendoza,Dulce de leche,778.2
+2024-02,Mendoza,Chocolate,504.8
+2024-02,Mendoza,Dulce de leche granizado,396.5
+2024-02,Mendoza,Frutilla a la crema,507.2
+2024-02,Mendoza,Sambayón,211.6
+2024-02,Mendoza,Limón,418.8
+2024-02,Mendoza,Menta granizada,299.4
+2024-02,Mendoza,Americana,246.7
+2024-02,Mendoza,Banana split,207.4
+2024-02,Mendoza,Tramontana,236.7
+2024-02,Mendoza,Chocolate amargo,251.8
+2024-02,Mendoza,Mascarpone con frutos rojos,272.2
+2024-02,Tucumán,Dulce de leche,422.3
+2024-02,Tucumán,Chocolate,371.6
+2024-02,Tucumán,Dulce de leche granizado,229.5
+2024-02,Tucumán,Frutilla a la crema,302.6
+2024-02,Tucumán,Sambayón,145.0
+2024-02,Tucumán,Limón,216.8
+2024-02,Tucumán,Menta granizada,156.4
+2024-02,Tucumán,Americana,144.0
+2024-02,Tucumán,Banana split,124.9
+2024-02,Tucumán,Tramontana,149.0
+2024-02,Tucumán,Chocolate amargo,133.6
+2024-02,Tucumán,Mascarpone con frutos rojos,166.7
+2024-03,Córdoba,Dulce de leche,1263.2
+2024-03,Córdoba,Chocolate,925.5
+2024-03,Córdoba,Dulce de leche granizado,716.1
+2024-03,Córdoba,Frutilla a la crema,691.1
+2024-03,Córdoba,Sambayón,397.4
+2024-03,Córdoba,Limón,506.6
+2024-03,Córdoba,Menta granizada,364.6
+2024-03,Córdoba,Americana,466.8
+2024-03,Córdoba,Banana split,372.1
+2024-03,Córdoba,Tramontana,418.9
+2024-03,Córdoba,Chocolate amargo,482.1
+2024-03,Córdoba,Mascarpone con frutos rojos,355.1
+2024-03,Buenos Aires,Dulce de leche,712.4
+2024-03,Buenos Aires,Chocolate,595.8
+2024-03,Buenos Aires,Dulce de leche granizado,353.2
+2024-03,Buenos Aires,Frutilla a la crema,335.8
+2024-03,Buenos Aires,Sambayón,209.1
+2024-03,Buenos Aires,Limón,241.2
+2024-03,Buenos Aires,Menta granizada,198.2
+2024-03,Buenos Aires,Americana,227.9
+2024-03,Buenos Aires,Banana split,199.2
+2024-03,Buenos Aires,Tramontana,211.8
+2024-03,Buenos Aires,Chocolate amargo,242.2
+2024-03,Buenos Aires,Mascarpone con frutos rojos,190.2
+2024-03,CABA,Dulce de leche,1201.4
+2024-03,CABA,Chocolate,970.2
+2024-03,CABA,Dulce de leche granizado,687.8
+2024-03,CABA,Frutilla a la crema,615.3
+2024-03,CABA,Sambayón,467.2
+2024-03,CABA,Limón,432.0
+2024-03,CABA,Menta granizada,364.9
+2024-03,CABA,Americana,363.9
+2024-03,CABA,Banana split,424.5
+2024-03,CABA,Tramontana,392.3
+2024-03,CABA,Chocolate amargo,405.3
+2024-03,CABA,Mascarpone con frutos rojos,344.7
+2024-03,Santa Fe,Dulce de leche,623.7
+2024-03,Santa Fe,Chocolate,575.4
+2024-03,Santa Fe,Dulce de leche granizado,394.4
+2024-03,Santa Fe,Frutilla a la crema,277.4
+2024-03,Santa Fe,Sambayón,270.7
+2024-03,Santa Fe,Limón,268.6
+2024-03,Santa Fe,Menta granizada,183.0
+2024-03,Santa Fe,Americana,222.8
+2024-03,Santa Fe,Banana split,197.6
+2024-03,Santa Fe,Tramontana,210.0
+2024-03,Santa Fe,Chocolate amargo,224.1
+2024-03,Santa Fe,Mascarpone con frutos rojos,200.3
+2024-03,Mendoza,Dulce de leche,600.9
+2024-03,Mendoza,Chocolate,432.2
+2024-03,Mendoza,Dulce de leche granizado,364.1
+2024-03,Mendoza,Frutilla a la crema,299.2
+2024-03,Mendoza,Sambayón,206.7
+2024-03,Mendoza,Limón,255.6
+2024-03,Mendoza,Menta granizada,169.6
+2024-03,Mendoza,Americana,224.9
+2024-03,Mendoza,Banana split,182.7
+2024-03,Mendoza,Tramontana,219.3
+2024-03,Mendoza,Chocolate amargo,213.8
+2024-03,Mendoza,Mascarpone con frutos rojos,191.2
+2024-03,Tucumán,Dulce de leche,337.6
+2024-03,Tucumán,Chocolate,283.2
+2024-03,Tucumán,Dulce de leche granizado,217.0
+2024-03,Tucumán,Frutilla a la crema,180.1
+2024-03,Tucumán,Sambayón,123.8
+2024-03,Tucumán,Limón,150.5
+2024-03,Tucumán,Menta granizada,96.2
+2024-03,Tucumán,Americana,118.8
+2024-03,Tucumán,Banana split,83.9
+2024-03,Tucumán,Tramontana,113.6
+2024-03,Tucumán,Chocolate amargo,101.1
+2024-03,Tucumán,Mascarpone con frutos rojos,105.3
+2024-04,Córdoba,Dulce de leche,1070.0
+2024-04,Córdoba,Chocolate,870.8
+2024-04,Córdoba,Dulce de leche granizado,530.7
+2024-04,Córdoba,Frutilla a la crema,538.5
+2024-04,Córdoba,Sambayón,345.1
+2024-04,Córdoba,Limón,368.1
+2024-04,Córdoba,Menta granizada,284.1
+2024-04,Córdoba,Americana,343.9
+2024-04,Córdoba,Banana split,306.9
+2024-04,Córdoba,Tramontana,353.8
+2024-04,Córdoba,Chocolate amargo,302.0
+2024-04,Córdoba,Mascarpone con frutos rojos,268.5
+2024-04,Buenos Aires,Dulce de leche,439.2
+2024-04,Buenos Aires,Chocolate,471.5
+2024-04,Buenos Aires,Dulce de leche granizado,297.6
+2024-04,Buenos Aires,Frutilla a la crema,292.2
+2024-04,Buenos Aires,Sambayón,198.9
+2024-04,Buenos Aires,Limón,240.5
+2024-04,Buenos Aires,Menta granizada,154.5
+2024-04,Buenos Aires,Americana,191.0
+2024-04,Buenos Aires,Banana split,145.3
+2024-04,Buenos Aires,Tramontana,175.1
+2024-04,Buenos Aires,Chocolate amargo,185.0
+2024-04,Buenos Aires,Mascarpone con frutos rojos,137.6
+2024-04,CABA,Dulce de leche,920.7
+2024-04,CABA,Chocolate,763.7
+2024-04,CABA,Dulce de leche granizado,512.1
+2024-04,CABA,Frutilla a la crema,508.7
+2024-04,CABA,Sambayón,286.2
+2024-04,CABA,Limón,320.3
+2024-04,CABA,Menta granizada,263.9
+2024-04,CABA,Americana,303.6
+2024-04,CABA,Banana split,244.8
+2024-04,CABA,Tramontana,261.6
+2024-04,CABA,Chocolate amargo,304.3
+2024-04,CABA,Mascarpone con frutos rojos,263.8
+2024-04,Santa Fe,Dulce de leche,427.4
+2024-04,Santa Fe,Chocolate,417.1
+2024-04,Santa Fe,Dulce de leche granizado,229.3
+2024-04,Santa Fe,Frutilla a la crema,214.8
+2024-04,Santa Fe,Sambayón,159.3
+2024-04,Santa Fe,Limón,188.8
+2024-04,Santa Fe,Menta granizada,119.5
+2024-04,Santa Fe,Americana,157.0
+2024-04,Santa Fe,Banana split,133.3
+2024-04,Santa Fe,Tramontana,146.6
+2024-04,Santa Fe,Chocolate amargo,144.5
+2024-04,Santa Fe,Mascarpone con frutos rojos,133.1
+2024-04,Mendoza,Dulce de leche,405.9
+2024-04,Mendoza,Chocolate,367.2
+2024-04,Mendoza,Dulce de leche granizado,245.9
+2024-04,Mendoza,Frutilla a la crema,224.0
+2024-04,Mendoza,Sambayón,146.8
+2024-04,Mendoza,Limón,174.6
+2024-04,Mendoza,Menta granizada,136.5
+2024-04,Mendoza,Americana,139.6
+2024-04,Mendoza,Banana split,118.7
+2024-04,Mendoza,Tramontana,149.9
+2024-04,Mendoza,Chocolate amargo,158.5
+2024-04,Mendoza,Mascarpone con frutos rojos,138.3
+2024-04,Tucumán,Dulce de leche,234.2
+2024-04,Tucumán,Chocolate,207.0
+2024-04,Tucumán,Dulce de leche granizado,139.2
+2024-04,Tucumán,Frutilla a la crema,138.8
+2024-04,Tucumán,Sambayón,86.3
+2024-04,Tucumán,Limón,97.8
+2024-04,Tucumán,Menta granizada,66.1
+2024-04,Tucumán,Americana,79.4
+2024-04,Tucumán,Banana split,71.8
+2024-04,Tucumán,Tramontana,86.8
+2024-04,Tucumán,Chocolate amargo,89.4
+2024-04,Tucumán,Mascarpone con frutos rojos,70.9
+2024-05,Córdoba,Dulce de leche,770.2
+2024-05,Córdoba,Chocolate,667.9
+2024-05,Córdoba,Dulce de leche granizado,421.3
+2024-05,Córdoba,Frutilla a la crema,356.0
+2024-05,Córdoba,Sambayón,249.9
+2024-05,Córdoba,Limón,299.4
+2024-05,Córdoba,Menta granizada,210.5
+2024-05,Córdoba,Americana,238.3
+2024-05,Córdoba,Banana split,217.4
+2024-05,Córdoba,Tramontana,264.0
+2024-05,Córdoba,Chocolate amargo,243.3
+2024-05,Córdoba,Mascarpone con frutos rojos,234.9
+2024-05,Buenos Aires,Dulce de leche,351.6
+2024-05,Buenos Aires,Chocolate,307.5
+2024-05,Buenos Aires,Dulce de leche granizado,223.4
+2024-05,Buenos Aires,Frutilla a la crema,164.9
+2024-05,Buenos Aires,Sambayón,146.6
+2024-05,Buenos Aires,Limón,118.7
+2024-05,Buenos Aires,Menta granizada,98.5
+2024-05,Buenos Aires,Americana,148.4
+2024-05,Buenos Aires,Banana split,108.0
+2024-05,Buenos Aires,Tramontana,141.6
+2024-05,Buenos Aires,Chocolate amargo,120.4
+2024-05,Buenos Aires,Mascarpone con frutos rojos,99.5
+2024-05,CABA,Dulce de leche,680.3
+2024-05,CABA,Chocolate,497.1
+2024-05,CABA,Dulce de leche granizado,374.2
+2024-05,CABA,Frutilla a la crema,370.4
+2024-05,CABA,Sambayón,205.3
+2024-05,CABA,Limón,233.8
+2024-05,CABA,Menta granizada,189.4
+2024-05,CABA,Americana,229.7
+2024-05,CABA,Banana split,175.0
+2024-05,CABA,Tramontana,192.8
+2024-05,CABA,Chocolate amargo,208.8
+2024-05,CABA,Mascarpone con frutos rojos,207.1
+2024-05,Santa Fe,Dulce de leche,299.9
+2024-05,Santa Fe,Chocolate,236.5
+2024-05,Santa Fe,Dulce de leche granizado,227.5
+2024-05,Santa Fe,Frutilla a la crema,164.9
+2024-05,Santa Fe,Sambayón,119.7
+2024-05,Santa Fe,Limón,138.4
+2024-05,Santa Fe,Menta granizada,106.2
+2024-05,Santa Fe,Americana,122.1
+2024-05,Santa Fe,Banana split,110.5
+2024-05,Santa Fe,Tramontana,105.2
+2024-05,Santa Fe,Chocolate amargo,106.6
+2024-05,Santa Fe,Mascarpone con frutos rojos,84.5
+2024-05,Mendoza,Dulce de leche,298.9
+2024-05,Mendoza,Chocolate,240.4
+2024-05,Mendoza,Dulce de leche granizado,162.3
+2024-05,Mendoza,Frutilla a la crema,163.6
+2024-05,Mendoza,Sambayón,91.2
+2024-05,Mendoza,Limón,108.6
+2024-05,Mendoza,Menta granizada,86.9
+2024-05,Mendoza,Americana,99.5
+2024-05,Mendoza,Banana split,81.5
+2024-05,Mendoza,Tramontana,99.7
+2024-05,Mendoza,Chocolate amargo,106.9
+2024-05,Mendoza,Mascarpone con frutos rojos,78.5
+2024-05,Tucumán,Dulce de leche,197.4
+2024-05,Tucumán,Chocolate,160.4
+2024-05,Tucumán,Dulce de leche granizado,129.2
+2024-05,Tucumán,Frutilla a la crema,110.0
+2024-05,Tucumán,Sambayón,67.4
+2024-05,Tucumán,Limón,71.7
+2024-05,Tucumán,Menta granizada,50.6
+2024-05,Tucumán,Americana,63.9
+2024-05,Tucumán,Banana split,49.1
+2024-05,Tucumán,Tramontana,61.1
+2024-05,Tucumán,Chocolate amargo,63.0
+2024-05,Tucumán,Mascarpone con frutos rojos,51.7
+2024-06,Córdoba,Dulce de leche,638.0
+2024-06,Córdoba,Chocolate,410.6
+2024-06,Córdoba,Dulce de leche granizado,321.0
+2024-06,Córdoba,Frutilla a la crema,304.1
+2024-06,Córdoba,Sambayón,195.9
+2024-06,Córdoba,Limón,209.7
+2024-06,Córdoba,Menta granizada,162.8
+2024-06,Córdoba,Americana,216.4
+2024-06,Córdoba,Banana split,147.2
+2024-06,Córdoba,Tramontana,143.5
+2024-06,Córdoba,Chocolate amargo,204.2
+2024-06,Córdoba,Mascarpone con frutos rojos,167.1
+2024-06,Buenos Aires,Dulce de leche,300.6
+2024-06,Buenos Aires,Chocolate,185.5
+2024-06,Buenos Aires,Dulce de leche granizado,167.9
+2024-06,Buenos Aires,Frutilla a la crema,147.3
+2024-06,Buenos Aires,Sambayón,89.7
+2024-06,Buenos Aires,Limón,118.0
+2024-06,Buenos Aires,Menta granizada,86.1
+2024-06,Buenos Aires,Americana,93.0
+2024-06,Buenos Aires,Banana split,90.5
+2024-06,Buenos Aires,Tramontana,98.0
+2024-06,Buenos Aires,Chocolate amargo,77.6
+2024-06,Buenos Aires,Mascarpone con frutos rojos,68.7
+2024-06,CABA,Dulce de leche,528.4
+2024-06,CABA,Chocolate,369.4
+2024-06,CABA,Dulce de leche granizado,300.0
+2024-06,CABA,Frutilla a la crema,273.3
+2024-06,CABA,Sambayón,165.7
+2024-06,CABA,Limón,220.8
+2024-06,CABA,Menta granizada,142.4
+2024-06,CABA,Americana,176.5
+2024-06,CABA,Banana split,142.6
+2024-06,CABA,Tramontana,178.6
+2024-06,CABA,Chocolate amargo,162.2
+2024-06,CABA,Mascarpone con frutos rojos,129.6
+2024-06,Santa Fe,Dulce de leche,254.8
+2024-06,Santa Fe,Chocolate,222.9
+2024-06,Santa Fe,Dulce de leche granizado,134.7
+2024-06,Santa Fe,Frutilla a la crema,124.5
+2024-06,Santa Fe,Sambayón,89.9
+2024-06,Santa Fe,Limón,99.4
+2024-06,Santa Fe,Menta granizada,65.3
+2024-06,Santa Fe,Americana,77.7
+2024-06,Santa Fe,Banana split,69.6
+2024-06,Santa Fe,Tramontana,86.2
+2024-06,Santa Fe,Chocolate amargo,87.9
+2024-06,Santa Fe,Mascarpone con frutos rojos,69.0
+2024-06,Mendoza,Dulce de leche,221.7
+2024-06,Mendoza,Chocolate,160.7
+2024-06,Mendoza,Dulce de leche granizado,134.2
+2024-06,Mendoza,Frutilla a la crema,130.9
+2024-06,Mendoza,Sambayón,71.5
+2024-06,Mendoza,Limón,77.6
+2024-06,Mendoza,Menta granizada,56.2
+2024-06,Mendoza,Americana,78.9
+2024-06,Mendoza,Banana split,57.2
+2024-06,Mendoza,Tramontana,83.3
+2024-06,Mendoza,Chocolate amargo,74.0
+2024-06,Mendoza,Mascarpone con frutos rojos,68.4
+2024-06,Tucumán,Dulce de leche,122.7
+2024-06,Tucumán,Chocolate,116.6
+2024-06,Tucumán,Dulce de leche granizado,87.9
+2024-06,Tucumán,Frutilla a la crema,64.5
+2024-06,Tucumán,Sambayón,43.7
+2024-06,Tucumán,Limón,52.6
+2024-06,Tucumán,Menta granizada,33.3
+2024-06,Tucumán,Americana,39.8
+2024-06,Tucumán,Banana split,40.6
+2024-06,Tucumán,Tramontana,41.9
+2024-06,Tucumán,Chocolate amargo,45.7
+2024-06,Tucumán,Mascarpone con frutos rojos,39.1
+2024-07,Córdoba,Dulce de leche,749.9
+2024-07,Córdoba,Chocolate,621.8
+2024-07,Córdoba,Dulce de leche granizado,361.7
+2024-07,Córdoba,Frutilla a la crema,345.7
+2024-07,Córdoba,Sambayón,230.0
+2024-07,Córdoba,Limón,281.9
+2024-07,Córdoba,Menta granizada,183.2
+2024-07,Córdoba,Americana,224.4
+2024-07,Córdoba,Banana split,195.0
+2024-07,Córdoba,Tramontana,216.8
+2024-07,Córdoba,Chocolate amargo,230.5
+2024-07,Córdoba,Mascarpone con frutos rojos,214.5
+2024-07,Buenos Aires,Dulce de leche,457.3
+2024-07,Buenos Aires,Chocolate,425.9
+2024-07,Buenos Aires,Dulce de leche granizado,253.5
+2024-07,Buenos Aires,Frutilla a la crema,229.6
+2024-07,Buenos Aires,Sambayón,143.6
+2024-07,Buenos Aires,Limón,192.1
+2024-07,Buenos Aires,Menta granizada,138.7
+2024-07,Buenos Aires,Americana,159.0
+2024-07,Buenos Aires,Banana split,137.6
+2024-07,Buenos Aires,Tramontana,185.9
+2024-07,Buenos Aires,Chocolate amargo,185.3
+2024-07,Buenos Aires,Mascarpone con frutos rojos,145.0
+2024-07,CABA,Dulce de leche,579.7
+2024-07,CABA,Chocolate,487.5
+2024-07,CABA,Dulce de leche granizado,305.9
+2024-07,CABA,Frutilla a la crema,294.7
+2024-07,CABA,Sambayón,201.7
+2024-07,CABA,Limón,179.5
+2024-07,CABA,Menta granizada,156.7
+2024-07,CABA,Americana,191.5
+2024-07,CABA,Banana split,151.0
+2024-07,CABA,Tramontana,170.1
+2024-07,CABA,Chocolate amargo,174.6
+2024-07,CABA,Mascarpone con frutos rojos,162.8
+2024-07,Santa Fe,Dulce de leche,260.6
+2024-07,Santa Fe,Chocolate,247.0
+2024-07,Santa Fe,Dulce de leche granizado,157.6
+2024-07,Santa Fe,Frutilla a la crema,124.6
+2024-07,Santa Fe,Sambayón,104.1
+2024-07,Santa Fe,Limón,106.9
+2024-07,Santa Fe,Menta granizada,85.4
+2024-07,Santa Fe,Americana,100.9
+2024-07,Santa Fe,Banana split,77.6
+2024-07,Santa Fe,Tramontana,91.2
+2024-07,Santa Fe,Chocolate amargo,90.8
+2024-07,Santa Fe,Mascarpone con frutos rojos,80.3
+2024-07,Mendoza,Dulce de leche,242.2
+2024-07,Mendoza,Chocolate,197.0
+2024-07,Mendoza,Dulce de leche granizado,165.0
+2024-07,Mendoza,Frutilla a la crema,101.8
+2024-07,Mendoza,Sambayón,98.4
+2024-07,Mendoza,Limón,96.0
+2024-07,Mendoza,Menta granizada,70.1
+2024-07,Mendoza,Americana,76.8
+2024-07,Mendoza,Banana split,67.3
+2024-07,Mendoza,Tramontana,77.3
+2024-07,Mendoza,Chocolate amargo,92.3
+2024-07,Mendoza,Mascarpone con frutos rojos,76.2
+2024-07,Tucumán,Dulce de leche,150.0
+2024-07,Tucumán,Chocolate,130.5
+2024-07,Tucumán,Dulce de leche granizado,88.0
+2024-07,Tucumán,Frutilla a la crema,75.4
+2024-07,Tucumán,Sambayón,55.9
+2024-07,Tucumán,Limón,66.1
+2024-07,Tucumán,Menta granizada,45.4
+2024-07,Tucumán,Americana,48.1
+2024-07,Tucumán,Banana split,52.5
+2024-07,Tucumán,Tramontana,49.8
+2024-07,Tucumán,Chocolate amargo,49.3
+2024-07,Tucumán,Mascarpone con frutos rojos,42.9
+2024-08,Córdoba,Dulce de leche,567.2
+2024-08,Córdoba,Chocolate,498.6
+2024-08,Córdoba,Dulce de leche granizado,372.7
+2024-08,Córdoba,Frutilla a la crema,339.3
+2024-08,Córdoba,Sambayón,218.7
+2024-08,Córdoba,Limón,220.7
+2024-08,Córdoba,Menta granizada,183.8
+2024-08,Córdoba,Americana,233.2
+2024-08,Córdoba,Banana split,198.5
+2024-08,Córdoba,Tramontana,230.7
+2024-08,Córdoba,Chocolate amargo,215.9
+2024-08,Córdoba,Mascarpone con frutos rojos,174.8
+2024-08,Buenos Aires,Dulce de leche,435.4
+2024-08,Buenos Aires,Chocolate,368.3
+2024-08,Buenos Aires,Dulce de leche granizado,285.4
+2024-08,Buenos Aires,Frutilla a la crema,234.2
+2024-08,Buenos Aires,Sambayón,163.2
+2024-08,Buenos Aires,Limón,174.1
+2024-08,Buenos Aires,Menta granizada,129.5
+2024-08,Buenos Aires,Americana,149.7
+2024-08,Buenos Aires,Banana split,121.9
+2024-08,Buenos Aires,Tramontana,136.9
+2024-08,Buenos Aires,Chocolate amargo,169.2
+2024-08,Buenos Aires,Mascarpone con frutos rojos,145.9
+2024-08,CABA,Dulce de leche,574.9
+2024-08,CABA,Chocolate,464.3
+2024-08,CABA,Dulce de leche granizado,329.9
+2024-08,CABA,Frutilla a la crema,283.9
+2024-08,CABA,Sambayón,189.3
+2024-08,CABA,Limón,210.6
+2024-08,CABA,Menta granizada,132.7
+2024-08,CABA,Americana,177.6
+2024-08,CABA,Banana split,172.8
+2024-08,CABA,Tramontana,206.8
+2024-08,CABA,Chocolate amargo,176.9
+2024-08,CABA,Mascarpone con frutos rojos,143.6
+2024-08,Santa Fe,Dulce de leche,236.3
+2024-08,Santa Fe,Chocolate,218.6
+2024-08,Santa Fe,Dulce de leche granizado,163.1
+2024-08,Santa Fe,Frutilla a la crema,135.5
+2024-08,Santa Fe,Sambayón,101.6
+2024-08,Santa Fe,Limón,117.5
+2024-08,Santa Fe,Menta granizada,81.2
+2024-08,Santa Fe,Americana,90.0
+2024-08,Santa Fe,Banana split,74.6
+2024-08,Santa Fe,Tramontana,102.9
+2024-08,Santa Fe,Chocolate amargo,84.7
+2024-08,Santa Fe,Mascarpone con frutos rojos,80.8
+2024-08,Mendoza,Dulce de leche,233.1
+2024-08,Mendoza,Chocolate,192.1
+2024-08,Mendoza,Dulce de leche granizado,135.0
+2024-08,Mendoza,Frutilla a la crema,147.7
+2024-08,Mendoza,Sambayón,81.6
+2024-08,Mendoza,Limón,113.4
+2024-08,Mendoza,Menta granizada,72.9
+2024-08,Mendoza,Americana,69.0
+2024-08,Mendoza,Banana split,66.0
+2024-08,Mendoza,Tramontana,88.3
+2024-08,Mendoza,Chocolate amargo,75.9
+2024-08,Mendoza,Mascarpone con frutos rojos,60.2
+2024-08,Tucumán,Dulce de leche,152.4
+2024-08,Tucumán,Chocolate,123.1
+2024-08,Tucumán,Dulce de leche granizado,90.0
+2024-08,Tucumán,Frutilla a la crema,93.9
+2024-08,Tucumán,Sambayón,58.8
+2024-08,Tucumán,Limón,65.8
+2024-08,Tucumán,Menta granizada,46.1
+2024-08,Tucumán,Americana,73.3
+2024-08,Tucumán,Banana split,48.7
+2024-08,Tucumán,Tramontana,59.2
+2024-08,Tucumán,Chocolate amargo,57.6
+2024-08,Tucumán,Mascarpone con frutos rojos,49.0
+2024-09,Córdoba,Dulce de leche,823.6
+2024-09,Córdoba,Chocolate,748.5
+2024-09,Córdoba,Dulce de leche granizado,466.3
+2024-09,Córdoba,Frutilla a la crema,414.6
+2024-09,Córdoba,Sambayón,316.3
+2024-09,Córdoba,Limón,336.9
+2024-09,Córdoba,Menta granizada,236.6
+2024-09,Córdoba,Americana,259.3
+2024-09,Córdoba,Banana split,256.6
+2024-09,Córdoba,Tramontana,284.1
+2024-09,Córdoba,Chocolate amargo,312.8
+2024-09,Córdoba,Mascarpone con frutos rojos,203.5
+2024-09,Buenos Aires,Dulce de leche,515.9
+2024-09,Buenos Aires,Chocolate,422.8
+2024-09,Buenos Aires,Dulce de leche granizado,369.0
+2024-09,Buenos Aires,Frutilla a la crema,331.6
+2024-09,Buenos Aires,Sambayón,231.9
+2024-09,Buenos Aires,Limón,226.4
+2024-09,Buenos Aires,Menta granizada,169.1
+2024-09,Buenos Aires,Americana,187.5
+2024-09,Buenos Aires,Banana split,179.5
+2024-09,Buenos Aires,Tramontana,201.7
+2024-09,Buenos Aires,Chocolate amargo,170.1
+2024-09,Buenos Aires,Mascarpone con frutos rojos,176.8
+2024-09,CABA,Dulce de leche,841.1
+2024-09,CABA,Chocolate,584.6
+2024-09,CABA,Dulce de leche granizado,437.6
+2024-09,CABA,Frutilla a la crema,402.0
+2024-09,CABA,Sambayón,263.5
+2024-09,CABA,Limón,312.2
+2024-09,CABA,Menta granizada,259.7
+2024-09,CABA,Americana,241.3
+2024-09,CABA,Banana split,219.2
+2024-09,CABA,Tramontana,258.7
+2024-09,CABA,Chocolate amargo,288.1
+2024-09,CABA,Mascarpone con frutos rojos,215.3
+2024-09,Santa Fe,Dulce de leche,348.9
+2024-09,Santa Fe,Chocolate,333.9
+2024-09,Santa Fe,Dulce de leche granizado,233.4
+2024-09,Santa Fe,Frutilla a la crema,182.9
+2024-09,Santa Fe,Sambayón,132.4
+2024-09,Santa Fe,Limón,153.1
+2024-09,Santa Fe,Menta granizada,115.2
+2024-09,Santa Fe,Americana,134.5
+2024-09,Santa Fe,Banana split,109.9
+2024-09,Santa Fe,Tramontana,130.3
+2024-09,Santa Fe,Chocolate amargo,127.6
+2024-09,Santa Fe,Mascarpone con frutos rojos,115.0
+2024-09,Mendoza,Dulce de leche,309.9
+2024-09,Mendoza,Chocolate,270.1
+2024-09,Mendoza,Dulce de leche granizado,213.8
+2024-09,Mendoza,Frutilla a la crema,174.2
+2024-09,Mendoza,Sambayón,109.4
+2024-09,Mendoza,Limón,151.9
+2024-09,Mendoza,Menta granizada,98.9
+2024-09,Mendoza,Americana,125.8
+2024-09,Mendoza,Banana split,107.8
+2024-09,Mendoza,Tramontana,110.7
+2024-09,Mendoza,Chocolate amargo,113.0
+2024-09,Mendoza,Mascarpone con frutos rojos,100.8
+2024-09,Tucumán,Dulce de leche,177.6
+2024-09,Tucumán,Chocolate,160.4
+2024-09,Tucumán,Dulce de leche granizado,104.1
+2024-09,Tucumán,Frutilla a la crema,112.6
+2024-09,Tucumán,Sambayón,68.1
+2024-09,Tucumán,Limón,77.2
+2024-09,Tucumán,Menta granizada,61.9
+2024-09,Tucumán,Americana,69.5
+2024-09,Tucumán,Banana split,66.0
+2024-09,Tucumán,Tramontana,71.4
+2024-09,Tucumán,Chocolate amargo,76.6
+2024-09,Tucumán,Mascarpone con frutos rojos,56.4
+2024-10,Córdoba,Dulce de leche,937.9
+2024-10,Córdoba,Chocolate,860.3
+2024-10,Córdoba,Dulce de leche granizado,640.8
+2024-10,Córdoba,Frutilla a la crema,580.0
+2024-10,Córdoba,Sambayón,374.9
+2024-10,Córdoba,Limón,426.3
+2024-10,Córdoba,Menta granizada,301.6
+2024-10,Córdoba,Americana,332.2
+2024-10,Córdoba,Banana split,305.2
+2024-10,Córdoba,Tramontana,380.4
+2024-10,Córdoba,Chocolate amargo,324.4
+2024-10,Córdoba,Mascarpone con frutos rojos,338.5
+2024-10,Buenos Aires,Dulce de leche,805.7
+2024-10,Buenos Aires,Chocolate,611.8
+2024-10,Buenos Aires,Dulce de leche granizado,541.9
+2024-10,Buenos Aires,Frutilla a la crema,388.6
+2024-10,Buenos Aires,Sambayón,305.1
+2024-10,Buenos Aires,Limón,299.7
+2024-10,Buenos Aires,Menta granizada,257.6
+2024-10,Buenos Aires,Americana,282.5
+2024-10,Buenos Aires,Banana split,227.4
+2024-10,Buenos Aires,Tramontana,286.7
+2024-10,Buenos Aires,Chocolate amargo,297.3
+2024-10,Buenos Aires,Mascarpone con frutos rojos,246.6
+2024-10,CABA,Dulce de leche,890.4
+2024-10,CABA,Chocolate,865.2
+2024-10,CABA,Dulce de leche granizado,624.8
+2024-10,CABA,Frutilla a la crema,506.7
+2024-10,CABA,Sambayón,314.4
+2024-10,CABA,Limón,465.2
+2024-10,CABA,Menta granizada,282.9
+2024-10,CABA,Americana,348.4
+2024-10,CABA,Banana split,295.7
+2024-10,CABA,Tramontana,419.9
+2024-10,CABA,Chocolate amargo,320.6
+2024-10,CABA,Mascarpone con frutos rojos,273.6
+2024-10,Santa Fe,Dulce de leche,528.9
+2024-10,Santa Fe,Chocolate,383.1
+2024-10,Santa Fe,Dulce de leche granizado,357.6
+2024-10,Santa Fe,Frutilla a la crema,281.1
+2024-10,Santa Fe,Sambayón,150.7
+2024-10,Santa Fe,Limón,185.1
+2024-10,Santa Fe,Menta granizada,167.5
+2024-10,Santa Fe,Americana,197.3
+2024-10,Santa Fe,Banana split,153.7
+2024-10,Santa Fe,Tramontana,201.4
+2024-10,Santa Fe,Chocolate amargo,163.9
+2024-10,Santa Fe,Mascarpone con frutos rojos,154.7
+2024-10,Mendoza,Dulce de leche,472.7
+2024-10,Mendoza,Chocolate,425.4
+2024-10,Mendoza,Dulce de leche granizado,257.2
+2024-10,Mendoza,Frutilla a la crema,253.0
+2024-10,Mendoza,Sambayón,153.8
+2024-10,Mendoza,Limón,169.2
+2024-10,Mendoza,Menta granizada,130.8
+2024-10,Mendoza,Americana,164.7
+2024-10,Mendoza,Banana split,151.0
+2024-10,Mendoza,Tramontana,158.8
+2024-10,Mendoza,Chocolate amargo,145.8
+2024-10,Mendoza,Mascarpone con frutos rojos,141.3
+2024-10,Tucumán,Dulce de leche,238.2
+2024-10,Tucumán,Chocolate,238.1
+2024-10,Tucumán,Dulce de leche granizado,155.7
+2024-10,Tucumán,Frutilla a la crema,130.2
+2024-10,Tucumán,Sambayón,100.5
+2024-10,Tucumán,Limón,111.9
+2024-10,Tucumán,Menta granizada,81.3
+2024-10,Tucumán,Americana,110.0
+2024-10,Tucumán,Banana split,72.6
+2024-10,Tucumán,Tramontana,100.0
+2024-10,Tucumán,Chocolate amargo,95.2
+2024-10,Tucumán,Mascarpone con frutos rojos,81.3
+2024-11,Córdoba,Dulce de leche,1261.7
+2024-11,Córdoba,Chocolate,1017.4
+2024-11,Córdoba,Dulce de leche granizado,810.6
+2024-11,Córdoba,Frutilla a la crema,718.2
+2024-11,Córdoba,Sambayón,415.6
+2024-11,Córdoba,Limón,499.0
+2024-11,Córdoba,Menta granizada,352.4
+2024-11,Córdoba,Americana,499.8
+2024-11,Córdoba,Banana split,422.3
+2024-11,Córdoba,Tramontana,464.1
+2024-11,Córdoba,Chocolate amargo,430.8
+2024-11,Córdoba,Mascarpone con frutos rojos,391.5
+2024-11,Buenos Aires,Dulce de leche,1044.7
+2024-11,Buenos Aires,Chocolate,795.8
+2024-11,Buenos Aires,Dulce de leche granizado,660.5
+2024-11,Buenos Aires,Frutilla a la crema,562.9
+2024-11,Buenos Aires,Sambayón,394.2
+2024-11,Buenos Aires,Limón,480.6
+2024-11,Buenos Aires,Menta granizada,298.7
+2024-11,Buenos Aires,Americana,368.6
+2024-11,Buenos Aires,Banana split,303.7
+2024-11,Buenos Aires,Tramontana,331.2
+2024-11,Buenos Aires,Chocolate amargo,349.2
+2024-11,Buenos Aires,Mascarpone con frutos rojos,309.6
+2024-11,CABA,Dulce de leche,1454.5
+2024-11,CABA,Chocolate,1093.5
+2024-11,CABA,Dulce de leche granizado,788.8
+2024-11,CABA,Frutilla a la crema,742.4
+2024-11,CABA,Sambayón,450.7
+2024-11,CABA,Limón,562.3
+2024-11,CABA,Menta granizada,373.4
+2024-11,CABA,Americana,456.2
+2024-11,CABA,Banana split,330.3
+2024-11,CABA,Tramontana,471.0
+2024-11,CABA,Chocolate amargo,452.5
+2024-11,CABA,Mascarpone con frutos rojos,413.9
+2024-11,Santa Fe,Dulce de leche,696.2
+2024-11,Santa Fe,Chocolate,551.3
+2024-11,Santa Fe,Dulce de leche granizado,394.3
+2024-11,Santa Fe,Frutilla a la crema,366.0
+2024-11,Santa Fe,Sambayón,251.8
+2024-11,Santa Fe,Limón,320.4
+2024-11,Santa Fe,Menta granizada,224.5
+2024-11,Santa Fe,Americana,251.4
+2024-11,Santa Fe,Banana split,204.3
+2024-11,Santa Fe,Tramontana,245.3
+2024-11,Santa Fe,Chocolate amargo,268.7
+2024-11,Santa Fe,Mascarpone con frutos rojos,208.0
+2024-11,Mendoza,Dulce de leche,549.4
+2024-11,Mendoza,Chocolate,528.5
+2024-11,Mendoza,Dulce de leche granizado,351.7
+2024-11,Mendoza,Frutilla a la crema,318.6
+2024-11,Mendoza,Sambayón,208.1
+2024-11,Mendoza,Limón,272.5
+2024-11,Mendoza,Menta granizada,189.1
+2024-11,Mendoza,Americana,217.2
+2024-11,Mendoza,Banana split,152.4
+2024-11,Mendoza,Tramontana,237.2
+2024-11,Mendoza,Chocolate amargo,222.1
+2024-11,Mendoza,Mascarpone con frutos rojos,158.4
+2024-11,Tucumán,Dulce de leche,354.6
+2024-11,Tucumán,Chocolate,296.9
+2024-11,Tucumán,Dulce de leche granizado,196.5
+2024-11,Tucumán,Frutilla a la crema,194.6
+2024-11,Tucumán,Sambayón,109.6
+2024-11,Tucumán,Limón,133.1
+2024-11,Tucumán,Menta granizada,112.5
+2024-11,Tucumán,Americana,120.0
+2024-11,Tucumán,Banana split,94.4
+2024-11,Tucumán,Tramontana,108.6
+2024-11,Tucumán,Chocolate amargo,122.2
+2024-11,Tucumán,Mascarpone con frutos rojos,109.1
+2024-12,Córdoba,Dulce de leche,1704.1
+2024-12,Córdoba,Chocolate,1217.7
+2024-12,Córdoba,Dulce de leche granizado,908.6
+2024-12,Córdoba,Frutilla a la crema,1056.2
+2024-12,Córdoba,Sambayón,533.1
+2024-12,Córdoba,Limón,930.4
+2024-12,Córdoba,Menta granizada,649.5
+2024-12,Córdoba,Americana,491.2
+2024-12,Córdoba,Banana split,459.8
+2024-12,Córdoba,Tramontana,532.2
+2024-12,Córdoba,Chocolate amargo,549.7
+2024-12,Córdoba,Mascarpone con frutos rojos,545.5
+2024-12,Buenos Aires,Dulce de leche,1305.3
+2024-12,Buenos Aires,Chocolate,971.5
+2024-12,Buenos Aires,Dulce de leche granizado,719.4
+2024-12,Buenos Aires,Frutilla a la crema,872.1
+2024-12,Buenos Aires,Sambayón,461.3
+2024-12,Buenos Aires,Limón,693.2
+2024-12,Buenos Aires,Menta granizada,474.8
+2024-12,Buenos Aires,Americana,430.2
+2024-12,Buenos Aires,Banana split,482.5
+2024-12,Buenos Aires,Tramontana,419.0
+2024-12,Buenos Aires,Chocolate amargo,458.7
+2024-12,Buenos Aires,Mascarpone con frutos rojos,479.7
+2024-12,CABA,Dulce de leche,1690.0
+2024-12,CABA,Chocolate,1359.3
+2024-12,CABA,Dulce de leche granizado,880.5
+2024-12,CABA,Frutilla a la crema,1275.6
+2024-12,CABA,Sambayón,491.8
+2024-12,CABA,Limón,815.5
+2024-12,CABA,Menta granizada,641.9
+2024-12,CABA,Americana,440.4
+2024-12,CABA,Banana split,444.6
+2024-12,CABA,Tramontana,498.2
+2024-12,CABA,Chocolate amargo,568.3
+2024-12,CABA,Mascarpone con frutos rojos,596.8
+2024-12,Santa Fe,Dulce de leche,832.4
+2024-12,Santa Fe,Chocolate,652.9
+2024-12,Santa Fe,Dulce de leche granizado,452.8
+2024-12,Santa Fe,Frutilla a la crema,496.5
+2024-12,Santa Fe,Sambayón,302.4
+2024-12,Santa Fe,Limón,450.0
+2024-12,Santa Fe,Menta granizada,356.5
+2024-12,Santa Fe,Americana,280.5
+2024-12,Santa Fe,Banana split,203.4
+2024-12,Santa Fe,Tramontana,251.6
+2024-12,Santa Fe,Chocolate amargo,297.0
+2024-12,Santa Fe,Mascarpone con frutos rojos,311.6
+2024-12,Mendoza,Dulce de leche,682.2
+2024-12,Mendoza,Chocolate,733.0
+2024-12,Mendoza,Dulce de leche granizado,384.8
+2024-12,Mendoza,Frutilla a la crema,511.2
+2024-12,Mendoza,Sambayón,282.5
+2024-12,Mendoza,Limón,347.5
+2024-12,Mendoza,Menta granizada,297.0
+2024-12,Mendoza,Americana,259.1
+2024-12,Mendoza,Banana split,249.4
+2024-12,Mendoza,Tramontana,266.1
+2024-12,Mendoza,Chocolate amargo,199.8
+2024-12,Mendoza,Mascarpone con frutos rojos,281.5
+2024-12,Tucumán,Dulce de leche,422.6
+2024-12,Tucumán,Chocolate,360.4
+2024-12,Tucumán,Dulce de leche granizado,219.0
+2024-12,Tucumán,Frutilla a la crema,306.2
+2024-12,Tucumán,Sambayón,165.4
+2024-12,Tucumán,Limón,259.9
+2024-12,Tucumán,Menta granizada,167.2
+2024-12,Tucumán,Americana,164.1
+2024-12,Tucumán,Banana split,128.5
+2024-12,Tucumán,Tramontana,117.1
+2024-12,Tucumán,Chocolate amargo,153.2
+2024-12,Tucumán,Mascarpone con frutos rojos,144.4
+2025-01,Córdoba,Dulce de leche,1811.1
+2025-01,Córdoba,Chocolate,1382.6
+2025-01,Córdoba,Dulce de leche granizado,1018.9
+2025-01,Córdoba,Frutilla a la crema,1339.1
+2025-01,Córdoba,Sambayón,625.4
+2025-01,Córdoba,Limón,891.6
+2025-01,Córdoba,Menta granizada,796.2
+2025-01,Córdoba,Americana,515.9
+2025-01,Córdoba,Banana split,509.9
+2025-01,Córdoba,Tramontana,658.0
+2025-01,Córdoba,Chocolate amargo,501.7
+2025-01,Córdoba,Mascarpone con frutos rojos,731.5
+2025-01,Buenos Aires,Dulce de leche,1579.2
+2025-01,Buenos Aires,Chocolate,1517.3
+2025-01,Buenos Aires,Dulce de leche granizado,1088.3
+2025-01,Buenos Aires,Frutilla a la crema,1168.7
+2025-01,Buenos Aires,Sambayón,592.6
+2025-01,Buenos Aires,Limón,869.9
+2025-01,Buenos Aires,Menta granizada,724.8
+2025-01,Buenos Aires,Americana,658.5
+2025-01,Buenos Aires,Banana split,520.5
+2025-01,Buenos Aires,Tramontana,623.9
+2025-01,Buenos Aires,Chocolate amargo,404.6
+2025-01,Buenos Aires,Mascarpone con frutos rojos,691.8
+2025-01,CABA,Dulce de leche,1332.5
+2025-01,CABA,Chocolate,1283.2
+2025-01,CABA,Dulce de leche granizado,961.5
+2025-01,CABA,Frutilla a la crema,1116.6
+2025-01,CABA,Sambayón,602.1
+2025-01,CABA,Limón,860.7
+2025-01,CABA,Menta granizada,658.4
+2025-01,CABA,Americana,572.5
+2025-01,CABA,Banana split,489.1
+2025-01,CABA,Tramontana,588.3
+2025-01,CABA,Chocolate amargo,560.8
+2025-01,CABA,Mascarpone con frutos rojos,608.1
+2025-01,Santa Fe,Dulce de leche,853.1
+2025-01,Santa Fe,Chocolate,740.4
+2025-01,Santa Fe,Dulce de leche granizado,473.4
+2025-01,Santa Fe,Frutilla a la crema,578.7
+2025-01,Santa Fe,Sambayón,302.1
+2025-01,Santa Fe,Limón,489.3
+2025-01,Santa Fe,Menta granizada,315.5
+2025-01,Santa Fe,Americana,361.2
+2025-01,Santa Fe,Banana split,222.9
+2025-01,Santa Fe,Tramontana,303.2
+2025-01,Santa Fe,Chocolate amargo,271.4
+2025-01,Santa Fe,Mascarpone con frutos rojos,298.1
+2025-01,Mendoza,Dulce de leche,837.9
+2025-01,Mendoza,Chocolate,668.8
+2025-01,Mendoza,Dulce de leche granizado,441.5
+2025-01,Mendoza,Frutilla a la crema,527.8
+2025-01,Mendoza,Sambayón,281.4
+2025-01,Mendoza,Limón,449.0
+2025-01,Mendoza,Menta granizada,337.6
+2025-01,Mendoza,Americana,261.3
+2025-01,Mendoza,Banana split,253.2
+2025-01,Mendoza,Tramontana,232.3
+2025-01,Mendoza,Chocolate amargo,276.5
+2025-01,Mendoza,Mascarpone con frutos rojos,302.7
+2025-01,Tucumán,Dulce de leche,459.1
+2025-01,Tucumán,Chocolate,371.0
+2025-01,Tucumán,Dulce de leche granizado,260.6
+2025-01,Tucumán,Frutilla a la crema,242.8
+2025-01,Tucumán,Sambayón,162.3
+2025-01,Tucumán,Limón,215.0
+2025-01,Tucumán,Menta granizada,165.7
+2025-01,Tucumán,Americana,135.2
+2025-01,Tucumán,Banana split,124.9
+2025-01,Tucumán,Tramontana,154.7
+2025-01,Tucumán,Chocolate amargo,144.1
+2025-01,Tucumán,Mascarpone con frutos rojos,187.3
+2025-02,Córdoba,Dulce de leche,1685.5
+2025-02,Córdoba,Chocolate,1552.5
+2025-02,Córdoba,Dulce de leche granizado,909.1
+2025-02,Córdoba,Frutilla a la crema,1152.5
+2025-02,Córdoba,Sambayón,520.2
+2025-02,Córdoba,Limón,944.5
+2025-02,Córdoba,Menta granizada,736.2
+2025-02,Córdoba,Americana,615.2
+2025-02,Córdoba,Banana split,506.3
+2025-02,Córdoba,Tramontana,660.7
+2025-02,Córdoba,Chocolate amargo,584.5
+2025-02,Córdoba,Mascarpone con frutos rojos,658.5
+2025-02,Buenos Aires,Dulce de leche,1431.9
+2025-02,Buenos Aires,Chocolate,1456.4
+2025-02,Buenos Aires,Dulce de leche granizado,852.1
+2025-02,Buenos Aires,Frutilla a la crema,1112.1
+2025-02,Buenos Aires,Sambayón,425.1
+2025-02,Buenos Aires,Limón,763.1
+2025-02,Buenos Aires,Menta granizada,578.5
+2025-02,Buenos Aires,Americana,506.3
+2025-02,Buenos Aires,Banana split,435.7
+2025-02,Buenos Aires,Tramontana,524.1
+2025-02,Buenos Aires,Chocolate amargo,470.8
+2025-02,Buenos Aires,Mascarpone con frutos rojos,581.6
+2025-02,CABA,Dulce de leche,1602.9
+2025-02,CABA,Chocolate,1205.0
+2025-02,CABA,Dulce de leche granizado,903.5
+2025-02,CABA,Frutilla a la crema,1012.1
+2025-02,CABA,Sambayón,521.9
+2025-02,CABA,Limón,847.5
+2025-02,CABA,Menta granizada,565.8
+2025-02,CABA,Americana,566.6
+2025-02,CABA,Banana split,482.9
+2025-02,CABA,Tramontana,615.3
+2025-02,CABA,Chocolate amargo,571.2
+2025-02,CABA,Mascarpone con frutos rojos,768.0
+2025-02,Santa Fe,Dulce de leche,735.5
+2025-02,Santa Fe,Chocolate,666.7
+2025-02,Santa Fe,Dulce de leche granizado,399.1
+2025-02,Santa Fe,Frutilla a la crema,543.1
+2025-02,Santa Fe,Sambayón,256.1
+2025-02,Santa Fe,Limón,408.0
+2025-02,Santa Fe,Menta granizada,303.7
+2025-02,Santa Fe,Americana,238.3
+2025-02,Santa Fe,Banana split,237.0
+2025-02,Santa Fe,Tramontana,249.4
+2025-02,Santa Fe,Chocolate amargo,288.5
+2025-02,Santa Fe,Mascarpone con frutos rojos,283.7
+2025-02,Mendoza,Dulce de leche,826.3
+2025-02,Mendoza,Chocolate,682.8
+2025-02,Mendoza,Dulce de leche granizado,454.2
+2025-02,Mendoza,Frutilla a la crema,565.6
+2025-02,Mendoza,Sambayón,276.1
+2025-02,Mendoza,Limón,396.8
+2025-02,Mendoza,Menta granizada,329.7
+2025-02,Mendoza,Americana,271.9
+2025-02,Mendoza,Banana split,208.0
+2025-02,Mendoza,Tramontana,258.0
+2025-02,Mendoza,Chocolate amargo,254.3
+2025-02,Mendoza,Mascarpone con frutos rojos,278.8
+2025-02,Tucumán,Dulce de leche,401.0
+2025-02,Tucumán,Chocolate,346.6
+2025-02,Tucumán,Dulce de leche granizado,243.6
+2025-02,Tucumán,Frutilla a la crema,239.7
+2025-02,Tucumán,Sambayón,138.6
+2025-02,Tucumán,Limón,196.4
+2025-02,Tucumán,Menta granizada,139.4
+2025-02,Tucumán,Americana,143.9
+2025-02,Tucumán,Banana split,119.5
+2025-02,Tucumán,Tramontana,130.1
+2025-02,Tucumán,Chocolate amargo,137.0
+2025-02,Tucumán,Mascarpone con frutos rojos,180.4
+2025-03,Córdoba,Dulce de leche,1330.5
+2025-03,Córdoba,Chocolate,1171.0
+2025-03,Córdoba,Dulce de leche granizado,675.0
+2025-03,Córdoba,Frutilla a la crema,750.4
+2025-03,Córdoba,Sambayón,504.6
+2025-03,Córdoba,Limón,529.7
+2025-03,Córdoba,Menta granizada,424.3
+2025-03,Córdoba,Americana,519.0
+2025-03,Córdoba,Banana split,456.5
+2025-03,Córdoba,Tramontana,502.1
+2025-03,Córdoba,Chocolate amargo,457.2
+2025-03,Córdoba,Mascarpone con frutos rojos,445.4
+2025-03,Buenos Aires,Dulce de leche,1347.0
+2025-03,Buenos Aires,Chocolate,979.6
+2025-03,Buenos Aires,Dulce de leche granizado,673.5
+2025-03,Buenos Aires,Frutilla a la crema,658.7
+2025-03,Buenos Aires,Sambayón,388.7
+2025-03,Buenos Aires,Limón,529.2
+2025-03,Buenos Aires,Menta granizada,365.1
+2025-03,Buenos Aires,Americana,457.8
+2025-03,Buenos Aires,Banana split,387.2
+2025-03,Buenos Aires,Tramontana,454.7
+2025-03,Buenos Aires,Chocolate amargo,395.7
+2025-03,Buenos Aires,Mascarpone con frutos rojos,362.0
+2025-03,CABA,Dulce de leche,1335.8
+2025-03,CABA,Chocolate,1091.3
+2025-03,CABA,Dulce de leche granizado,837.9
+2025-03,CABA,Frutilla a la crema,704.3
+2025-03,CABA,Sambayón,522.8
+2025-03,CABA,Limón,632.0
+2025-03,CABA,Menta granizada,425.2
+2025-03,CABA,Americana,555.7
+2025-03,CABA,Banana split,394.3
+2025-03,CABA,Tramontana,465.6
+2025-03,CABA,Chocolate amargo,449.3
+2025-03,CABA,Mascarpone con frutos rojos,355.5
+2025-03,Santa Fe,Dulce de leche,660.6
+2025-03,Santa Fe,Chocolate,549.7
+2025-03,Santa Fe,Dulce de leche granizado,387.4
+2025-03,Santa Fe,Frutilla a la crema,329.5
+2025-03,Santa Fe,Sambayón,242.7
+2025-03,Santa Fe,Limón,252.1
+2025-03,Santa Fe,Menta granizada,207.2
+2025-03,Santa Fe,Americana,242.9
+2025-03,Santa Fe,Banana split,164.7
+2025-03,Santa Fe,Tramontana,226.6
+2025-03,Santa Fe,Chocolate amargo,245.9
+2025-03,Santa Fe,Mascarpone con frutos rojos,204.3
+2025-03,Mendoza,Dulce de leche,587.8
+2025-03,Mendoza,Chocolate,528.0
+2025-03,Mendoza,Dulce de leche granizado,426.4
+2025-03,Mendoza,Frutilla a la crema,395.2
+2025-03,Mendoza,Sambayón,226.4
+2025-03,Mendoza,Limón,275.0
+2025-03,Mendoza,Menta granizada,174.0
+2025-03,Mendoza,Americana,225.3
+2025-03,Mendoza,Banana split,192.8
+2025-03,Mendoza,Tramontana,238.1
+2025-03,Mendoza,Chocolate amargo,228.5
+2025-03,Mendoza,Mascarpone con frutos rojos,202.1
+2025-03,Tucumán,Dulce de leche,374.9
+2025-03,Tucumán,Chocolate,251.1
+2025-03,Tucumán,Dulce de leche granizado,221.0
+2025-03,Tucumán,Frutilla a la crema,190.6
+2025-03,Tucumán,Sambayón,125.2
+2025-03,Tucumán,Limón,169.1
+2025-03,Tucumán,Menta granizada,102.6
+2025-03,Tucumán,Americana,136.1
+2025-03,Tucumán,Banana split,101.6
+2025-03,Tucumán,Tramontana,140.6
+2025-03,Tucumán,Chocolate amargo,124.6
+2025-03,Tucumán,Mascarpone con frutos rojos,120.1
+2025-04,Córdoba,Dulce de leche,1080.1
+2025-04,Córdoba,Chocolate,748.1
+2025-04,Córdoba,Dulce de leche granizado,571.6
+2025-04,Córdoba,Frutilla a la crema,547.1
+2025-04,Córdoba,Sambayón,340.2
+2025-04,Córdoba,Limón,446.7
+2025-04,Córdoba,Menta granizada,296.0
+2025-04,Córdoba,Americana,370.2
+2025-04,Córdoba,Banana split,313.9
+2025-04,Córdoba,Tramontana,365.1
+2025-04,Córdoba,Chocolate amargo,353.1
+2025-04,Córdoba,Mascarpone con frutos rojos,291.6
+2025-04,Buenos Aires,Dulce de leche,1026.0
+2025-04,Buenos Aires,Chocolate,748.6
+2025-04,Buenos Aires,Dulce de leche granizado,458.8
+2025-04,Buenos Aires,Frutilla a la crema,422.9
+2025-04,Buenos Aires,Sambayón,294.7
+2025-04,Buenos Aires,Limón,371.9
+2025-04,Buenos Aires,Menta granizada,250.6
+2025-04,Buenos Aires,Americana,333.4
+2025-04,Buenos Aires,Banana split,247.0
+2025-04,Buenos Aires,Tramontana,225.2
+2025-04,Buenos Aires,Chocolate amargo,286.8
+2025-04,Buenos Aires,Mascarpone con frutos rojos,270.0
+2025-04,CABA,Dulce de leche,972.9
+2025-04,CABA,Chocolate,716.8
+2025-04,CABA,Dulce de leche granizado,622.1
+2025-04,CABA,Frutilla a la crema,491.9
+2025-04,CABA,Sambayón,380.7
+2025-04,CABA,Limón,424.8
+2025-04,CABA,Menta granizada,276.3
+2025-04,CABA,Americana,367.1
+2025-04,CABA,Banana split,290.7
+2025-04,CABA,Tramontana,342.0
+2025-04,CABA,Chocolate amargo,369.9
+2025-04,CABA,Mascarpone con frutos rojos,299.6
+2025-04,Santa Fe,Dulce de leche,488.5
+2025-04,Santa Fe,Chocolate,404.0
+2025-04,Santa Fe,Dulce de leche granizado,286.8
+2025-04,Santa Fe,Frutilla a la crema,262.8
+2025-04,Santa Fe,Sambayón,187.1
+2025-04,Santa Fe,Limón,198.0
+2025-04,Santa Fe,Menta granizada,129.2
+2025-04,Santa Fe,Americana,155.8
+2025-04,Santa Fe,Banana split,151.0
+2025-04,Santa Fe,Tramontana,189.5
+2025-04,Santa Fe,Chocolate amargo,163.8
+2025-04,Santa Fe,Mascarpone con frutos rojos,143.5
+2025-04,Mendoza,Dulce de leche,412.5
+2025-04,Mendoza,Chocolate,402.2
+2025-04,Mendoza,Dulce de leche granizado,260.5
+2025-04,Mendoza,Frutilla a la crema,235.8
+2025-04,Mendoza,Sambayón,159.8
+2025-04,Mendoza,Limón,189.6
+2025-04,Mendoza,Menta granizada,147.8
+2025-04,Mendoza,Americana,166.2
+2025-04,Mendoza,Banana split,146.9
+2025-04,Mendoza,Tramontana,163.0
+2025-04,Mendoza,Chocolate amargo,178.9
+2025-04,Mendoza,Mascarpone con frutos rojos,123.9
+2025-04,Tucumán,Dulce de leche,291.6
+2025-04,Tucumán,Chocolate,230.7
+2025-04,Tucumán,Dulce de leche granizado,171.3
+2025-04,Tucumán,Frutilla a la crema,149.1
+2025-04,Tucumán,Sambayón,97.1
+2025-04,Tucumán,Limón,94.4
+2025-04,Tucumán,Menta granizada,84.7
+2025-04,Tucumán,Americana,99.9
+2025-04,Tucumán,Banana split,59.2
+2025-04,Tucumán,Tramontana,106.0
+2025-04,Tucumán,Chocolate amargo,95.7
+2025-04,Tucumán,Mascarpone con frutos rojos,80.4
+2025-05,Córdoba,Dulce de leche,687.6
+2025-05,Córdoba,Chocolate,660.3
+2025-05,Córdoba,Dulce de leche granizado,474.1
+2025-05,Córdoba,Frutilla a la crema,389.5
+2025-05,Córdoba,Sambayón,273.7
+2025-05,Córdoba,Limón,339.8
+2025-05,Córdoba,Menta granizada,255.8
+2025-05,Córdoba,Americana,282.3
+2025-05,Córdoba,Banana split,254.4
+2025-05,Córdoba,Tramontana,229.2
+2025-05,Córdoba,Chocolate amargo,278.3
+2025-05,Córdoba,Mascarpone con frutos rojos,247.7
+2025-05,Buenos Aires,Dulce de leche,569.1
+2025-05,Buenos Aires,Chocolate,530.4
+2025-05,Buenos Aires,Dulce de leche granizado,397.1
+2025-05,Buenos Aires,Frutilla a la crema,299.1
+2025-05,Buenos Aires,Sambayón,211.9
+2025-05,Buenos Aires,Limón,239.9
+2025-05,Buenos Aires,Menta granizada,172.7
+2025-05,Buenos Aires,Americana,219.8
+2025-05,Buenos Aires,Banana split,185.3
+2025-05,Buenos Aires,Tramontana,180.1
+2025-05,Buenos Aires,Chocolate amargo,188.3
+2025-05,Buenos Aires,Mascarpone con frutos rojos,176.5
+2025-05,CABA,Dulce de leche,638.7
+2025-05,CABA,Chocolate,563.0
+2025-05,CABA,Dulce de leche granizado,373.0
+2025-05,CABA,Frutilla a la crema,379.4
+2025-05,CABA,Sambayón,248.9
+2025-05,CABA,Limón,312.9
+2025-05,CABA,Menta granizada,213.1
+2025-05,CABA,Americana,259.9
+2025-05,CABA,Banana split,202.6
+2025-05,CABA,Tramontana,216.3
+2025-05,CABA,Chocolate amargo,238.1
+2025-05,CABA,Mascarpone con frutos rojos,209.3
+2025-05,Santa Fe,Dulce de leche,333.2
+2025-05,Santa Fe,Chocolate,278.4
+2025-05,Santa Fe,Dulce de leche granizado,205.3
+2025-05,Santa Fe,Frutilla a la crema,174.5
+2025-05,Santa Fe,Sambayón,117.9
+2025-05,Santa Fe,Limón,132.7
+2025-05,Santa Fe,Menta granizada,103.0
+2025-05,Santa Fe,Americana,126.8
+2025-05,Santa Fe,Banana split,121.6
+2025-05,Santa Fe,Tramontana,114.7
+2025-05,Santa Fe,Chocolate amargo,118.8
+2025-05,Santa Fe,Mascarpone con frutos rojos,97.8
+2025-05,Mendoza,Dulce de leche,303.4
+2025-05,Mendoza,Chocolate,264.2
+2025-05,Mendoza,Dulce de leche granizado,175.6
+2025-05,Mendoza,Frutilla a la crema,178.1
+2025-05,Mendoza,Sambayón,116.7
+2025-05,Mendoza,Limón,136.0
+2025-05,Mendoza,Menta granizada,102.4
+2025-05,Mendoza,Americana,111.7
+2025-05,Mendoza,Banana split,96.0
+2025-05,Mendoza,Tramontana,105.3
+2025-05,Mendoza,Chocolate amargo,126.7
+2025-05,Mendoza,Mascarpone con frutos rojos,99.7
+2025-05,Tucumán,Dulce de leche,195.4
+2025-05,Tucumán,Chocolate,149.1
+2025-05,Tucumán,Dulce de leche granizado,107.5
+2025-05,Tucumán,Frutilla a la crema,106.9
+2025-05,Tucumán,Sambayón,73.0
+2025-05,Tucumán,Limón,88.0
+2025-05,Tucumán,Menta granizada,55.7
+2025-05,Tucumán,Americana,65.8
+2025-05,Tucumán,Banana split,56.5
+2025-05,Tucumán,Tramontana,67.0
+2025-05,Tucumán,Chocolate amargo,72.8
+2025-05,Tucumán,Mascarpone con frutos rojos,60.5
+2025-06,Córdoba,Dulce de leche,616.6
+2025-06,Córdoba,Chocolate,594.3
+2025-06,Córdoba,Dulce de leche granizado,355.9
+2025-06,Córdoba,Frutilla a la crema,318.3
+2025-06,Córdoba,Sambayón,178.4
+2025-06,Córdoba,Limón,269.4
+2025-06,Córdoba,Menta granizada,176.0
+2025-06,Córdoba,Americana,217.3
+2025-06,Córdoba,Banana split,204.0
+2025-06,Córdoba,Tramontana,204.0
+2025-06,Córdoba,Chocolate amargo,242.8
+2025-06,Córdoba,Mascarpone con frutos rojos,187.1
+2025-06,Buenos Aires,Dulce de leche,467.2
+2025-06,Buenos Aires,Chocolate,394.0
+2025-06,Buenos Aires,Dulce de leche granizado,268.5
+2025-06,Buenos Aires,Frutilla a la crema,236.4
+2025-06,Buenos Aires,Sambayón,161.9
+2025-06,Buenos Aires,Limón,184.9
+2025-06,Buenos Aires,Menta granizada,130.3
+2025-06,Buenos Aires,Americana,164.9
+2025-06,Buenos Aires,Banana split,137.5
+2025-06,Buenos Aires,Tramontana,162.4
+2025-06,Buenos Aires,Chocolate amargo,177.3
+2025-06,Buenos Aires,Mascarpone con frutos rojos,103.2
+2025-06,CABA,Dulce de leche,466.8
+2025-06,CABA,Chocolate,427.3
+2025-06,CABA,Dulce de leche granizado,276.0
+2025-06,CABA,Frutilla a la crema,248.9
+2025-06,CABA,Sambayón,177.8
+2025-06,CABA,Limón,219.8
+2025-06,CABA,Menta granizada,163.2
+2025-06,CABA,Americana,207.8
+2025-06,CABA,Banana split,157.7
+2025-06,CABA,Tramontana,190.6
+2025-06,CABA,Chocolate amargo,166.4
+2025-06,CABA,Mascarpone con frutos rojos,158.5
+2025-06,Santa Fe,Dulce de leche,280.8
+2025-06,Santa Fe,Chocolate,202.3
+2025-06,Santa Fe,Dulce de leche granizado,153.0
+2025-06,Santa Fe,Frutilla a la crema,162.1
+2025-06,Santa Fe,Sambayón,88.3
+2025-06,Santa Fe,Limón,122.6
+2025-06,Santa Fe,Menta granizada,79.6
+2025-06,Santa Fe,Americana,96.4
+2025-06,Santa Fe,Banana split,75.6
+2025-06,Santa Fe,Tramontana,92.3
+2025-06,Santa Fe,Chocolate amargo,92.6
+2025-06,Santa Fe,Mascarpone con frutos rojos,83.7
+2025-06,Mendoza,Dulce de leche,240.7
+2025-06,Mendoza,Chocolate,187.6
+2025-06,Mendoza,Dulce de leche granizado,138.6
+2025-06,Mendoza,Frutilla a la crema,125.2
+2025-06,Mendoza,Sambayón,80.1
+2025-06,Mendoza,Limón,101.5
+2025-06,Mendoza,Menta granizada,71.0
+2025-06,Mendoza,Americana,84.9
+2025-06,Mendoza,Banana split,66.0
+2025-06,Mendoza,Tramontana,83.4
+2025-06,Mendoza,Chocolate amargo,69.1
+2025-06,Mendoza,Mascarpone con frutos rojos,65.1
+2025-06,Tucumán,Dulce de leche,160.2
+2025-06,Tucumán,Chocolate,129.2
+2025-06,Tucumán,Dulce de leche granizado,88.4
+2025-06,Tucumán,Frutilla a la crema,80.9
+2025-06,Tucumán,Sambayón,47.0
+2025-06,Tucumán,Limón,58.0
+2025-06,Tucumán,Menta granizada,39.7
+2025-06,Tucumán,Americana,48.8
+2025-06,Tucumán,Banana split,32.9
+2025-06,Tucumán,Tramontana,54.5
+2025-06,Tucumán,Chocolate amargo,49.6
+2025-06,Tucumán,Mascarpone con frutos rojos,43.5
+2025-07,Córdoba,Dulce de leche,792.2
+2025-07,Córdoba,Chocolate,656.7
+2025-07,Córdoba,Dulce de leche granizado,361.7
+2025-07,Córdoba,Frutilla a la crema,386.2
+2025-07,Córdoba,Sambayón,266.5
+2025-07,Córdoba,Limón,315.6
+2025-07,Córdoba,Menta granizada,176.9
+2025-07,Córdoba,Americana,244.7
+2025-07,Córdoba,Banana split,200.3
+2025-07,Córdoba,Tramontana,246.1
+2025-07,Córdoba,Chocolate amargo,229.8
+2025-07,Córdoba,Mascarpone con frutos rojos,170.0
+2025-07,Buenos Aires,Dulce de leche,575.1
+2025-07,Buenos Aires,Chocolate,457.7
+2025-07,Buenos Aires,Dulce de leche granizado,358.7
+2025-07,Buenos Aires,Frutilla a la crema,328.2
+2025-07,Buenos Aires,Sambayón,185.2
+2025-07,Buenos Aires,Limón,232.2
+2025-07,Buenos Aires,Menta granizada,156.7
+2025-07,Buenos Aires,Americana,208.9
+2025-07,Buenos Aires,Banana split,165.5
+2025-07,Buenos Aires,Tramontana,192.2
+2025-07,Buenos Aires,Chocolate amargo,188.0
+2025-07,Buenos Aires,Mascarpone con frutos rojos,165.6
+2025-07,CABA,Dulce de leche,568.9
+2025-07,CABA,Chocolate,521.1
+2025-07,CABA,Dulce de leche granizado,311.2
+2025-07,CABA,Frutilla a la crema,282.6
+2025-07,CABA,Sambayón,195.6
+2025-07,CABA,Limón,235.1
+2025-07,CABA,Menta granizada,150.8
+2025-07,CABA,Americana,207.6
+2025-07,CABA,Banana split,138.5
+2025-07,CABA,Tramontana,197.7
+2025-07,CABA,Chocolate amargo,193.9
+2025-07,CABA,Mascarpone con frutos rojos,160.4
+2025-07,Santa Fe,Dulce de leche,326.5
+2025-07,Santa Fe,Chocolate,259.5
+2025-07,Santa Fe,Dulce de leche granizado,166.1
+2025-07,Santa Fe,Frutilla a la crema,168.0
+2025-07,Santa Fe,Sambayón,121.2
+2025-07,Santa Fe,Limón,136.8
+2025-07,Santa Fe,Menta granizada,75.0
+2025-07,Santa Fe,Americana,109.1
+2025-07,Santa Fe,Banana split,94.4
+2025-07,Santa Fe,Tramontana,104.0
+2025-07,Santa Fe,Chocolate amargo,107.1
+2025-07,Santa Fe,Mascarpone con frutos rojos,97.5
+2025-07,Mendoza,Dulce de leche,293.7
+2025-07,Mendoza,Chocolate,204.7
+2025-07,Mendoza,Dulce de leche granizado,184.1
+2025-07,Mendoza,Frutilla a la crema,172.8
+2025-07,Mendoza,Sambayón,120.5
+2025-07,Mendoza,Limón,107.8
+2025-07,Mendoza,Menta granizada,84.5
+2025-07,Mendoza,Americana,103.2
+2025-07,Mendoza,Banana split,86.3
+2025-07,Mendoza,Tramontana,92.5
+2025-07,Mendoza,Chocolate amargo,89.5
+2025-07,Mendoza,Mascarpone con frutos rojos,83.1
+2025-07,Tucumán,Dulce de leche,174.3
+2025-07,Tucumán,Chocolate,125.0
+2025-07,Tucumán,Dulce de leche granizado,77.4
+2025-07,Tucumán,Frutilla a la crema,78.3
+2025-07,Tucumán,Sambayón,52.5
+2025-07,Tucumán,Limón,55.1
+2025-07,Tucumán,Menta granizada,40.4
+2025-07,Tucumán,Americana,53.5
+2025-07,Tucumán,Banana split,54.8
+2025-07,Tucumán,Tramontana,60.4
+2025-07,Tucumán,Chocolate amargo,54.6
+2025-07,Tucumán,Mascarpone con frutos rojos,43.5
+2025-08,Córdoba,Dulce de leche,663.2
+2025-08,Córdoba,Chocolate,509.7
+2025-08,Córdoba,Dulce de leche granizado,395.8
+2025-08,Córdoba,Frutilla a la crema,316.0
+2025-08,Córdoba,Sambayón,215.8
+2025-08,Córdoba,Limón,265.2
+2025-08,Córdoba,Menta granizada,202.9
+2025-08,Córdoba,Americana,219.5
+2025-08,Córdoba,Banana split,169.6
+2025-08,Córdoba,Tramontana,263.9
+2025-08,Córdoba,Chocolate amargo,241.2
+2025-08,Córdoba,Mascarpone con frutos rojos,198.6
+2025-08,Buenos Aires,Dulce de leche,597.9
+2025-08,Buenos Aires,Chocolate,388.0
+2025-08,Buenos Aires,Dulce de leche granizado,312.1
+2025-08,Buenos Aires,Frutilla a la crema,308.7
+2025-08,Buenos Aires,Sambayón,180.6
+2025-08,Buenos Aires,Limón,231.5
+2025-08,Buenos Aires,Menta granizada,138.3
+2025-08,Buenos Aires,Americana,175.1
+2025-08,Buenos Aires,Banana split,145.5
+2025-08,Buenos Aires,Tramontana,182.9
+2025-08,Buenos Aires,Chocolate amargo,191.8
+2025-08,Buenos Aires,Mascarpone con frutos rojos,143.0
+2025-08,CABA,Dulce de leche,578.9
+2025-08,CABA,Chocolate,515.6
+2025-08,CABA,Dulce de leche granizado,370.4
+2025-08,CABA,Frutilla a la crema,310.4
+2025-08,CABA,Sambayón,189.4
+2025-08,CABA,Limón,222.7
+2025-08,CABA,Menta granizada,165.8
+2025-08,CABA,Americana,221.3
+2025-08,CABA,Banana split,171.3
+2025-08,CABA,Tramontana,191.5
+2025-08,CABA,Chocolate amargo,231.3
+2025-08,CABA,Mascarpone con frutos rojos,172.9
+2025-08,Santa Fe,Dulce de leche,274.8
+2025-08,Santa Fe,Chocolate,226.5
+2025-08,Santa Fe,Dulce de leche granizado,145.6
+2025-08,Santa Fe,Frutilla a la crema,151.1
+2025-08,Santa Fe,Sambayón,101.0
+2025-08,Santa Fe,Limón,118.8
+2025-08,Santa Fe,Menta granizada,73.2
+2025-08,Santa Fe,Americana,73.6
+2025-08,Santa Fe,Banana split,87.7
+2025-08,Santa Fe,Tramontana,101.4
+2025-08,Santa Fe,Chocolate amargo,112.1
+2025-08,Santa Fe,Mascarpone con frutos rojos,74.3
+2025-08,Mendoza,Dulce de leche,286.7
+2025-08,Mendoza,Chocolate,259.4
+2025-08,Mendoza,Dulce de leche granizado,151.2
+2025-08,Mendoza,Frutilla a la crema,161.6
+2025-08,Mendoza,Sambayón,104.7
+2025-08,Mendoza,Limón,116.7
+2025-08,Mendoza,Menta granizada,86.8
+2025-08,Mendoza,Americana,105.7
+2025-08,Mendoza,Banana split,83.4
+2025-08,Mendoza,Tramontana,124.0
+2025-08,Mendoza,Chocolate amargo,102.8
+2025-08,Mendoza,Mascarpone con frutos rojos,83.3
+2025-08,Tucumán,Dulce de leche,153.0
+2025-08,Tucumán,Chocolate,151.3
+2025-08,Tucumán,Dulce de leche granizado,99.1
+2025-08,Tucumán,Frutilla a la crema,96.2
+2025-08,Tucumán,Sambayón,60.2
+2025-08,Tucumán,Limón,68.3
+2025-08,Tucumán,Menta granizada,46.6
+2025-08,Tucumán,Americana,58.6
+2025-08,Tucumán,Banana split,50.4
+2025-08,Tucumán,Tramontana,57.1
+2025-08,Tucumán,Chocolate amargo,58.4
+2025-08,Tucumán,Mascarpone con frutos rojos,45.0
+2025-09,Córdoba,Dulce de leche,822.9
+2025-09,Córdoba,Chocolate,672.7
+2025-09,Córdoba,Dulce de leche granizado,488.3
+2025-09,Córdoba,Frutilla a la crema,429.7
+2025-09,Córdoba,Sambayón,319.9
+2025-09,Córdoba,Limón,369.0
+2025-09,Córdoba,Menta granizada,246.0
+2025-09,Córdoba,Americana,322.5
+2025-09,Córdoba,Banana split,248.2
+2025-09,Córdoba,Tramontana,255.2
+2025-09,Córdoba,Chocolate amargo,322.7
+2025-09,Córdoba,Mascarpone con frutos rojos,230.9
+2025-09,Buenos Aires,Dulce de leche,756.4
+2025-09,Buenos Aires,Chocolate,567.7
+2025-09,Buenos Aires,Dulce de leche granizado,424.8
+2025-09,Buenos Aires,Frutilla a la crema,396.3
+2025-09,Buenos Aires,Sambayón,247.8
+2025-09,Buenos Aires,Limón,302.2
+2025-09,Buenos Aires,Menta granizada,199.6
+2025-09,Buenos Aires,Americana,293.6
+2025-09,Buenos Aires,Banana split,196.2
+2025-09,Buenos Aires,Tramontana,226.8
+2025-09,Buenos Aires,Chocolate amargo,261.7
+2025-09,Buenos Aires,Mascarpone con frutos rojos,212.6
+2025-09,CABA,Dulce de leche,858.9
+2025-09,CABA,Chocolate,687.3
+2025-09,CABA,Dulce de leche granizado,487.8
+2025-09,CABA,Frutilla a la crema,412.7
+2025-09,CABA,Sambayón,285.9
+2025-09,CABA,Limón,296.1
+2025-09,CABA,Menta granizada,205.9
+2025-09,CABA,Americana,273.9
+2025-09,CABA,Banana split,265.2
+2025-09,CABA,Tramontana,285.0
+2025-09,CABA,Chocolate amargo,270.2
+2025-09,CABA,Mascarpone con frutos rojos,208.2
+2025-09,Santa Fe,Dulce de leche,345.2
+2025-09,Santa Fe,Chocolate,362.0
+2025-09,Santa Fe,Dulce de leche granizado,183.9
+2025-09,Santa Fe,Frutilla a la crema,222.8
+2025-09,Santa Fe,Sambayón,146.4
+2025-09,Santa Fe,Limón,151.6
+2025-09,Santa Fe,Menta granizada,121.8
+2025-09,Santa Fe,Americana,143.1
+2025-09,Santa Fe,Banana split,106.8
+2025-09,Santa Fe,Tramontana,137.6
+2025-09,Santa Fe,Chocolate amargo,154.4
+2025-09,Santa Fe,Mascarpone con frutos rojos,134.5
+2025-09,Mendoza,Dulce de leche,351.2
+2025-09,Mendoza,Chocolate,342.1
+2025-09,Mendoza,Dulce de leche granizado,232.7
+2025-09,Mendoza,Frutilla a la crema,215.3
+2025-09,Mendoza,Sambayón,146.0
+2025-09,Mendoza,Limón,159.8
+2025-09,Mendoza,Menta granizada,117.6
+2025-09,Mendoza,Americana,138.9
+2025-09,Mendoza,Banana split,115.5
+2025-09,Mendoza,Tramontana,157.4
+2025-09,Mendoza,Chocolate amargo,144.5
+2025-09,Mendoza,Mascarpone con frutos rojos,125.8
+2025-09,Tucumán,Dulce de leche,198.5
+2025-09,Tucumán,Chocolate,155.9
+2025-09,Tucumán,Dulce de leche granizado,129.7
+2025-09,Tucumán,Frutilla a la crema,115.2
+2025-09,Tucumán,Sambayón,86.1
+2025-09,Tucumán,Limón,95.6
+2025-09,Tucumán,Menta granizada,74.3
+2025-09,Tucumán,Americana,75.3
+2025-09,Tucumán,Banana split,59.8
+2025-09,Tucumán,Tramontana,67.5
+2025-09,Tucumán,Chocolate amargo,75.6
+2025-09,Tucumán,Mascarpone con frutos rojos,63.1
+2025-10,Córdoba,Dulce de leche,1183.9
+2025-10,Córdoba,Chocolate,854.7
+2025-10,Córdoba,Dulce de leche granizado,729.6
+2025-10,Córdoba,Frutilla a la crema,611.0
+2025-10,Córdoba,Sambayón,376.2
+2025-10,Córdoba,Limón,410.9
+2025-10,Córdoba,Menta granizada,329.9
+2025-10,Córdoba,Americana,383.0
+2025-10,Córdoba,Banana split,317.6
+2025-10,Córdoba,Tramontana,429.7
+2025-10,Córdoba,Chocolate amargo,367.6
+2025-10,Córdoba,Mascarpone con frutos rojos,339.0
+2025-10,Buenos Aires,Dulce de leche,1045.2
+2025-10,Buenos Aires,Chocolate,745.3
+2025-10,Buenos Aires,Dulce de leche granizado,543.0
+2025-10,Buenos Aires,Frutilla a la crema,487.9
+2025-10,Buenos Aires,Sambayón,339.0
+2025-10,Buenos Aires,Limón,380.9
+2025-10,Buenos Aires,Menta granizada,232.0
+2025-10,Buenos Aires,Americana,327.7
+2025-10,Buenos Aires,Banana split,290.5
+2025-10,Buenos Aires,Tramontana,330.3
+2025-10,Buenos Aires,Chocolate amargo,311.0
+2025-10,Buenos Aires,Mascarpone con frutos rojos,266.4
+2025-10,CABA,Dulce de leche,1127.5
+2025-10,CABA,Chocolate,752.5
+2025-10,CABA,Dulce de leche granizado,573.5
+2025-10,CABA,Frutilla a la crema,628.0
+2025-10,CABA,Sambayón,359.4
+2025-10,CABA,Limón,494.3
+2025-10,CABA,Menta granizada,303.0
+2025-10,CABA,Americana,400.0
+2025-10,CABA,Banana split,318.4
+2025-10,CABA,Tramontana,367.9
+2025-10,CABA,Chocolate amargo,369.0
+2025-10,CABA,Mascarpone con frutos rojos,310.0
+2025-10,Santa Fe,Dulce de leche,598.3
+2025-10,Santa Fe,Chocolate,414.3
+2025-10,Santa Fe,Dulce de leche granizado,298.8
+2025-10,Santa Fe,Frutilla a la crema,303.1
+2025-10,Santa Fe,Sambayón,201.2
+2025-10,Santa Fe,Limón,247.8
+2025-10,Santa Fe,Menta granizada,164.1
+2025-10,Santa Fe,Americana,216.5
+2025-10,Santa Fe,Banana split,158.8
+2025-10,Santa Fe,Tramontana,195.6
+2025-10,Santa Fe,Chocolate amargo,194.9
+2025-10,Santa Fe,Mascarpone con frutos rojos,161.3
+2025-10,Mendoza,Dulce de leche,529.4
+2025-10,Mendoza,Chocolate,500.3
+2025-10,Mendoza,Dulce de leche granizado,282.0
+2025-10,Mendoza,Frutilla a la crema,298.8
+2025-10,Mendoza,Sambayón,193.8
+2025-10,Mendoza,Limón,226.4
+2025-10,Mendoza,Menta granizada,169.4
+2025-10,Mendoza,Americana,198.2
+2025-10,Mendoza,Banana split,145.7
+2025-10,Mendoza,Tramontana,190.1
+2025-10,Mendoza,Chocolate amargo,204.3
+2025-10,Mendoza,Mascarpone con frutos rojos,147.8
+2025-10,Tucumán,Dulce de leche,335.2
+2025-10,Tucumán,Chocolate,228.7
+2025-10,Tucumán,Dulce de leche granizado,181.4
+2025-10,Tucumán,Frutilla a la crema,142.8
+2025-10,Tucumán,Sambayón,88.9
+2025-10,Tucumán,Limón,112.0
+2025-10,Tucumán,Menta granizada,93.7
+2025-10,Tucumán,Americana,103.5
+2025-10,Tucumán,Banana split,92.2
+2025-10,Tucumán,Tramontana,115.2
+2025-10,Tucumán,Chocolate amargo,96.8
+2025-10,Tucumán,Mascarpone con frutos rojos,86.5
+2025-11,Córdoba,Dulce de leche,1433.7
+2025-11,Córdoba,Chocolate,1115.5
+2025-11,Córdoba,Dulce de leche granizado,798.7
+2025-11,Córdoba,Frutilla a la crema,845.8
+2025-11,Córdoba,Sambayón,516.5
+2025-11,Córdoba,Limón,556.4
+2025-11,Córdoba,Menta granizada,418.5
+2025-11,Córdoba,Americana,542.6
+2025-11,Córdoba,Banana split,367.8
+2025-11,Córdoba,Tramontana,431.8
+2025-11,Córdoba,Chocolate amargo,514.7
+2025-11,Córdoba,Mascarpone con frutos rojos,369.7
+2025-11,Buenos Aires,Dulce de leche,1079.7
+2025-11,Buenos Aires,Chocolate,1043.7
+2025-11,Buenos Aires,Dulce de leche granizado,767.8
+2025-11,Buenos Aires,Frutilla a la crema,602.5
+2025-11,Buenos Aires,Sambayón,425.1
+2025-11,Buenos Aires,Limón,534.9
+2025-11,Buenos Aires,Menta granizada,280.6
+2025-11,Buenos Aires,Americana,402.2
+2025-11,Buenos Aires,Banana split,346.6
+2025-11,Buenos Aires,Tramontana,386.8
+2025-11,Buenos Aires,Chocolate amargo,438.8
+2025-11,Buenos Aires,Mascarpone con frutos rojos,373.3
+2025-11,CABA,Dulce de leche,1533.3
+2025-11,CABA,Chocolate,1118.3
+2025-11,CABA,Dulce de leche granizado,672.8
+2025-11,CABA,Frutilla a la crema,790.2
+2025-11,CABA,Sambayón,491.7
+2025-11,CABA,Limón,613.1
+2025-11,CABA,Menta granizada,446.8
+2025-11,CABA,Americana,482.3
+2025-11,CABA,Banana split,356.9
+2025-11,CABA,Tramontana,524.5
+2025-11,CABA,Chocolate amargo,456.3
+2025-11,CABA,Mascarpone con frutos rojos,386.2
+2025-11,Santa Fe,Dulce de leche,690.8
+2025-11,Santa Fe,Chocolate,517.5
+2025-11,Santa Fe,Dulce de leche granizado,386.4
+2025-11,Santa Fe,Frutilla a la crema,389.7
+2025-11,Santa Fe,Sambayón,217.0
+2025-11,Santa Fe,Limón,262.4
+2025-11,Santa Fe,Menta granizada,171.3
+2025-11,Santa Fe,Americana,232.2
+2025-11,Santa Fe,Banana split,213.7
+2025-11,Santa Fe,Tramontana,269.7
+2025-11,Santa Fe,Chocolate amargo,232.4
+2025-11,Santa Fe,Mascarpone con frutos rojos,190.8
+2025-11,Mendoza,Dulce de leche,626.3
+2025-11,Mendoza,Chocolate,552.3
+2025-11,Mendoza,Dulce de leche granizado,396.3
+2025-11,Mendoza,Frutilla a la crema,341.9
+2025-11,Mendoza,Sambayón,225.0
+2025-11,Mendoza,Limón,257.7
+2025-11,Mendoza,Menta granizada,201.0
+2025-11,Mendoza,Americana,201.2
+2025-11,Mendoza,Banana split,217.6
+2025-11,Mendoza,Tramontana,224.6
+2025-11,Mendoza,Chocolate amargo,232.6
+2025-11,Mendoza,Mascarpone con frutos rojos,183.4
+2025-11,Tucumán,Dulce de leche,365.2
+2025-11,Tucumán,Chocolate,311.0
+2025-11,Tucumán,Dulce de leche granizado,220.1
+2025-11,Tucumán,Frutilla a la crema,193.9
+2025-11,Tucumán,Sambayón,138.9
+2025-11,Tucumán,Limón,152.9
+2025-11,Tucumán,Menta granizada,117.5
+2025-11,Tucumán,Americana,144.4
+2025-11,Tucumán,Banana split,101.0
+2025-11,Tucumán,Tramontana,120.7
+2025-11,Tucumán,Chocolate amargo,121.3
+2025-11,Tucumán,Mascarpone con frutos rojos,110.1
+2025-12,Córdoba,Dulce de leche,1705.9
+2025-12,Córdoba,Chocolate,1318.3
+2025-12,Córdoba,Dulce de leche granizado,1081.1
+2025-12,Córdoba,Frutilla a la crema,1101.7
+2025-12,Córdoba,Sambayón,555.6
+2025-12,Córdoba,Limón,1023.2
+2025-12,Córdoba,Menta granizada,657.2
+2025-12,Córdoba,Americana,638.0
+2025-12,Córdoba,Banana split,516.9
+2025-12,Córdoba,Tramontana,608.4
+2025-12,Córdoba,Chocolate amargo,599.0
+2025-12,Córdoba,Mascarpone con frutos rojos,769.6
+2025-12,Buenos Aires,Dulce de leche,1512.3
+2025-12,Buenos Aires,Chocolate,1263.0
+2025-12,Buenos Aires,Dulce de leche granizado,950.0
+2025-12,Buenos Aires,Frutilla a la crema,1012.8
+2025-12,Buenos Aires,Sambayón,522.4
+2025-12,Buenos Aires,Limón,724.9
+2025-12,Buenos Aires,Menta granizada,615.5
+2025-12,Buenos Aires,Americana,487.7
+2025-12,Buenos Aires,Banana split,423.4
+2025-12,Buenos Aires,Tramontana,523.8
+2025-12,Buenos Aires,Chocolate amargo,547.7
+2025-12,Buenos Aires,Mascarpone con frutos rojos,672.0
+2025-12,CABA,Dulce de leche,1543.7
+2025-12,CABA,Chocolate,1235.4
+2025-12,CABA,Dulce de leche granizado,1101.8
+2025-12,CABA,Frutilla a la crema,1074.9
+2025-12,CABA,Sambayón,521.2
+2025-12,CABA,Limón,838.9
+2025-12,CABA,Menta granizada,759.9
+2025-12,CABA,Americana,625.8
+2025-12,CABA,Banana split,493.8
+2025-12,CABA,Tramontana,552.6
+2025-12,CABA,Chocolate amargo,537.8
+2025-12,CABA,Mascarpone con frutos rojos,769.0
+2025-12,Santa Fe,Dulce de leche,867.7
+2025-12,Santa Fe,Chocolate,853.4
+2025-12,Santa Fe,Dulce de leche granizado,539.5
+2025-12,Santa Fe,Frutilla a la crema,622.1
+2025-12,Santa Fe,Sambayón,306.8
+2025-12,Santa Fe,Limón,513.3
+2025-12,Santa Fe,Menta granizada,376.7
+2025-12,Santa Fe,Americana,330.1
+2025-12,Santa Fe,Banana split,230.2
+2025-12,Santa Fe,Tramontana,280.3
+2025-12,Santa Fe,Chocolate amargo,379.9
+2025-12,Santa Fe,Mascarpone con frutos rojos,283.0
+2025-12,Mendoza,Dulce de leche,714.8
+2025-12,Mendoza,Chocolate,679.0
+2025-12,Mendoza,Dulce de leche granizado,544.6
+2025-12,Mendoza,Frutilla a la crema,603.9
+2025-12,Mendoza,Sambayón,300.5
+2025-12,Mendoza,Limón,506.5
+2025-12,Mendoza,Menta granizada,344.2
+2025-12,Mendoza,Americana,280.5
+2025-12,Mendoza,Banana split,262.8
+2025-12,Mendoza,Tramontana,301.7
+2025-12,Mendoza,Chocolate amargo,326.9
+2025-12,Mendoza,Mascarpone con frutos rojos,344.4
+2025-12,Tucumán,Dulce de leche,476.5
+2025-12,Tucumán,Chocolate,393.9
+2025-12,Tucumán,Dulce de leche granizado,234.6
+2025-12,Tucumán,Frutilla a la crema,320.6
+2025-12,Tucumán,Sambayón,137.4
+2025-12,Tucumán,Limón,309.0
+2025-12,Tucumán,Menta granizada,193.7
+2025-12,Tucumán,Americana,177.9
+2025-12,Tucumán,Banana split,143.3
+2025-12,Tucumán,Tramontana,143.7
+2025-12,Tucumán,Chocolate amargo,169.8
+2025-12,Tucumán,Mascarpone con frutos rojos,181.8

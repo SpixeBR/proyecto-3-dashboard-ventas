@@ -1,0 +1,1417 @@
+mes,provincia,local,categoria,kilos,tickets,facturacion
+2024-01,Córdoba,Nueva Córdoba,Helado por kilo,2168.4,2409,19305356.0
+2024-01,Córdoba,Nueva Córdoba,Cucuruchos y vasitos,725.1,4028,8620535.0
+2024-01,Córdoba,Nueva Córdoba,Postres helados,362.7,604,3928617.0
+2024-01,Córdoba,Nueva Córdoba,Palitos y bombones,212.4,1415,3014936.0
+2024-01,Córdoba,Cerro de las Rosas,Helado por kilo,2517.2,2796,22953397.0
+2024-01,Córdoba,Cerro de las Rosas,Cucuruchos y vasitos,925.6,5142,11708528.0
+2024-01,Córdoba,Cerro de las Rosas,Postres helados,376.2,627,4105729.0
+2024-01,Córdoba,Cerro de las Rosas,Palitos y bombones,237.7,1584,3523295.0
+2024-01,Córdoba,General Paz,Helado por kilo,2549.8,2833,22176563.0
+2024-01,Córdoba,General Paz,Cucuruchos y vasitos,834.2,4634,10129161.0
+2024-01,Córdoba,General Paz,Postres helados,390.7,651,4453133.0
+2024-01,Córdoba,General Paz,Palitos y bombones,221.8,1478,3154329.0
+2024-01,Córdoba,Villa Carlos Paz,Helado por kilo,2611.4,2901,23395885.0
+2024-01,Córdoba,Villa Carlos Paz,Cucuruchos y vasitos,890.9,4949,11166539.0
+2024-01,Córdoba,Villa Carlos Paz,Postres helados,412.3,687,4550037.0
+2024-01,Córdoba,Villa Carlos Paz,Palitos y bombones,254.4,1696,3552746.0
+2024-01,Buenos Aires,Mar del Plata,Helado por kilo,3643.7,4048,34219302.0
+2024-01,Buenos Aires,Mar del Plata,Cucuruchos y vasitos,1365.1,7584,17351858.0
+2024-01,Buenos Aires,Mar del Plata,Postres helados,631.7,1052,7198127.0
+2024-01,Buenos Aires,Mar del Plata,Palitos y bombones,367.9,2452,5032833.0
+2024-01,Buenos Aires,La Plata,Helado por kilo,2546.5,2829,22943045.0
+2024-01,Buenos Aires,La Plata,Cucuruchos y vasitos,963.6,5353,11983078.0
+2024-01,Buenos Aires,La Plata,Postres helados,433.8,723,4920184.0
+2024-01,Buenos Aires,La Plata,Palitos y bombones,235.4,1569,3259830.0
+2024-01,CABA,Palermo,Helado por kilo,3301.1,3667,30807288.0
+2024-01,CABA,Palermo,Cucuruchos y vasitos,1131.0,6283,14388725.0
+2024-01,CABA,Palermo,Postres helados,454.5,757,5060898.0
+2024-01,CABA,Palermo,Palitos y bombones,315.5,2103,4581465.0
+2024-01,CABA,Belgrano,Helado por kilo,3081.5,3423,28417625.0
+2024-01,CABA,Belgrano,Cucuruchos y vasitos,1044.6,5803,13231487.0
+2024-01,CABA,Belgrano,Postres helados,419.9,699,4677136.0
+2024-01,CABA,Belgrano,Palitos y bombones,270.9,1806,3668227.0
+2024-01,CABA,Caballito,Helado por kilo,2988.9,3320,26899716.0
+2024-01,CABA,Caballito,Cucuruchos y vasitos,950.1,5278,11619978.0
+2024-01,CABA,Caballito,Postres helados,539.5,899,5933629.0
+2024-01,CABA,Caballito,Palitos y bombones,280.9,1872,3988265.0
+2024-01,Santa Fe,Rosario Centro,Helado por kilo,2456.8,2729,22150667.0
+2024-01,Santa Fe,Rosario Centro,Cucuruchos y vasitos,819.8,4554,10428524.0
+2024-01,Santa Fe,Rosario Centro,Postres helados,414.0,689,4596772.0
+2024-01,Santa Fe,Rosario Centro,Palitos y bombones,245.9,1639,3510557.0
+2024-01,Santa Fe,Santa Fe Capital,Helado por kilo,2324.8,2583,21551141.0
+2024-01,Santa Fe,Santa Fe Capital,Cucuruchos y vasitos,765.2,4251,9343705.0
+2024-01,Santa Fe,Santa Fe Capital,Postres helados,359.5,599,3769625.0
+2024-01,Santa Fe,Santa Fe Capital,Palitos y bombones,220.2,1467,3129915.0
+2024-01,Mendoza,Mendoza Centro,Helado por kilo,2100.1,2333,18486270.0
+2024-01,Mendoza,Mendoza Centro,Cucuruchos y vasitos,726.4,4035,9194676.0
+2024-01,Mendoza,Mendoza Centro,Postres helados,334.9,558,3643951.0
+2024-01,Mendoza,Mendoza Centro,Palitos y bombones,201.5,1343,2720694.0
+2024-01,Mendoza,Godoy Cruz,Helado por kilo,1862.9,2069,16960177.0
+2024-01,Mendoza,Godoy Cruz,Cucuruchos y vasitos,710.0,3944,8921375.0
+2024-01,Mendoza,Godoy Cruz,Postres helados,322.1,536,3469421.0
+2024-01,Mendoza,Godoy Cruz,Palitos y bombones,195.8,1305,2683821.0
+2024-01,Tucumán,San Miguel de Tucumán,Helado por kilo,2449.3,2721,22316301.0
+2024-01,Tucumán,San Miguel de Tucumán,Cucuruchos y vasitos,868.1,4822,10923472.0
+2024-01,Tucumán,San Miguel de Tucumán,Postres helados,400.9,668,4412152.0
+2024-01,Tucumán,San Miguel de Tucumán,Palitos y bombones,248.3,1655,3582158.0
+2024-02,Córdoba,Nueva Córdoba,Helado por kilo,2504.1,2782,25889081.0
+2024-02,Córdoba,Nueva Córdoba,Cucuruchos y vasitos,857.2,4762,12386645.0
+2024-02,Córdoba,Nueva Córdoba,Postres helados,445.9,743,5450268.0
+2024-02,Córdoba,Nueva Córdoba,Palitos y bombones,224.5,1496,3522872.0
+2024-02,Córdoba,Cerro de las Rosas,Helado por kilo,2281.0,2534,22213444.0
+2024-02,Córdoba,Cerro de las Rosas,Cucuruchos y vasitos,850.5,4725,11885642.0
+2024-02,Córdoba,Cerro de las Rosas,Postres helados,343.1,571,4164874.0
+2024-02,Córdoba,Cerro de las Rosas,Palitos y bombones,212.6,1417,3279116.0
+2024-02,Córdoba,General Paz,Helado por kilo,2407.1,2674,24712419.0
+2024-02,Córdoba,General Paz,Cucuruchos y vasitos,790.7,4392,11531712.0
+2024-02,Córdoba,General Paz,Postres helados,355.8,593,4389845.0
+2024-02,Córdoba,General Paz,Palitos y bombones,210.7,1404,3325265.0
+2024-02,Córdoba,Villa Carlos Paz,Helado por kilo,2154.7,2394,21629075.0
+2024-02,Córdoba,Villa Carlos Paz,Cucuruchos y vasitos,918.8,5104,12733281.0
+2024-02,Córdoba,Villa Carlos Paz,Postres helados,382.2,636,4743046.0
+2024-02,Córdoba,Villa Carlos Paz,Palitos y bombones,225.7,1504,3562478.0
+2024-02,Buenos Aires,Mar del Plata,Helado por kilo,2991.4,3323,30957303.0
+2024-02,Buenos Aires,Mar del Plata,Cucuruchos y vasitos,1115.7,6198,15164964.0
+2024-02,Buenos Aires,Mar del Plata,Postres helados,514.8,857,6530550.0
+2024-02,Buenos Aires,Mar del Plata,Palitos y bombones,270.6,1804,4362483.0
+2024-02,Buenos Aires,La Plata,Helado por kilo,2256.6,2507,22958064.0
+2024-02,Buenos Aires,La Plata,Cucuruchos y vasitos,834.8,4637,11784104.0
+2024-02,Buenos Aires,La Plata,Postres helados,400.4,667,5070461.0
+2024-02,Buenos Aires,La Plata,Palitos y bombones,226.9,1512,3639399.0
+2024-02,CABA,Palermo,Helado por kilo,2927.3,3252,30301654.0
+2024-02,CABA,Palermo,Cucuruchos y vasitos,1011.7,5620,14492766.0
+2024-02,CABA,Palermo,Postres helados,445.6,742,5570711.0
+2024-02,CABA,Palermo,Palitos y bombones,283.2,1887,4403442.0
+2024-02,CABA,Belgrano,Helado por kilo,3236.0,3595,32267993.0
+2024-02,CABA,Belgrano,Cucuruchos y vasitos,1129.4,6274,16150419.0
+2024-02,CABA,Belgrano,Postres helados,506.2,843,6224392.0
+2024-02,CABA,Belgrano,Palitos y bombones,284.6,1897,4416316.0
+2024-02,CABA,Caballito,Helado por kilo,2728.1,3031,28409521.0
+2024-02,CABA,Caballito,Cucuruchos y vasitos,1022.0,5677,13991129.0
+2024-02,CABA,Caballito,Postres helados,472.1,786,5921724.0
+2024-02,CABA,Caballito,Palitos y bombones,278.1,1853,4446551.0
+2024-02,Santa Fe,Rosario Centro,Helado por kilo,2200.7,2445,22552710.0
+2024-02,Santa Fe,Rosario Centro,Cucuruchos y vasitos,721.3,4006,10200758.0
+2024-02,Santa Fe,Rosario Centro,Postres helados,341.2,568,4213237.0
+2024-02,Santa Fe,Rosario Centro,Palitos y bombones,196.8,1311,3107757.0
+2024-02,Santa Fe,Santa Fe Capital,Helado por kilo,2297.4,2552,23683660.0
+2024-02,Santa Fe,Santa Fe Capital,Cucuruchos y vasitos,879.2,4884,12657058.0
+2024-02,Santa Fe,Santa Fe Capital,Postres helados,387.8,646,4768540.0
+2024-02,Santa Fe,Santa Fe Capital,Palitos y bombones,240.1,1600,3808479.0
+2024-02,Mendoza,Mendoza Centro,Helado por kilo,2125.0,2361,21763528.0
+2024-02,Mendoza,Mendoza Centro,Cucuruchos y vasitos,761.9,4232,10817837.0
+2024-02,Mendoza,Mendoza Centro,Postres helados,377.1,628,4653620.0
+2024-02,Mendoza,Mendoza Centro,Palitos y bombones,232.5,1550,3797740.0
+2024-02,Mendoza,Godoy Cruz,Helado por kilo,2123.1,2359,21303740.0
+2024-02,Mendoza,Godoy Cruz,Cucuruchos y vasitos,811.1,4505,11920764.0
+2024-02,Mendoza,Godoy Cruz,Postres helados,349.6,582,4482715.0
+2024-02,Mendoza,Godoy Cruz,Palitos y bombones,205.7,1371,3241491.0
+2024-02,Tucumán,San Miguel de Tucumán,Helado por kilo,2537.1,2819,26318641.0
+2024-02,Tucumán,San Miguel de Tucumán,Cucuruchos y vasitos,789.2,4384,10892720.0
+2024-02,Tucumán,San Miguel de Tucumán,Postres helados,410.0,683,5416421.0
+2024-02,Tucumán,San Miguel de Tucumán,Palitos y bombones,231.4,1542,3826884.0
+2024-03,Córdoba,Nueva Córdoba,Helado por kilo,1679.2,1865,19548795.0
+2024-03,Córdoba,Nueva Córdoba,Cucuruchos y vasitos,665.3,3696,10547592.0
+2024-03,Córdoba,Nueva Córdoba,Postres helados,307.7,512,4238909.0
+2024-03,Córdoba,Nueva Córdoba,Palitos y bombones,170.8,1138,3012934.0
+2024-03,Córdoba,Cerro de las Rosas,Helado por kilo,1874.6,2082,20915478.0
+2024-03,Córdoba,Cerro de las Rosas,Cucuruchos y vasitos,673.0,3738,10253083.0
+2024-03,Córdoba,Cerro de las Rosas,Postres helados,299.1,498,4132797.0
+2024-03,Córdoba,Cerro de las Rosas,Palitos y bombones,181.2,1207,3242085.0
+2024-03,Córdoba,General Paz,Helado por kilo,1909.9,2122,21730885.0
+2024-03,Córdoba,General Paz,Cucuruchos y vasitos,722.5,4014,11260266.0
+2024-03,Córdoba,General Paz,Postres helados,296.8,494,4157645.0
+2024-03,Córdoba,General Paz,Palitos y bombones,186.7,1244,3214010.0
+2024-03,Córdoba,Villa Carlos Paz,Helado por kilo,1560.6,1734,17491525.0
+2024-03,Córdoba,Villa Carlos Paz,Cucuruchos y vasitos,505.6,2808,7922894.0
+2024-03,Córdoba,Villa Carlos Paz,Postres helados,227.3,378,3079997.0
+2024-03,Córdoba,Villa Carlos Paz,Palitos y bombones,147.2,981,2564227.0
+2024-03,Buenos Aires,Mar del Plata,Helado por kilo,1673.7,1859,18813090.0
+2024-03,Buenos Aires,Mar del Plata,Cucuruchos y vasitos,607.2,3373,9504558.0
+2024-03,Buenos Aires,Mar del Plata,Postres helados,274.9,458,3683691.0
+2024-03,Buenos Aires,Mar del Plata,Palitos y bombones,158.7,1057,2809247.0
+2024-03,Buenos Aires,La Plata,Helado por kilo,2136.0,2373,23429426.0
+2024-03,Buenos Aires,La Plata,Cucuruchos y vasitos,734.4,4080,11457156.0
+2024-03,Buenos Aires,La Plata,Postres helados,320.7,534,4465185.0
+2024-03,Buenos Aires,La Plata,Palitos y bombones,195.5,1303,3419449.0
+2024-03,CABA,Palermo,Helado por kilo,2117.4,2352,24824419.0
+2024-03,CABA,Palermo,Cucuruchos y vasitos,789.5,4385,12662980.0
+2024-03,CABA,Palermo,Postres helados,349.8,583,4714915.0
+2024-03,CABA,Palermo,Palitos y bombones,223.4,1489,3975868.0
+2024-03,CABA,Belgrano,Helado por kilo,2416.7,2685,27553779.0
+2024-03,CABA,Belgrano,Cucuruchos y vasitos,870.2,4834,13201472.0
+2024-03,CABA,Belgrano,Postres helados,418.8,697,5899324.0
+2024-03,CABA,Belgrano,Palitos y bombones,223.9,1492,3945508.0
+2024-03,CABA,Caballito,Helado por kilo,2104.7,2338,24000630.0
+2024-03,CABA,Caballito,Cucuruchos y vasitos,786.8,4370,12375321.0
+2024-03,CABA,Caballito,Postres helados,335.4,559,4610216.0
+2024-03,CABA,Caballito,Palitos y bombones,203.7,1357,3564284.0
+2024-03,Santa Fe,Rosario Centro,Helado por kilo,1728.8,1920,20216498.0
+2024-03,Santa Fe,Rosario Centro,Cucuruchos y vasitos,642.3,3568,10193736.0
+2024-03,Santa Fe,Rosario Centro,Postres helados,322.2,537,4388871.0
+2024-03,Santa Fe,Rosario Centro,Palitos y bombones,187.8,1252,3423312.0
+2024-03,Santa Fe,Santa Fe Capital,Helado por kilo,1787.4,1985,21131972.0
+2024-03,Santa Fe,Santa Fe Capital,Cucuruchos y vasitos,692.7,3848,10800742.0
+2024-03,Santa Fe,Santa Fe Capital,Postres helados,295.9,493,4173763.0
+2024-03,Santa Fe,Santa Fe Capital,Palitos y bombones,183.1,1220,3186260.0
+2024-03,Mendoza,Mendoza Centro,Helado por kilo,1721.1,1912,19603734.0
+2024-03,Mendoza,Mendoza Centro,Cucuruchos y vasitos,655.9,3643,10291010.0
+2024-03,Mendoza,Mendoza Centro,Postres helados,314.6,524,4461055.0
+2024-03,Mendoza,Mendoza Centro,Palitos y bombones,165.6,1103,2901086.0
+2024-03,Mendoza,Godoy Cruz,Helado por kilo,1618.0,1797,18417945.0
+2024-03,Mendoza,Godoy Cruz,Cucuruchos y vasitos,569.7,3165,8984446.0
+2024-03,Mendoza,Godoy Cruz,Postres helados,261.1,435,3533961.0
+2024-03,Mendoza,Godoy Cruz,Palitos y bombones,171.0,1140,2980648.0
+2024-03,Tucumán,San Miguel de Tucumán,Helado por kilo,2008.3,2231,22081851.0
+2024-03,Tucumán,San Miguel de Tucumán,Cucuruchos y vasitos,730.0,4055,11707286.0
+2024-03,Tucumán,San Miguel de Tucumán,Postres helados,294.8,491,4104770.0
+2024-03,Tucumán,San Miguel de Tucumán,Palitos y bombones,192.3,1282,3419306.0
+2024-04,Córdoba,Nueva Córdoba,Helado por kilo,1426.7,1585,17394529.0
+2024-04,Córdoba,Nueva Córdoba,Cucuruchos y vasitos,465.9,2588,8038165.0
+2024-04,Córdoba,Nueva Córdoba,Postres helados,230.4,384,3428160.0
+2024-04,Córdoba,Nueva Córdoba,Palitos y bombones,143.4,956,2715488.0
+2024-04,Córdoba,Cerro de las Rosas,Helado por kilo,1411.4,1568,17364201.0
+2024-04,Córdoba,Cerro de las Rosas,Cucuruchos y vasitos,519.9,2888,8895424.0
+2024-04,Córdoba,Cerro de las Rosas,Postres helados,210.9,351,3247132.0
+2024-04,Córdoba,Cerro de las Rosas,Palitos y bombones,140.5,936,2708762.0
+2024-04,Córdoba,General Paz,Helado por kilo,1242.5,1380,15320968.0
+2024-04,Córdoba,General Paz,Cucuruchos y vasitos,471.8,2620,7833222.0
+2024-04,Córdoba,General Paz,Postres helados,231.2,385,3436471.0
+2024-04,Córdoba,General Paz,Palitos y bombones,128.2,854,2466893.0
+2024-04,Córdoba,Villa Carlos Paz,Helado por kilo,1366.1,1517,16521246.0
+2024-04,Córdoba,Villa Carlos Paz,Cucuruchos y vasitos,488.9,2716,8115357.0
+2024-04,Córdoba,Villa Carlos Paz,Postres helados,245.6,409,3766243.0
+2024-04,Córdoba,Villa Carlos Paz,Palitos y bombones,136.4,909,2584274.0
+2024-04,Buenos Aires,Mar del Plata,Helado por kilo,1225.4,1361,15414278.0
+2024-04,Buenos Aires,Mar del Plata,Cucuruchos y vasitos,448.0,2489,7534494.0
+2024-04,Buenos Aires,Mar del Plata,Postres helados,208.6,347,3075930.0
+2024-04,Buenos Aires,Mar del Plata,Palitos y bombones,121.5,810,2416493.0
+2024-04,Buenos Aires,La Plata,Helado por kilo,1674.1,1860,20352814.0
+2024-04,Buenos Aires,La Plata,Cucuruchos y vasitos,553.7,3075,9229411.0
+2024-04,Buenos Aires,La Plata,Postres helados,255.7,426,3905219.0
+2024-04,Buenos Aires,La Plata,Palitos y bombones,166.8,1112,3097983.0
+2024-04,CABA,Palermo,Helado por kilo,1491.6,1657,18717908.0
+2024-04,CABA,Palermo,Cucuruchos y vasitos,552.8,3071,9760617.0
+2024-04,CABA,Palermo,Postres helados,239.7,399,3620877.0
+2024-04,CABA,Palermo,Palitos y bombones,154.2,1028,3015234.0
+2024-04,CABA,Belgrano,Helado por kilo,1638.3,1820,20204889.0
+2024-04,CABA,Belgrano,Cucuruchos y vasitos,559.5,3108,9527418.0
+2024-04,CABA,Belgrano,Postres helados,256.6,427,3790766.0
+2024-04,CABA,Belgrano,Palitos y bombones,158.7,1057,3015832.0
+2024-04,CABA,Caballito,Helado por kilo,1831.4,2034,22664964.0
+2024-04,CABA,Caballito,Cucuruchos y vasitos,645.0,3583,10876985.0
+2024-04,CABA,Caballito,Postres helados,297.7,496,4669303.0
+2024-04,CABA,Caballito,Palitos y bombones,165.6,1103,3177406.0
+2024-04,Santa Fe,Rosario Centro,Helado por kilo,1218.4,1353,14965044.0
+2024-04,Santa Fe,Rosario Centro,Cucuruchos y vasitos,435.1,2417,7560254.0
+2024-04,Santa Fe,Rosario Centro,Postres helados,180.3,300,2777236.0
+2024-04,Santa Fe,Rosario Centro,Palitos y bombones,110.3,735,2134490.0
+2024-04,Santa Fe,Santa Fe Capital,Helado por kilo,1332.6,1480,16353699.0
+2024-04,Santa Fe,Santa Fe Capital,Cucuruchos y vasitos,431.5,2397,7270209.0
+2024-04,Santa Fe,Santa Fe Capital,Postres helados,219.3,365,3224703.0
+2024-04,Santa Fe,Santa Fe Capital,Palitos y bombones,115.4,769,2181966.0
+2024-04,Mendoza,Mendoza Centro,Helado por kilo,1112.0,1235,13471731.0
+2024-04,Mendoza,Mendoza Centro,Cucuruchos y vasitos,410.8,2282,7083930.0
+2024-04,Mendoza,Mendoza Centro,Postres helados,190.9,318,2891851.0
+2024-04,Mendoza,Mendoza Centro,Palitos y bombones,125.8,838,2497713.0
+2024-04,Mendoza,Godoy Cruz,Helado por kilo,1234.8,1372,15549427.0
+2024-04,Mendoza,Godoy Cruz,Cucuruchos y vasitos,410.2,2278,7073631.0
+2024-04,Mendoza,Godoy Cruz,Postres helados,216.5,360,3271594.0
+2024-04,Mendoza,Godoy Cruz,Palitos y bombones,111.4,742,2060760.0
+2024-04,Tucumán,San Miguel de Tucumán,Helado por kilo,1300.5,1445,16060193.0
+2024-04,Tucumán,San Miguel de Tucumán,Cucuruchos y vasitos,488.9,2716,8311657.0
+2024-04,Tucumán,San Miguel de Tucumán,Postres helados,223.6,372,3407998.0
+2024-04,Tucumán,San Miguel de Tucumán,Palitos y bombones,131.4,876,2494584.0
+2024-05,Córdoba,Nueva Córdoba,Helado por kilo,933.9,1037,11997412.0
+2024-05,Córdoba,Nueva Córdoba,Cucuruchos y vasitos,382.0,2122,6977733.0
+2024-05,Córdoba,Nueva Córdoba,Postres helados,177.0,294,2860161.0
+2024-05,Córdoba,Nueva Córdoba,Palitos y bombones,101.5,676,2022648.0
+2024-05,Córdoba,Cerro de las Rosas,Helado por kilo,983.1,1092,12927125.0
+2024-05,Córdoba,Cerro de las Rosas,Cucuruchos y vasitos,354.1,1966,6154891.0
+2024-05,Córdoba,Cerro de las Rosas,Postres helados,165.7,276,2633943.0
+2024-05,Córdoba,Cerro de las Rosas,Palitos y bombones,94.9,632,1872442.0
+2024-05,Córdoba,General Paz,Helado por kilo,1114.3,1238,13630071.0
+2024-05,Córdoba,General Paz,Cucuruchos y vasitos,373.0,2072,6660555.0
+2024-05,Córdoba,General Paz,Postres helados,164.4,274,2565558.0
+2024-05,Córdoba,General Paz,Palitos y bombones,95.7,637,1952845.0
+2024-05,Córdoba,Villa Carlos Paz,Helado por kilo,1211.3,1345,15523812.0
+2024-05,Córdoba,Villa Carlos Paz,Cucuruchos y vasitos,435.9,2421,7519985.0
+2024-05,Córdoba,Villa Carlos Paz,Postres helados,199.4,332,3034008.0
+2024-05,Córdoba,Villa Carlos Paz,Palitos y bombones,116.4,776,2317903.0
+2024-05,Buenos Aires,Mar del Plata,Helado por kilo,983.2,1092,12482836.0
+2024-05,Buenos Aires,Mar del Plata,Cucuruchos y vasitos,356.1,1978,6382281.0
+2024-05,Buenos Aires,Mar del Plata,Postres helados,150.5,250,2314914.0
+2024-05,Buenos Aires,Mar del Plata,Palitos y bombones,92.9,619,1862581.0
+2024-05,Buenos Aires,La Plata,Helado por kilo,1077.8,1197,14036203.0
+2024-05,Buenos Aires,La Plata,Cucuruchos y vasitos,372.6,2069,6610632.0
+2024-05,Buenos Aires,La Plata,Postres helados,177.6,295,2822572.0
+2024-05,Buenos Aires,La Plata,Palitos y bombones,95.5,636,1909145.0
+2024-05,CABA,Palermo,Helado por kilo,1142.9,1269,14481406.0
+2024-05,CABA,Palermo,Cucuruchos y vasitos,449.1,2495,7907367.0
+2024-05,CABA,Palermo,Postres helados,205.9,343,3179075.0
+2024-05,CABA,Palermo,Palitos y bombones,123.8,825,2527395.0
+2024-05,CABA,Belgrano,Helado por kilo,1091.1,1212,13738154.0
+2024-05,CABA,Belgrano,Cucuruchos y vasitos,392.1,2178,6807020.0
+2024-05,CABA,Belgrano,Postres helados,184.4,307,2889174.0
+2024-05,CABA,Belgrano,Palitos y bombones,104.2,694,2067958.0
+2024-05,CABA,Caballito,Helado por kilo,1075.0,1194,13573182.0
+2024-05,CABA,Caballito,Cucuruchos y vasitos,401.4,2229,7115314.0
+2024-05,CABA,Caballito,Postres helados,197.4,329,3189738.0
+2024-05,CABA,Caballito,Palitos y bombones,116.6,777,2254514.0
+2024-05,Santa Fe,Rosario Centro,Helado por kilo,862.9,958,10823721.0
+2024-05,Santa Fe,Rosario Centro,Cucuruchos y vasitos,324.7,1803,5647368.0
+2024-05,Santa Fe,Rosario Centro,Postres helados,135.5,225,2167221.0
+2024-05,Santa Fe,Rosario Centro,Palitos y bombones,77.5,516,1550901.0
+2024-05,Santa Fe,Santa Fe Capital,Helado por kilo,1001.4,1112,12663213.0
+2024-05,Santa Fe,Santa Fe Capital,Cucuruchos y vasitos,319.3,1773,5655858.0
+2024-05,Santa Fe,Santa Fe Capital,Postres helados,161.0,268,2568904.0
+2024-05,Santa Fe,Santa Fe Capital,Palitos y bombones,87.4,582,1735610.0
+2024-05,Mendoza,Mendoza Centro,Helado por kilo,778.0,864,9554150.0
+2024-05,Mendoza,Mendoza Centro,Cucuruchos y vasitos,261.0,1449,4658543.0
+2024-05,Mendoza,Mendoza Centro,Postres helados,128.3,213,2044999.0
+2024-05,Mendoza,Mendoza Centro,Palitos y bombones,71.5,476,1426590.0
+2024-05,Mendoza,Godoy Cruz,Helado por kilo,812.8,903,9926759.0
+2024-05,Mendoza,Godoy Cruz,Cucuruchos y vasitos,307.4,1707,5431596.0
+2024-05,Mendoza,Godoy Cruz,Postres helados,142.4,237,2252690.0
+2024-05,Mendoza,Godoy Cruz,Palitos y bombones,82.2,547,1672803.0
+2024-05,Tucumán,San Miguel de Tucumán,Helado por kilo,1046.5,1162,13461688.0
+2024-05,Tucumán,San Miguel de Tucumán,Cucuruchos y vasitos,400.3,2223,7064038.0
+2024-05,Tucumán,San Miguel de Tucumán,Postres helados,180.0,299,2835062.0
+2024-05,Tucumán,San Miguel de Tucumán,Palitos y bombones,100.5,669,2024343.0
+2024-06,Córdoba,Nueva Córdoba,Helado por kilo,728.2,809,9645926.0
+2024-06,Córdoba,Nueva Córdoba,Cucuruchos y vasitos,279.4,1552,5318738.0
+2024-06,Córdoba,Nueva Córdoba,Postres helados,112.3,187,1834071.0
+2024-06,Córdoba,Nueva Córdoba,Palitos y bombones,67.8,451,1354598.0
+2024-06,Córdoba,Cerro de las Rosas,Helado por kilo,709.2,787,9749093.0
+2024-06,Córdoba,Cerro de las Rosas,Cucuruchos y vasitos,255.0,1416,4782376.0
+2024-06,Córdoba,Cerro de las Rosas,Postres helados,117.3,195,1905993.0
+2024-06,Córdoba,Cerro de las Rosas,Palitos y bombones,69.8,465,1445554.0
+2024-06,Córdoba,General Paz,Helado por kilo,707.9,786,9521233.0
+2024-06,Córdoba,General Paz,Cucuruchos y vasitos,246.3,1368,4456133.0
+2024-06,Córdoba,General Paz,Postres helados,113.6,189,1844537.0
+2024-06,Córdoba,General Paz,Palitos y bombones,67.6,450,1459946.0
+2024-06,Córdoba,Villa Carlos Paz,Helado por kilo,915.3,1016,12432532.0
+2024-06,Córdoba,Villa Carlos Paz,Cucuruchos y vasitos,349.2,1940,6544488.0
+2024-06,Córdoba,Villa Carlos Paz,Postres helados,153.3,255,2562960.0
+2024-06,Córdoba,Villa Carlos Paz,Palitos y bombones,91.0,606,1883209.0
+2024-06,Buenos Aires,Mar del Plata,Helado por kilo,627.0,696,8297602.0
+2024-06,Buenos Aires,Mar del Plata,Cucuruchos y vasitos,235.4,1307,4467442.0
+2024-06,Buenos Aires,Mar del Plata,Postres helados,107.3,178,1741060.0
+2024-06,Buenos Aires,Mar del Plata,Palitos y bombones,65.9,439,1374857.0
+2024-06,Buenos Aires,La Plata,Helado por kilo,838.2,931,11213478.0
+2024-06,Buenos Aires,La Plata,Cucuruchos y vasitos,302.6,1681,5715536.0
+2024-06,Buenos Aires,La Plata,Postres helados,134.7,224,2165490.0
+2024-06,Buenos Aires,La Plata,Palitos y bombones,80.2,534,1647760.0
+2024-06,CABA,Palermo,Helado por kilo,911.1,1012,12331769.0
+2024-06,CABA,Palermo,Cucuruchos y vasitos,322.2,1789,5904261.0
+2024-06,CABA,Palermo,Postres helados,153.6,255,2546054.0
+2024-06,CABA,Palermo,Palitos y bombones,91.0,606,1889093.0
+2024-06,CABA,Belgrano,Helado por kilo,983.7,1093,13236545.0
+2024-06,CABA,Belgrano,Cucuruchos y vasitos,402.6,2236,7114131.0
+2024-06,CABA,Belgrano,Postres helados,145.1,241,2255767.0
+2024-06,CABA,Belgrano,Palitos y bombones,94.2,628,1880600.0
+2024-06,CABA,Caballito,Helado por kilo,958.7,1065,13134783.0
+2024-06,CABA,Caballito,Cucuruchos y vasitos,306.6,1703,5629227.0
+2024-06,CABA,Caballito,Postres helados,143.2,238,2390691.0
+2024-06,CABA,Caballito,Palitos y bombones,87.0,579,1840370.0
+2024-06,Santa Fe,Rosario Centro,Helado por kilo,656.6,729,8703949.0
+2024-06,Santa Fe,Rosario Centro,Cucuruchos y vasitos,244.9,1360,4644650.0
+2024-06,Santa Fe,Rosario Centro,Postres helados,111.6,185,1783609.0
+2024-06,Santa Fe,Rosario Centro,Palitos y bombones,65.9,439,1403769.0
+2024-06,Santa Fe,Santa Fe Capital,Helado por kilo,700.9,778,9343606.0
+2024-06,Santa Fe,Santa Fe Capital,Cucuruchos y vasitos,261.2,1451,4813738.0
+2024-06,Santa Fe,Santa Fe Capital,Postres helados,110.3,183,1826037.0
+2024-06,Santa Fe,Santa Fe Capital,Palitos y bombones,72.3,481,1467113.0
+2024-06,Mendoza,Mendoza Centro,Helado por kilo,564.2,626,7662933.0
+2024-06,Mendoza,Mendoza Centro,Cucuruchos y vasitos,209.0,1161,3782647.0
+2024-06,Mendoza,Mendoza Centro,Postres helados,97.0,161,1563295.0
+2024-06,Mendoza,Mendoza Centro,Palitos y bombones,58.0,386,1202465.0
+2024-06,Mendoza,Godoy Cruz,Helado por kilo,649.6,721,8779829.0
+2024-06,Mendoza,Godoy Cruz,Cucuruchos y vasitos,237.3,1318,4381797.0
+2024-06,Mendoza,Godoy Cruz,Postres helados,97.3,162,1622676.0
+2024-06,Mendoza,Godoy Cruz,Palitos y bombones,60.5,403,1257343.0
+2024-06,Tucumán,San Miguel de Tucumán,Helado por kilo,731.7,812,9995386.0
+2024-06,Tucumán,San Miguel de Tucumán,Cucuruchos y vasitos,261.7,1454,4950208.0
+2024-06,Tucumán,San Miguel de Tucumán,Postres helados,113.9,189,1931344.0
+2024-06,Tucumán,San Miguel de Tucumán,Palitos y bombones,64.8,432,1389212.0
+2024-07,Córdoba,Nueva Córdoba,Helado por kilo,770.4,856,10686136.0
+2024-07,Córdoba,Nueva Córdoba,Cucuruchos y vasitos,269.8,1499,5156539.0
+2024-07,Córdoba,Nueva Córdoba,Postres helados,127.0,211,2188894.0
+2024-07,Córdoba,Nueva Córdoba,Palitos y bombones,77.2,514,1651198.0
+2024-07,Córdoba,Cerro de las Rosas,Helado por kilo,721.2,801,10108099.0
+2024-07,Córdoba,Cerro de las Rosas,Cucuruchos y vasitos,264.6,1470,5074516.0
+2024-07,Córdoba,Cerro de las Rosas,Postres helados,121.3,202,2089524.0
+2024-07,Córdoba,Cerro de las Rosas,Palitos y bombones,73.1,487,1567069.0
+2024-07,Córdoba,General Paz,Helado por kilo,785.3,872,11224814.0
+2024-07,Córdoba,General Paz,Cucuruchos y vasitos,278.3,1546,5279735.0
+2024-07,Córdoba,General Paz,Postres helados,115.9,193,1953035.0
+2024-07,Córdoba,General Paz,Palitos y bombones,78.3,522,1617344.0
+2024-07,Córdoba,Villa Carlos Paz,Helado por kilo,1554.3,1727,22054176.0
+2024-07,Córdoba,Villa Carlos Paz,Cucuruchos y vasitos,530.0,2944,10198095.0
+2024-07,Córdoba,Villa Carlos Paz,Postres helados,248.8,414,4139789.0
+2024-07,Córdoba,Villa Carlos Paz,Palitos y bombones,156.3,1041,3359275.0
+2024-07,Buenos Aires,Mar del Plata,Helado por kilo,1017.2,1130,14622147.0
+2024-07,Buenos Aires,Mar del Plata,Cucuruchos y vasitos,377.2,2095,7305094.0
+2024-07,Buenos Aires,Mar del Plata,Postres helados,177.2,295,3019878.0
+2024-07,Buenos Aires,Mar del Plata,Palitos y bombones,97.4,649,2055348.0
+2024-07,Buenos Aires,La Plata,Helado por kilo,1035.5,1150,14057727.0
+2024-07,Buenos Aires,La Plata,Cucuruchos y vasitos,367.2,2039,7032479.0
+2024-07,Buenos Aires,La Plata,Postres helados,161.4,269,2724522.0
+2024-07,Buenos Aires,La Plata,Palitos y bombones,90.9,605,1922092.0
+2024-07,Buenos Aires,Pilar,Helado por kilo,648.2,720,9174184.0
+2024-07,Buenos Aires,Pilar,Cucuruchos y vasitos,218.3,1212,4169098.0
+2024-07,Buenos Aires,Pilar,Postres helados,94.2,157,1623849.0
+2024-07,Buenos Aires,Pilar,Palitos y bombones,61.6,410,1351346.0
+2024-07,CABA,Palermo,Helado por kilo,892.4,991,12309093.0
+2024-07,CABA,Palermo,Cucuruchos y vasitos,325.7,1809,6339249.0
+2024-07,CABA,Palermo,Postres helados,145.2,241,2447836.0
+2024-07,CABA,Palermo,Palitos y bombones,80.4,536,1727470.0
+2024-07,CABA,Belgrano,Helado por kilo,1032.1,1146,14750207.0
+2024-07,CABA,Belgrano,Cucuruchos y vasitos,364.3,2023,6968870.0
+2024-07,CABA,Belgrano,Postres helados,161.9,269,2680978.0
+2024-07,CABA,Belgrano,Palitos y bombones,103.0,686,2175399.0
+2024-07,CABA,Caballito,Helado por kilo,1064.6,1182,14692646.0
+2024-07,CABA,Caballito,Cucuruchos y vasitos,381.9,2121,7469291.0
+2024-07,CABA,Caballito,Postres helados,186.6,311,3224898.0
+2024-07,CABA,Caballito,Palitos y bombones,116.4,775,2484281.0
+2024-07,Santa Fe,Rosario Centro,Helado por kilo,791.8,879,11004273.0
+2024-07,Santa Fe,Rosario Centro,Cucuruchos y vasitos,271.3,1507,5252166.0
+2024-07,Santa Fe,Rosario Centro,Postres helados,130.5,217,2229302.0
+2024-07,Santa Fe,Rosario Centro,Palitos y bombones,79.6,530,1659686.0
+2024-07,Santa Fe,Santa Fe Capital,Helado por kilo,851.6,946,11708092.0
+2024-07,Santa Fe,Santa Fe Capital,Cucuruchos y vasitos,247.7,1376,4727641.0
+2024-07,Santa Fe,Santa Fe Capital,Postres helados,118.1,196,2020979.0
+2024-07,Santa Fe,Santa Fe Capital,Palitos y bombones,74.7,497,1572461.0
+2024-07,Mendoza,Mendoza Centro,Helado por kilo,612.3,680,8457850.0
+2024-07,Mendoza,Mendoza Centro,Cucuruchos y vasitos,223.8,1243,4333975.0
+2024-07,Mendoza,Mendoza Centro,Postres helados,99.3,165,1720387.0
+2024-07,Mendoza,Mendoza Centro,Palitos y bombones,64.6,430,1403606.0
+2024-07,Mendoza,Godoy Cruz,Helado por kilo,697.7,775,9799494.0
+2024-07,Mendoza,Godoy Cruz,Cucuruchos y vasitos,260.6,1447,5232115.0
+2024-07,Mendoza,Godoy Cruz,Postres helados,114.2,190,1948504.0
+2024-07,Mendoza,Godoy Cruz,Palitos y bombones,69.3,462,1477387.0
+2024-07,Tucumán,San Miguel de Tucumán,Helado por kilo,862.6,958,11966763.0
+2024-07,Tucumán,San Miguel de Tucumán,Cucuruchos y vasitos,301.1,1672,5831323.0
+2024-07,Tucumán,San Miguel de Tucumán,Postres helados,147.8,246,2528888.0
+2024-07,Tucumán,San Miguel de Tucumán,Palitos y bombones,85.9,572,1881125.0
+2024-08,Córdoba,Nueva Córdoba,Helado por kilo,788.2,875,11832163.0
+2024-08,Córdoba,Nueva Córdoba,Cucuruchos y vasitos,271.1,1505,5453284.0
+2024-08,Córdoba,Nueva Córdoba,Postres helados,129.6,215,2284573.0
+2024-08,Córdoba,Nueva Córdoba,Palitos y bombones,74.7,498,1692878.0
+2024-08,Córdoba,Cerro de las Rosas,Helado por kilo,726.4,807,10885731.0
+2024-08,Córdoba,Cerro de las Rosas,Cucuruchos y vasitos,239.4,1330,4879269.0
+2024-08,Córdoba,Cerro de las Rosas,Postres helados,127.0,211,2285976.0
+2024-08,Córdoba,Cerro de las Rosas,Palitos y bombones,69.0,459,1590457.0
+2024-08,Córdoba,General Paz,Helado por kilo,844.7,938,12159549.0
+2024-08,Córdoba,General Paz,Cucuruchos y vasitos,311.1,1728,6221010.0
+2024-08,Córdoba,General Paz,Postres helados,132.7,221,2382540.0
+2024-08,Córdoba,General Paz,Palitos y bombones,84.0,559,1862319.0
+2024-08,Córdoba,Villa Carlos Paz,Helado por kilo,1109.1,1232,15657887.0
+2024-08,Córdoba,Villa Carlos Paz,Cucuruchos y vasitos,383.2,2128,7670264.0
+2024-08,Córdoba,Villa Carlos Paz,Postres helados,172.9,288,3157283.0
+2024-08,Córdoba,Villa Carlos Paz,Palitos y bombones,108.8,725,2458208.0
+2024-08,Buenos Aires,Mar del Plata,Helado por kilo,1015.0,1127,14538453.0
+2024-08,Buenos Aires,Mar del Plata,Cucuruchos y vasitos,321.3,1784,6399507.0
+2024-08,Buenos Aires,Mar del Plata,Postres helados,142.1,236,2503026.0
+2024-08,Buenos Aires,Mar del Plata,Palitos y bombones,89.5,596,1971273.0
+2024-08,Buenos Aires,La Plata,Helado por kilo,918.3,1020,13005727.0
+2024-08,Buenos Aires,La Plata,Cucuruchos y vasitos,327.9,1821,6647414.0
+2024-08,Buenos Aires,La Plata,Postres helados,155.1,258,2765587.0
+2024-08,Buenos Aires,La Plata,Palitos y bombones,86.8,578,1952057.0
+2024-08,Buenos Aires,Pilar,Helado por kilo,707.1,785,10275097.0
+2024-08,Buenos Aires,Pilar,Cucuruchos y vasitos,234.1,1300,4733381.0
+2024-08,Buenos Aires,Pilar,Postres helados,99.8,166,1736374.0
+2024-08,Buenos Aires,Pilar,Palitos y bombones,66.9,446,1564589.0
+2024-08,CABA,Palermo,Helado por kilo,903.8,1004,12966552.0
+2024-08,CABA,Palermo,Cucuruchos y vasitos,360.0,1999,7497076.0
+2024-08,CABA,Palermo,Postres helados,162.3,270,2892858.0
+2024-08,CABA,Palermo,Palitos y bombones,102.6,683,2294280.0
+2024-08,CABA,Belgrano,Helado por kilo,1022.9,1136,15340087.0
+2024-08,CABA,Belgrano,Cucuruchos y vasitos,367.8,2043,7523622.0
+2024-08,CABA,Belgrano,Postres helados,159.2,265,2803934.0
+2024-08,CABA,Belgrano,Palitos y bombones,94.9,632,2108716.0
+2024-08,CABA,Caballito,Helado por kilo,1078.7,1198,15220637.0
+2024-08,CABA,Caballito,Cucuruchos y vasitos,394.6,2192,7760801.0
+2024-08,CABA,Caballito,Postres helados,173.5,289,3080636.0
+2024-08,CABA,Caballito,Palitos y bombones,103.9,692,2319700.0
+2024-08,Santa Fe,Rosario Centro,Helado por kilo,712.4,791,9919684.0
+2024-08,Santa Fe,Rosario Centro,Cucuruchos y vasitos,269.4,1496,5366897.0
+2024-08,Santa Fe,Rosario Centro,Postres helados,111.8,186,1992053.0
+2024-08,Santa Fe,Rosario Centro,Palitos y bombones,76.2,508,1763228.0
+2024-08,Santa Fe,Santa Fe Capital,Helado por kilo,814.8,905,12229977.0
+2024-08,Santa Fe,Santa Fe Capital,Cucuruchos y vasitos,264.3,1468,5385682.0
+2024-08,Santa Fe,Santa Fe Capital,Postres helados,127.8,212,2298452.0
+2024-08,Santa Fe,Santa Fe Capital,Palitos y bombones,75.5,503,1695475.0
+2024-08,Mendoza,Mendoza Centro,Helado por kilo,697.9,775,10250623.0
+2024-08,Mendoza,Mendoza Centro,Cucuruchos y vasitos,264.3,1468,5166381.0
+2024-08,Mendoza,Mendoza Centro,Postres helados,104.0,173,1869285.0
+2024-08,Mendoza,Mendoza Centro,Palitos y bombones,70.7,471,1584356.0
+2024-08,Mendoza,Godoy Cruz,Helado por kilo,635.5,706,9355917.0
+2024-08,Mendoza,Godoy Cruz,Cucuruchos y vasitos,213.7,1187,4465509.0
+2024-08,Mendoza,Godoy Cruz,Postres helados,101.0,168,1738852.0
+2024-08,Mendoza,Godoy Cruz,Palitos y bombones,64.7,431,1410149.0
+2024-08,Tucumán,San Miguel de Tucumán,Helado por kilo,935.3,1039,13110931.0
+2024-08,Tucumán,San Miguel de Tucumán,Cucuruchos y vasitos,304.3,1690,6368943.0
+2024-08,Tucumán,San Miguel de Tucumán,Postres helados,143.5,239,2546175.0
+2024-08,Tucumán,San Miguel de Tucumán,Palitos y bombones,84.8,565,1904737.0
+2024-09,Córdoba,Nueva Córdoba,Helado por kilo,1253.2,1392,18579098.0
+2024-09,Córdoba,Nueva Córdoba,Cucuruchos y vasitos,405.8,2254,8552540.0
+2024-09,Córdoba,Nueva Córdoba,Postres helados,205.2,341,3624739.0
+2024-09,Córdoba,Nueva Córdoba,Palitos y bombones,120.3,801,2817984.0
+2024-09,Córdoba,Cerro de las Rosas,Helado por kilo,1061.5,1179,16403752.0
+2024-09,Córdoba,Cerro de las Rosas,Cucuruchos y vasitos,411.1,2284,8614875.0
+2024-09,Córdoba,Cerro de las Rosas,Postres helados,184.0,306,3357373.0
+2024-09,Córdoba,Cerro de las Rosas,Palitos y bombones,106.7,711,2600779.0
+2024-09,Córdoba,General Paz,Helado por kilo,1392.5,1547,21645663.0
+2024-09,Córdoba,General Paz,Cucuruchos y vasitos,432.7,2404,9096645.0
+2024-09,Córdoba,General Paz,Postres helados,205.0,341,3905757.0
+2024-09,Córdoba,General Paz,Palitos y bombones,116.9,779,2679201.0
+2024-09,Córdoba,Villa Carlos Paz,Helado por kilo,1033.4,1148,15437773.0
+2024-09,Córdoba,Villa Carlos Paz,Cucuruchos y vasitos,376.1,2089,7678628.0
+2024-09,Córdoba,Villa Carlos Paz,Postres helados,162.3,270,3028591.0
+2024-09,Córdoba,Villa Carlos Paz,Palitos y bombones,106.5,709,2462662.0
+2024-09,Buenos Aires,Mar del Plata,Helado por kilo,1104.0,1226,16445826.0
+2024-09,Buenos Aires,Mar del Plata,Cucuruchos y vasitos,353.7,1965,7495625.0
+2024-09,Buenos Aires,Mar del Plata,Postres helados,167.6,279,3064282.0
+2024-09,Buenos Aires,Mar del Plata,Palitos y bombones,91.8,611,2185254.0
+2024-09,Buenos Aires,La Plata,Helado por kilo,1125.6,1250,16308377.0
+2024-09,Buenos Aires,La Plata,Cucuruchos y vasitos,418.3,2324,8928221.0
+2024-09,Buenos Aires,La Plata,Postres helados,188.1,313,3286141.0
+2024-09,Buenos Aires,La Plata,Palitos y bombones,106.2,707,2463224.0
+2024-09,Buenos Aires,Pilar,Helado por kilo,877.5,975,12949261.0
+2024-09,Buenos Aires,Pilar,Cucuruchos y vasitos,321.7,1787,6575225.0
+2024-09,Buenos Aires,Pilar,Postres helados,145.5,242,2669791.0
+2024-09,Buenos Aires,Pilar,Palitos y bombones,83.4,555,1994845.0
+2024-09,CABA,Palermo,Helado por kilo,1342.0,1491,20010797.0
+2024-09,CABA,Palermo,Cucuruchos y vasitos,456.3,2535,9359469.0
+2024-09,CABA,Palermo,Postres helados,222.0,370,4168365.0
+2024-09,CABA,Palermo,Palitos y bombones,138.2,921,3286949.0
+2024-09,CABA,Belgrano,Helado por kilo,1516.6,1685,22677542.0
+2024-09,CABA,Belgrano,Cucuruchos y vasitos,573.3,3184,11723483.0
+2024-09,CABA,Belgrano,Postres helados,248.6,414,4618506.0
+2024-09,CABA,Belgrano,Palitos y bombones,145.4,969,3592914.0
+2024-09,CABA,Caballito,Helado por kilo,1628.9,1809,25034654.0
+2024-09,CABA,Caballito,Cucuruchos y vasitos,533.6,2964,10870049.0
+2024-09,CABA,Caballito,Postres helados,221.1,368,4141478.0
+2024-09,CABA,Caballito,Palitos y bombones,135.8,905,3032958.0
+2024-09,Santa Fe,Rosario Centro,Helado por kilo,960.8,1067,14530228.0
+2024-09,Santa Fe,Rosario Centro,Cucuruchos y vasitos,377.4,2096,8002839.0
+2024-09,Santa Fe,Rosario Centro,Postres helados,169.0,281,3066499.0
+2024-09,Santa Fe,Rosario Centro,Palitos y bombones,97.8,652,2311038.0
+2024-09,Santa Fe,Santa Fe Capital,Helado por kilo,1186.3,1318,17243142.0
+2024-09,Santa Fe,Santa Fe Capital,Cucuruchos y vasitos,375.9,2088,7836870.0
+2024-09,Santa Fe,Santa Fe Capital,Postres helados,177.9,296,3324542.0
+2024-09,Santa Fe,Santa Fe Capital,Palitos y bombones,103.0,686,2400677.0
+2024-09,Mendoza,Mendoza Centro,Helado por kilo,899.5,999,13219668.0
+2024-09,Mendoza,Mendoza Centro,Cucuruchos y vasitos,322.3,1790,6994984.0
+2024-09,Mendoza,Mendoza Centro,Postres helados,154.6,257,2861785.0
+2024-09,Mendoza,Mendoza Centro,Palitos y bombones,84.4,562,1938149.0
+2024-09,Mendoza,Godoy Cruz,Helado por kilo,983.1,1092,14641527.0
+2024-09,Mendoza,Godoy Cruz,Cucuruchos y vasitos,336.0,1866,6754626.0
+2024-09,Mendoza,Godoy Cruz,Postres helados,155.3,258,2888822.0
+2024-09,Mendoza,Godoy Cruz,Palitos y bombones,91.9,612,2203630.0
+2024-09,Tucumán,San Miguel de Tucumán,Helado por kilo,1117.4,1241,16711406.0
+2024-09,Tucumán,San Miguel de Tucumán,Cucuruchos y vasitos,376.0,2088,7640402.0
+2024-09,Tucumán,San Miguel de Tucumán,Postres helados,179.1,298,3246716.0
+2024-09,Tucumán,San Miguel de Tucumán,Palitos y bombones,109.7,731,2591940.0
+2024-10,Córdoba,Nueva Córdoba,Helado por kilo,1650.5,1833,25382516.0
+2024-10,Córdoba,Nueva Córdoba,Cucuruchos y vasitos,601.4,3341,12763031.0
+2024-10,Córdoba,Nueva Córdoba,Postres helados,263.7,439,5004296.0
+2024-10,Córdoba,Nueva Córdoba,Palitos y bombones,156.1,1040,3681402.0
+2024-10,Córdoba,Cerro de las Rosas,Helado por kilo,1589.2,1765,23947108.0
+2024-10,Córdoba,Cerro de las Rosas,Cucuruchos y vasitos,533.8,2965,11636736.0
+2024-10,Córdoba,Cerro de las Rosas,Postres helados,258.1,430,5042217.0
+2024-10,Córdoba,Cerro de las Rosas,Palitos y bombones,156.4,1042,3732224.0
+2024-10,Córdoba,General Paz,Helado por kilo,1341.0,1490,20596401.0
+2024-10,Córdoba,General Paz,Cucuruchos y vasitos,520.2,2890,11561617.0
+2024-10,Córdoba,General Paz,Postres helados,228.7,381,4431554.0
+2024-10,Córdoba,General Paz,Palitos y bombones,139.8,932,3281823.0
+2024-10,Córdoba,Villa Carlos Paz,Helado por kilo,1224.3,1360,19417709.0
+2024-10,Córdoba,Villa Carlos Paz,Cucuruchos y vasitos,455.6,2530,9540748.0
+2024-10,Córdoba,Villa Carlos Paz,Postres helados,197.1,328,3693279.0
+2024-10,Córdoba,Villa Carlos Paz,Palitos y bombones,132.4,882,3251263.0
+2024-10,Buenos Aires,Mar del Plata,Helado por kilo,1560.4,1733,24019566.0
+2024-10,Buenos Aires,Mar del Plata,Cucuruchos y vasitos,561.9,3121,11855541.0
+2024-10,Buenos Aires,Mar del Plata,Postres helados,244.2,406,4345490.0
+2024-10,Buenos Aires,Mar del Plata,Palitos y bombones,153.8,1025,3762724.0
+2024-10,Buenos Aires,La Plata,Helado por kilo,1788.9,1987,27782917.0
+2024-10,Buenos Aires,La Plata,Cucuruchos y vasitos,665.3,3695,14258303.0
+2024-10,Buenos Aires,La Plata,Postres helados,276.0,459,5330869.0
+2024-10,Buenos Aires,La Plata,Palitos y bombones,167.1,1113,3770097.0
+2024-10,Buenos Aires,Pilar,Helado por kilo,1239.1,1376,18961279.0
+2024-10,Buenos Aires,Pilar,Cucuruchos y vasitos,463.9,2577,10167628.0
+2024-10,Buenos Aires,Pilar,Postres helados,196.0,326,3845290.0
+2024-10,Buenos Aires,Pilar,Palitos y bombones,118.6,790,2864108.0
+2024-10,CABA,Palermo,Helado por kilo,2009.4,2232,31845567.0
+2024-10,CABA,Palermo,Cucuruchos y vasitos,730.2,4056,15684994.0
+2024-10,CABA,Palermo,Postres helados,319.2,531,5845431.0
+2024-10,CABA,Palermo,Palitos y bombones,212.2,1414,5229019.0
+2024-10,CABA,Belgrano,Helado por kilo,1986.7,2207,30417222.0
+2024-10,CABA,Belgrano,Cucuruchos y vasitos,608.5,3380,13409799.0
+2024-10,CABA,Belgrano,Postres helados,304.9,508,5714266.0
+2024-10,CABA,Belgrano,Palitos y bombones,181.3,1208,4447553.0
+2024-10,CABA,Caballito,Helado por kilo,1687.8,1875,26013726.0
+2024-10,CABA,Caballito,Cucuruchos y vasitos,663.0,3683,14141817.0
+2024-10,CABA,Caballito,Postres helados,312.6,520,5853708.0
+2024-10,CABA,Caballito,Palitos y bombones,184.1,1227,4413950.0
+2024-10,Santa Fe,Rosario Centro,Helado por kilo,1400.7,1556,21029445.0
+2024-10,Santa Fe,Rosario Centro,Cucuruchos y vasitos,522.3,2901,10953296.0
+2024-10,Santa Fe,Rosario Centro,Postres helados,217.0,361,4167989.0
+2024-10,Santa Fe,Rosario Centro,Palitos y bombones,152.2,1014,3604168.0
+2024-10,Santa Fe,Santa Fe Capital,Helado por kilo,1341.6,1490,20809989.0
+2024-10,Santa Fe,Santa Fe Capital,Cucuruchos y vasitos,477.3,2651,10161538.0
+2024-10,Santa Fe,Santa Fe Capital,Postres helados,231.4,385,4253143.0
+2024-10,Santa Fe,Santa Fe Capital,Palitos y bombones,137.8,918,3405182.0
+2024-10,Mendoza,Mendoza Centro,Helado por kilo,1372.5,1525,20758060.0
+2024-10,Mendoza,Mendoza Centro,Cucuruchos y vasitos,501.5,2786,10581338.0
+2024-10,Mendoza,Mendoza Centro,Postres helados,197.9,329,3763470.0
+2024-10,Mendoza,Mendoza Centro,Palitos y bombones,141.8,945,3341535.0
+2024-10,Mendoza,Godoy Cruz,Helado por kilo,1266.4,1407,19195435.0
+2024-10,Mendoza,Godoy Cruz,Cucuruchos y vasitos,448.2,2489,9727568.0
+2024-10,Mendoza,Godoy Cruz,Postres helados,188.0,313,3506979.0
+2024-10,Mendoza,Godoy Cruz,Palitos y bombones,114.7,764,2780787.0
+2024-10,Tucumán,San Miguel de Tucumán,Helado por kilo,1326.8,1474,20534171.0
+2024-10,Tucumán,San Miguel de Tucumán,Cucuruchos y vasitos,565.3,3140,12300506.0
+2024-10,Tucumán,San Miguel de Tucumán,Postres helados,244.6,407,4513457.0
+2024-10,Tucumán,San Miguel de Tucumán,Palitos y bombones,150.5,1003,3661454.0
+2024-11,Córdoba,Nueva Córdoba,Helado por kilo,1619.4,1799,24355016.0
+2024-11,Córdoba,Nueva Córdoba,Cucuruchos y vasitos,626.0,3477,13334819.0
+2024-11,Córdoba,Nueva Córdoba,Postres helados,252.1,420,4823498.0
+2024-11,Córdoba,Nueva Córdoba,Palitos y bombones,166.6,1110,4067022.0
+2024-11,Córdoba,Cerro de las Rosas,Helado por kilo,1752.9,1947,27254691.0
+2024-11,Córdoba,Cerro de las Rosas,Cucuruchos y vasitos,626.9,3482,13236167.0
+2024-11,Córdoba,Cerro de las Rosas,Postres helados,288.3,480,5452730.0
+2024-11,Córdoba,Cerro de las Rosas,Palitos y bombones,163.0,1086,3939396.0
+2024-11,Córdoba,General Paz,Helado por kilo,1961.7,2179,31022403.0
+2024-11,Córdoba,General Paz,Cucuruchos y vasitos,714.7,3970,16059566.0
+2024-11,Córdoba,General Paz,Postres helados,326.5,544,6524592.0
+2024-11,Córdoba,General Paz,Palitos y bombones,192.2,1281,4931898.0
+2024-11,Córdoba,Villa Carlos Paz,Helado por kilo,1704.5,1893,27472721.0
+2024-11,Córdoba,Villa Carlos Paz,Cucuruchos y vasitos,588.8,3271,13082119.0
+2024-11,Córdoba,Villa Carlos Paz,Postres helados,276.6,461,5356346.0
+2024-11,Córdoba,Villa Carlos Paz,Palitos y bombones,168.0,1120,4138796.0
+2024-11,Buenos Aires,Mar del Plata,Helado por kilo,1992.8,2214,31804068.0
+2024-11,Buenos Aires,Mar del Plata,Cucuruchos y vasitos,679.7,3776,14532404.0
+2024-11,Buenos Aires,Mar del Plata,Postres helados,324.8,541,6272386.0
+2024-11,Buenos Aires,Mar del Plata,Palitos y bombones,195.8,1305,4578940.0
+2024-11,Buenos Aires,La Plata,Helado por kilo,2430.1,2700,39608456.0
+2024-11,Buenos Aires,La Plata,Cucuruchos y vasitos,836.5,4646,18708715.0
+2024-11,Buenos Aires,La Plata,Postres helados,323.1,538,6215594.0
+2024-11,Buenos Aires,La Plata,Palitos y bombones,225.0,1499,5334277.0
+2024-11,Buenos Aires,Pilar,Helado por kilo,1545.1,1716,24429389.0
+2024-11,Buenos Aires,Pilar,Cucuruchos y vasitos,583.5,3241,12604223.0
+2024-11,Buenos Aires,Pilar,Postres helados,235.7,392,4492329.0
+2024-11,Buenos Aires,Pilar,Palitos y bombones,146.0,973,3581662.0
+2024-11,CABA,Palermo,Helado por kilo,2443.7,2715,39202425.0
+2024-11,CABA,Palermo,Cucuruchos y vasitos,889.8,4943,19649842.0
+2024-11,CABA,Palermo,Postres helados,396.6,660,7746612.0
+2024-11,CABA,Palermo,Palitos y bombones,249.8,1665,6334077.0
+2024-11,CABA,Belgrano,Helado por kilo,2555.5,2839,39788472.0
+2024-11,CABA,Belgrano,Cucuruchos y vasitos,853.4,4740,19053738.0
+2024-11,CABA,Belgrano,Postres helados,442.8,737,8773161.0
+2024-11,CABA,Belgrano,Palitos y bombones,228.0,1520,5626778.0
+2024-11,CABA,Caballito,Helado por kilo,2439.4,2710,38838542.0
+2024-11,CABA,Caballito,Cucuruchos y vasitos,889.2,4939,18989502.0
+2024-11,CABA,Caballito,Postres helados,378.3,630,7291284.0
+2024-11,CABA,Caballito,Palitos y bombones,239.6,1597,5888493.0
+2024-11,Santa Fe,Rosario Centro,Helado por kilo,2041.3,2268,32655544.0
+2024-11,Santa Fe,Rosario Centro,Cucuruchos y vasitos,708.1,3933,15473094.0
+2024-11,Santa Fe,Rosario Centro,Postres helados,321.6,536,6214244.0
+2024-11,Santa Fe,Rosario Centro,Palitos y bombones,200.9,1339,5116525.0
+2024-11,Santa Fe,Santa Fe Capital,Helado por kilo,1970.6,2189,31318413.0
+2024-11,Santa Fe,Santa Fe Capital,Cucuruchos y vasitos,621.8,3454,14111626.0
+2024-11,Santa Fe,Santa Fe Capital,Postres helados,349.8,583,6791938.0
+2024-11,Santa Fe,Santa Fe Capital,Palitos y bombones,191.5,1276,4533745.0
+2024-11,Mendoza,Mendoza Centro,Helado por kilo,1383.9,1537,22101324.0
+2024-11,Mendoza,Mendoza Centro,Cucuruchos y vasitos,566.5,3146,12250611.0
+2024-11,Mendoza,Mendoza Centro,Postres helados,260.2,433,5086235.0
+2024-11,Mendoza,Mendoza Centro,Palitos y bombones,154.5,1030,3827608.0
+2024-11,Mendoza,Godoy Cruz,Helado por kilo,1795.7,1995,29393105.0
+2024-11,Mendoza,Godoy Cruz,Cucuruchos y vasitos,653.8,3632,14844101.0
+2024-11,Mendoza,Godoy Cruz,Postres helados,307.8,512,5952435.0
+2024-11,Mendoza,Godoy Cruz,Palitos y bombones,197.7,1317,4818730.0
+2024-11,Tucumán,San Miguel de Tucumán,Helado por kilo,1869.2,2076,29841870.0
+2024-11,Tucumán,San Miguel de Tucumán,Cucuruchos y vasitos,651.8,3621,14409838.0
+2024-11,Tucumán,San Miguel de Tucumán,Postres helados,315.9,526,5895389.0
+2024-11,Tucumán,San Miguel de Tucumán,Palitos y bombones,179.1,1193,4461524.0
+2024-12,Córdoba,Nueva Córdoba,Helado por kilo,2327.0,2585,38152845.0
+2024-12,Córdoba,Nueva Córdoba,Cucuruchos y vasitos,846.0,4699,19141039.0
+2024-12,Córdoba,Nueva Córdoba,Postres helados,378.0,629,7584065.0
+2024-12,Córdoba,Nueva Córdoba,Palitos y bombones,235.2,1568,6049670.0
+2024-12,Córdoba,Cerro de las Rosas,Helado por kilo,2455.0,2727,38338055.0
+2024-12,Córdoba,Cerro de las Rosas,Cucuruchos y vasitos,942.9,5238,20487839.0
+2024-12,Córdoba,Cerro de las Rosas,Postres helados,405.5,675,8171942.0
+2024-12,Córdoba,Cerro de las Rosas,Palitos y bombones,243.2,1621,6061709.0
+2024-12,Córdoba,General Paz,Helado por kilo,2609.0,2898,42244504.0
+2024-12,Córdoba,General Paz,Cucuruchos y vasitos,893.4,4963,20893079.0
+2024-12,Córdoba,General Paz,Postres helados,430.0,716,8279375.0
+2024-12,Córdoba,General Paz,Palitos y bombones,243.3,1622,5913984.0
+2024-12,Córdoba,Villa Carlos Paz,Helado por kilo,2079.4,2310,33538709.0
+2024-12,Córdoba,Villa Carlos Paz,Cucuruchos y vasitos,753.0,4183,16966952.0
+2024-12,Córdoba,Villa Carlos Paz,Postres helados,373.4,622,7575867.0
+2024-12,Córdoba,Villa Carlos Paz,Palitos y bombones,204.0,1359,4957106.0
+2024-12,Buenos Aires,Mar del Plata,Helado por kilo,2547.9,2831,40975678.0
+2024-12,Buenos Aires,Mar del Plata,Cucuruchos y vasitos,851.8,4732,19346599.0
+2024-12,Buenos Aires,Mar del Plata,Postres helados,380.2,633,7363749.0
+2024-12,Buenos Aires,Mar del Plata,Palitos y bombones,239.2,1594,6049259.0
+2024-12,Buenos Aires,La Plata,Helado por kilo,2986.2,3317,48592587.0
+2024-12,Buenos Aires,La Plata,Cucuruchos y vasitos,1053.2,5851,23977168.0
+2024-12,Buenos Aires,La Plata,Postres helados,506.4,843,10293724.0
+2024-12,Buenos Aires,La Plata,Palitos y bombones,303.2,2021,7639174.0
+2024-12,Buenos Aires,Pilar,Helado por kilo,2174.2,2415,35278376.0
+2024-12,Buenos Aires,Pilar,Cucuruchos y vasitos,763.1,4239,17278583.0
+2024-12,Buenos Aires,Pilar,Postres helados,331.7,552,6468752.0
+2024-12,Buenos Aires,Pilar,Palitos y bombones,211.1,1407,5407302.0
+2024-12,CABA,Palermo,Helado por kilo,3471.9,3857,56109781.0
+2024-12,CABA,Palermo,Cucuruchos y vasitos,1278.5,7102,28421760.0
+2024-12,CABA,Palermo,Postres helados,542.4,904,11174496.0
+2024-12,CABA,Palermo,Palitos y bombones,314.1,2093,8041261.0
+2024-12,CABA,Belgrano,Helado por kilo,3124.4,3471,51046887.0
+2024-12,CABA,Belgrano,Cucuruchos y vasitos,1036.1,5756,23124088.0
+2024-12,CABA,Belgrano,Postres helados,455.3,758,8897349.0
+2024-12,CABA,Belgrano,Palitos y bombones,305.3,2035,7632464.0
+2024-12,CABA,Caballito,Helado por kilo,3180.3,3533,50706635.0
+2024-12,CABA,Caballito,Cucuruchos y vasitos,1114.2,6189,25561724.0
+2024-12,CABA,Caballito,Postres helados,552.7,921,10752805.0
+2024-12,CABA,Caballito,Palitos y bombones,319.1,2127,7792517.0
+2024-12,Santa Fe,Rosario Centro,Helado por kilo,2245.6,2495,34771322.0
+2024-12,Santa Fe,Rosario Centro,Cucuruchos y vasitos,865.0,4805,20262788.0
+2024-12,Santa Fe,Rosario Centro,Postres helados,333.5,555,6651371.0
+2024-12,Santa Fe,Rosario Centro,Palitos y bombones,235.2,1567,5923576.0
+2024-12,Santa Fe,Santa Fe Capital,Helado por kilo,2481.7,2757,40614864.0
+2024-12,Santa Fe,Santa Fe Capital,Cucuruchos y vasitos,879.2,4884,20192962.0
+2024-12,Santa Fe,Santa Fe Capital,Postres helados,400.9,668,8199239.0
+2024-12,Santa Fe,Santa Fe Capital,Palitos y bombones,249.3,1661,6114905.0
+2024-12,Mendoza,Mendoza Centro,Helado por kilo,2102.3,2335,33183160.0
+2024-12,Mendoza,Mendoza Centro,Cucuruchos y vasitos,721.8,4009,16596351.0
+2024-12,Mendoza,Mendoza Centro,Postres helados,337.7,562,6808384.0
+2024-12,Mendoza,Mendoza Centro,Palitos y bombones,205.4,1369,5264759.0
+2024-12,Mendoza,Godoy Cruz,Helado por kilo,2368.1,2631,37778610.0
+2024-12,Mendoza,Godoy Cruz,Cucuruchos y vasitos,883.1,4906,20062246.0
+2024-12,Mendoza,Godoy Cruz,Postres helados,386.7,644,7858122.0
+2024-12,Mendoza,Godoy Cruz,Palitos y bombones,261.6,1743,6482050.0
+2024-12,Tucumán,San Miguel de Tucumán,Helado por kilo,2643.5,2937,41420036.0
+2024-12,Tucumán,San Miguel de Tucumán,Cucuruchos y vasitos,952.9,5294,21535518.0
+2024-12,Tucumán,San Miguel de Tucumán,Postres helados,432.5,720,8638398.0
+2024-12,Tucumán,San Miguel de Tucumán,Palitos y bombones,257.4,1715,6635226.0
+2025-01,Córdoba,Nueva Córdoba,Helado por kilo,2660.1,2955,42874603.0
+2025-01,Córdoba,Nueva Córdoba,Cucuruchos y vasitos,1064.5,5913,24585977.0
+2025-01,Córdoba,Nueva Córdoba,Postres helados,425.9,709,8377514.0
+2025-01,Córdoba,Nueva Córdoba,Palitos y bombones,274.5,1830,7217200.0
+2025-01,Córdoba,Cerro de las Rosas,Helado por kilo,2534.4,2816,41509742.0
+2025-01,Córdoba,Cerro de las Rosas,Cucuruchos y vasitos,953.0,5294,22094190.0
+2025-01,Córdoba,Cerro de las Rosas,Postres helados,413.0,688,8586293.0
+2025-01,Córdoba,Cerro de las Rosas,Palitos y bombones,267.7,1784,7047938.0
+2025-01,Córdoba,General Paz,Helado por kilo,2831.5,3146,47461193.0
+2025-01,Córdoba,General Paz,Cucuruchos y vasitos,1017.2,5651,24299006.0
+2025-01,Córdoba,General Paz,Postres helados,426.6,711,8609111.0
+2025-01,Córdoba,General Paz,Palitos y bombones,277.7,1851,7461545.0
+2025-01,Córdoba,Villa Carlos Paz,Helado por kilo,2707.0,3007,44864662.0
+2025-01,Córdoba,Villa Carlos Paz,Cucuruchos y vasitos,935.2,5195,21001034.0
+2025-01,Córdoba,Villa Carlos Paz,Postres helados,435.9,726,9015590.0
+2025-01,Córdoba,Villa Carlos Paz,Palitos y bombones,250.8,1672,6368576.0
+2025-01,Buenos Aires,Mar del Plata,Helado por kilo,3621.6,4024,59810748.0
+2025-01,Buenos Aires,Mar del Plata,Cucuruchos y vasitos,1362.6,7570,30861811.0
+2025-01,Buenos Aires,Mar del Plata,Postres helados,641.8,1069,13013466.0
+2025-01,Buenos Aires,Mar del Plata,Palitos y bombones,413.1,2754,10437177.0
+2025-01,Buenos Aires,La Plata,Helado por kilo,3341.8,3713,54653275.0
+2025-01,Buenos Aires,La Plata,Cucuruchos y vasitos,1134.6,6303,25974797.0
+2025-01,Buenos Aires,La Plata,Postres helados,552.3,920,11240135.0
+2025-01,Buenos Aires,La Plata,Palitos y bombones,312.6,2084,8215794.0
+2025-01,Buenos Aires,Pilar,Helado por kilo,3350.9,3723,54973853.0
+2025-01,Buenos Aires,Pilar,Cucuruchos y vasitos,1152.2,6401,26086111.0
+2025-01,Buenos Aires,Pilar,Postres helados,584.8,974,12166606.0
+2025-01,Buenos Aires,Pilar,Palitos y bombones,337.1,2247,8411444.0
+2025-01,CABA,Palermo,Helado por kilo,2991.3,3323,49618896.0
+2025-01,CABA,Palermo,Cucuruchos y vasitos,1006.4,5590,22524275.0
+2025-01,CABA,Palermo,Postres helados,455.1,758,9383131.0
+2025-01,CABA,Palermo,Palitos y bombones,267.0,1779,6760535.0
+2025-01,CABA,Belgrano,Helado por kilo,3287.9,3653,53735465.0
+2025-01,CABA,Belgrano,Cucuruchos y vasitos,1319.2,7328,30465559.0
+2025-01,CABA,Belgrano,Postres helados,534.7,891,10693697.0
+2025-01,CABA,Belgrano,Palitos y bombones,350.9,2339,9042005.0
+2025-01,CABA,Caballito,Helado por kilo,3143.8,3493,51978207.0
+2025-01,CABA,Caballito,Cucuruchos y vasitos,1175.3,6529,26165006.0
+2025-01,CABA,Caballito,Postres helados,571.0,951,11835885.0
+2025-01,CABA,Caballito,Palitos y bombones,321.1,2140,8403655.0
+2025-01,Santa Fe,Rosario Centro,Helado por kilo,2736.7,3040,44410850.0
+2025-01,Santa Fe,Rosario Centro,Cucuruchos y vasitos,856.4,4757,19239205.0
+2025-01,Santa Fe,Rosario Centro,Postres helados,400.5,667,8218851.0
+2025-01,Santa Fe,Rosario Centro,Palitos y bombones,235.0,1566,6209010.0
+2025-01,Santa Fe,Santa Fe Capital,Helado por kilo,2898.1,3220,47777637.0
+2025-01,Santa Fe,Santa Fe Capital,Cucuruchos y vasitos,965.4,5363,22305786.0
+2025-01,Santa Fe,Santa Fe Capital,Postres helados,450.6,751,8803981.0
+2025-01,Santa Fe,Santa Fe Capital,Palitos y bombones,253.1,1687,6455785.0
+2025-01,Mendoza,Mendoza Centro,Helado por kilo,2547.0,2829,41661503.0
+2025-01,Mendoza,Mendoza Centro,Cucuruchos y vasitos,913.6,5075,22109935.0
+2025-01,Mendoza,Mendoza Centro,Postres helados,428.5,714,8894352.0
+2025-01,Mendoza,Mendoza Centro,Palitos y bombones,267.5,1783,7113441.0
+2025-01,Mendoza,Godoy Cruz,Helado por kilo,2356.3,2618,37857159.0
+2025-01,Mendoza,Godoy Cruz,Cucuruchos y vasitos,834.4,4635,19179022.0
+2025-01,Mendoza,Godoy Cruz,Postres helados,366.7,611,7525527.0
+2025-01,Mendoza,Godoy Cruz,Palitos y bombones,212.1,1413,5419209.0
+2025-01,Tucumán,San Miguel de Tucumán,Helado por kilo,2780.3,3089,44315954.0
+2025-01,Tucumán,San Miguel de Tucumán,Cucuruchos y vasitos,961.5,5341,22479814.0
+2025-01,Tucumán,San Miguel de Tucumán,Postres helados,409.9,683,8181425.0
+2025-01,Tucumán,San Miguel de Tucumán,Palitos y bombones,264.7,1764,6941777.0
+2025-02,Córdoba,Nueva Córdoba,Helado por kilo,2751.9,3057,45938185.0
+2025-02,Córdoba,Nueva Córdoba,Cucuruchos y vasitos,1033.7,5742,24329509.0
+2025-02,Córdoba,Nueva Córdoba,Postres helados,427.9,713,8933776.0
+2025-02,Córdoba,Nueva Córdoba,Palitos y bombones,233.1,1553,6210363.0
+2025-02,Córdoba,Cerro de las Rosas,Helado por kilo,2563.8,2848,43259477.0
+2025-02,Córdoba,Cerro de las Rosas,Cucuruchos y vasitos,928.7,5159,22047703.0
+2025-02,Córdoba,Cerro de las Rosas,Postres helados,436.9,728,9020632.0
+2025-02,Córdoba,Cerro de las Rosas,Palitos y bombones,236.4,1575,6327443.0
+2025-02,Córdoba,General Paz,Helado por kilo,2877.3,3197,48666663.0
+2025-02,Córdoba,General Paz,Cucuruchos y vasitos,929.7,5164,21805771.0
+2025-02,Córdoba,General Paz,Postres helados,458.6,764,9483261.0
+2025-02,Córdoba,General Paz,Palitos y bombones,269.5,1796,7186733.0
+2025-02,Córdoba,Villa Carlos Paz,Helado por kilo,2566.7,2851,43282522.0
+2025-02,Córdoba,Villa Carlos Paz,Cucuruchos y vasitos,897.7,4987,21321416.0
+2025-02,Córdoba,Villa Carlos Paz,Postres helados,399.4,665,8231258.0
+2025-02,Córdoba,Villa Carlos Paz,Palitos y bombones,226.9,1512,5641526.0
+2025-02,Buenos Aires,Mar del Plata,Helado por kilo,3728.0,4142,65027425.0
+2025-02,Buenos Aires,Mar del Plata,Cucuruchos y vasitos,1435.9,7977,34116055.0
+2025-02,Buenos Aires,Mar del Plata,Postres helados,577.8,962,11900554.0
+2025-02,Buenos Aires,Mar del Plata,Palitos y bombones,360.2,2401,9740204.0
+2025-02,Buenos Aires,La Plata,Helado por kilo,2728.0,3031,48489940.0
+2025-02,Buenos Aires,La Plata,Cucuruchos y vasitos,921.7,5120,21858715.0
+2025-02,Buenos Aires,La Plata,Postres helados,379.7,632,7820373.0
+2025-02,Buenos Aires,La Plata,Palitos y bombones,249.6,1664,6670335.0
+2025-02,Buenos Aires,Pilar,Helado por kilo,2803.5,3114,47766380.0
+2025-02,Buenos Aires,Pilar,Cucuruchos y vasitos,976.2,5423,23256472.0
+2025-02,Buenos Aires,Pilar,Postres helados,428.7,714,9196564.0
+2025-02,Buenos Aires,Pilar,Palitos y bombones,244.5,1629,6518112.0
+2025-02,CABA,Palermo,Helado por kilo,3503.2,3892,60425316.0
+2025-02,CABA,Palermo,Cucuruchos y vasitos,1251.4,6951,30320775.0
+2025-02,CABA,Palermo,Postres helados,508.3,847,11054909.0
+2025-02,CABA,Palermo,Palitos y bombones,329.9,2199,8662364.0
+2025-02,CABA,Belgrano,Helado por kilo,2958.5,3287,49384088.0
+2025-02,CABA,Belgrano,Cucuruchos y vasitos,1000.5,5558,23150989.0
+2025-02,CABA,Belgrano,Postres helados,474.4,790,10192618.0
+2025-02,CABA,Belgrano,Palitos y bombones,270.3,1801,7348386.0
+2025-02,CABA,Caballito,Helado por kilo,3393.4,3770,58377529.0
+2025-02,CABA,Caballito,Cucuruchos y vasitos,1337.5,7430,31251851.0
+2025-02,CABA,Caballito,Postres helados,525.7,876,10601448.0
+2025-02,CABA,Caballito,Palitos y bombones,351.3,2341,9443054.0
+2025-02,Santa Fe,Rosario Centro,Helado por kilo,2323.6,2581,39390808.0
+2025-02,Santa Fe,Rosario Centro,Cucuruchos y vasitos,786.6,4369,18274249.0
+2025-02,Santa Fe,Rosario Centro,Postres helados,340.8,568,7007756.0
+2025-02,Santa Fe,Rosario Centro,Palitos y bombones,216.0,1440,5563957.0
+2025-02,Santa Fe,Santa Fe Capital,Helado por kilo,2529.6,2810,42222170.0
+2025-02,Santa Fe,Santa Fe Capital,Cucuruchos y vasitos,863.9,4799,19932159.0
+2025-02,Santa Fe,Santa Fe Capital,Postres helados,364.6,607,7435922.0
+2025-02,Santa Fe,Santa Fe Capital,Palitos y bombones,243.0,1620,6397907.0
+2025-02,Mendoza,Mendoza Centro,Helado por kilo,2395.8,2662,40762542.0
+2025-02,Mendoza,Mendoza Centro,Cucuruchos y vasitos,762.5,4236,18066354.0
+2025-02,Mendoza,Mendoza Centro,Postres helados,354.7,591,7321132.0
+2025-02,Mendoza,Mendoza Centro,Palitos y bombones,227.6,1517,5880849.0
+2025-02,Mendoza,Godoy Cruz,Helado por kilo,2624.7,2916,44557756.0
+2025-02,Mendoza,Godoy Cruz,Cucuruchos y vasitos,1056.7,5870,24960032.0
+2025-02,Mendoza,Godoy Cruz,Postres helados,411.0,685,8532541.0
+2025-02,Mendoza,Godoy Cruz,Palitos y bombones,248.4,1655,6698142.0
+2025-02,Tucumán,San Miguel de Tucumán,Helado por kilo,2185.8,2428,37305305.0
+2025-02,Tucumán,San Miguel de Tucumán,Cucuruchos y vasitos,855.6,4753,19479358.0
+2025-02,Tucumán,San Miguel de Tucumán,Postres helados,380.5,634,7760823.0
+2025-02,Tucumán,San Miguel de Tucumán,Palitos y bombones,224.9,1499,5881991.0
+2025-03,Córdoba,Nueva Córdoba,Helado por kilo,1946.9,2163,33505210.0
+2025-03,Córdoba,Nueva Córdoba,Cucuruchos y vasitos,720.6,4003,17685766.0
+2025-03,Córdoba,Nueva Córdoba,Postres helados,320.6,534,7020849.0
+2025-03,Córdoba,Nueva Córdoba,Palitos y bombones,203.6,1357,5551017.0
+2025-03,Córdoba,Cerro de las Rosas,Helado por kilo,2031.5,2257,36802387.0
+2025-03,Córdoba,Cerro de las Rosas,Cucuruchos y vasitos,753.8,4188,18496744.0
+2025-03,Córdoba,Cerro de las Rosas,Postres helados,301.1,501,6611468.0
+2025-03,Córdoba,Cerro de las Rosas,Palitos y bombones,200.7,1338,5618597.0
+2025-03,Córdoba,General Paz,Helado por kilo,2134.4,2371,37806652.0
+2025-03,Córdoba,General Paz,Cucuruchos y vasitos,719.5,3997,17047316.0
+2025-03,Córdoba,General Paz,Postres helados,328.6,547,7225382.0
+2025-03,Córdoba,General Paz,Palitos y bombones,203.1,1354,5739450.0
+2025-03,Córdoba,Villa Carlos Paz,Helado por kilo,1617.1,1796,28744428.0
+2025-03,Córdoba,Villa Carlos Paz,Cucuruchos y vasitos,577.7,3209,13918953.0
+2025-03,Córdoba,Villa Carlos Paz,Postres helados,246.4,410,5219962.0
+2025-03,Córdoba,Villa Carlos Paz,Palitos y bombones,166.9,1112,4698006.0
+2025-03,Buenos Aires,Mar del Plata,Helado por kilo,1917.3,2130,34584944.0
+2025-03,Buenos Aires,Mar del Plata,Cucuruchos y vasitos,771.5,4286,19096975.0
+2025-03,Buenos Aires,Mar del Plata,Postres helados,386.8,644,8318505.0
+2025-03,Buenos Aires,Mar del Plata,Palitos y bombones,208.8,1392,5683173.0
+2025-03,Buenos Aires,La Plata,Helado por kilo,2445.8,2717,43910461.0
+2025-03,Buenos Aires,La Plata,Cucuruchos y vasitos,845.3,4696,21202570.0
+2025-03,Buenos Aires,La Plata,Postres helados,345.2,575,7276983.0
+2025-03,Buenos Aires,La Plata,Palitos y bombones,220.8,1471,6057247.0
+2025-03,Buenos Aires,Pilar,Helado por kilo,2353.4,2614,42801524.0
+2025-03,Buenos Aires,Pilar,Cucuruchos y vasitos,882.2,4901,20773068.0
+2025-03,Buenos Aires,Pilar,Postres helados,392.8,654,8437380.0
+2025-03,Buenos Aires,Pilar,Palitos y bombones,240.0,1599,6499657.0
+2025-03,CABA,Palermo,Helado por kilo,3049.3,3388,56351986.0
+2025-03,CABA,Palermo,Cucuruchos y vasitos,956.6,5314,23949915.0
+2025-03,CABA,Palermo,Postres helados,456.4,760,10275702.0
+2025-03,CABA,Palermo,Palitos y bombones,266.7,1777,7001470.0
+2025-03,CABA,Belgrano,Helado por kilo,2862.4,3180,48262086.0
+2025-03,CABA,Belgrano,Cucuruchos y vasitos,937.4,5207,23491355.0
+2025-03,CABA,Belgrano,Postres helados,453.6,756,9591693.0
+2025-03,CABA,Belgrano,Palitos y bombones,264.7,1764,7242247.0
+2025-03,CABA,Caballito,Helado por kilo,2289.7,2544,41175591.0
+2025-03,CABA,Caballito,Cucuruchos y vasitos,782.6,4347,19208440.0
+2025-03,CABA,Caballito,Postres helados,344.2,573,7374038.0
+2025-03,CABA,Caballito,Palitos y bombones,229.6,1530,6323899.0
+2025-03,Santa Fe,Rosario Centro,Helado por kilo,2032.4,2258,35937861.0
+2025-03,Santa Fe,Rosario Centro,Cucuruchos y vasitos,651.8,3620,15733953.0
+2025-03,Santa Fe,Rosario Centro,Postres helados,312.1,520,6681528.0
+2025-03,Santa Fe,Rosario Centro,Palitos y bombones,174.2,1161,4724998.0
+2025-03,Santa Fe,Santa Fe Capital,Helado por kilo,1736.6,1929,31611444.0
+2025-03,Santa Fe,Santa Fe Capital,Cucuruchos y vasitos,645.9,3588,15857436.0
+2025-03,Santa Fe,Santa Fe Capital,Postres helados,312.7,521,6760108.0
+2025-03,Santa Fe,Santa Fe Capital,Palitos y bombones,173.9,1159,4724359.0
+2025-03,Mendoza,Mendoza Centro,Helado por kilo,1752.4,1947,31172456.0
+2025-03,Mendoza,Mendoza Centro,Cucuruchos y vasitos,604.6,3359,14966868.0
+2025-03,Mendoza,Mendoza Centro,Postres helados,284.5,474,6335958.0
+2025-03,Mendoza,Mendoza Centro,Palitos y bombones,175.0,1166,4771885.0
+2025-03,Mendoza,Godoy Cruz,Helado por kilo,2206.5,2451,39514007.0
+2025-03,Mendoza,Godoy Cruz,Cucuruchos y vasitos,731.1,4061,18022535.0
+2025-03,Mendoza,Godoy Cruz,Postres helados,319.0,531,6941334.0
+2025-03,Mendoza,Godoy Cruz,Palitos y bombones,183.5,1223,5087266.0
+2025-03,Tucumán,San Miguel de Tucumán,Helado por kilo,1952.6,2169,34568858.0
+2025-03,Tucumán,San Miguel de Tucumán,Cucuruchos y vasitos,755.2,4195,18366393.0
+2025-03,Tucumán,San Miguel de Tucumán,Postres helados,337.2,562,7425075.0
+2025-03,Tucumán,San Miguel de Tucumán,Palitos y bombones,191.4,1276,5210964.0
+2025-04,Córdoba,Nueva Córdoba,Helado por kilo,1410.3,1567,25727207.0
+2025-04,Córdoba,Nueva Córdoba,Cucuruchos y vasitos,517.3,2873,13211985.0
+2025-04,Córdoba,Nueva Córdoba,Postres helados,257.2,428,5930328.0
+2025-04,Córdoba,Nueva Córdoba,Palitos y bombones,144.9,966,4143382.0
+2025-04,Córdoba,Cerro de las Rosas,Helado por kilo,1560.1,1733,29016291.0
+2025-04,Córdoba,Cerro de las Rosas,Cucuruchos y vasitos,534.0,2966,13924544.0
+2025-04,Córdoba,Cerro de las Rosas,Postres helados,257.5,429,5675600.0
+2025-04,Córdoba,Cerro de las Rosas,Palitos y bombones,147.4,982,4122567.0
+2025-04,Córdoba,General Paz,Helado por kilo,1261.7,1401,22724276.0
+2025-04,Córdoba,General Paz,Cucuruchos y vasitos,471.4,2618,11563773.0
+2025-04,Córdoba,General Paz,Postres helados,208.4,347,4767694.0
+2025-04,Córdoba,General Paz,Palitos y bombones,132.5,883,3711812.0
+2025-04,Córdoba,Villa Carlos Paz,Helado por kilo,1355.6,1506,24933953.0
+2025-04,Córdoba,Villa Carlos Paz,Cucuruchos y vasitos,525.1,2917,13610750.0
+2025-04,Córdoba,Villa Carlos Paz,Postres helados,211.1,351,4656171.0
+2025-04,Córdoba,Villa Carlos Paz,Palitos y bombones,144.5,963,4114360.0
+2025-04,Buenos Aires,Mar del Plata,Helado por kilo,1530.4,1700,27527412.0
+2025-04,Buenos Aires,Mar del Plata,Cucuruchos y vasitos,532.1,2955,13617065.0
+2025-04,Buenos Aires,Mar del Plata,Postres helados,244.0,406,5379678.0
+2025-04,Buenos Aires,Mar del Plata,Palitos y bombones,143.3,955,4095722.0
+2025-04,Buenos Aires,La Plata,Helado por kilo,1882.7,2091,34947533.0
+2025-04,Buenos Aires,La Plata,Cucuruchos y vasitos,726.2,4034,18265517.0
+2025-04,Buenos Aires,La Plata,Postres helados,292.7,487,6454394.0
+2025-04,Buenos Aires,La Plata,Palitos y bombones,190.2,1268,5342979.0
+2025-04,Buenos Aires,Pilar,Helado por kilo,1571.4,1746,27670818.0
+2025-04,Buenos Aires,Pilar,Cucuruchos y vasitos,598.5,3324,14923454.0
+2025-04,Buenos Aires,Pilar,Postres helados,248.5,414,5475652.0
+2025-04,Buenos Aires,Pilar,Palitos y bombones,158.6,1057,4576963.0
+2025-04,CABA,Palermo,Helado por kilo,1967.2,2185,36563906.0
+2025-04,CABA,Palermo,Cucuruchos y vasitos,711.1,3950,17303314.0
+2025-04,CABA,Palermo,Postres helados,324.3,540,7091568.0
+2025-04,CABA,Palermo,Palitos y bombones,192.1,1280,5407913.0
+2025-04,CABA,Belgrano,Helado por kilo,1856.9,2063,33600195.0
+2025-04,CABA,Belgrano,Cucuruchos y vasitos,576.6,3203,14580066.0
+2025-04,CABA,Belgrano,Postres helados,296.9,494,6509016.0
+2025-04,CABA,Belgrano,Palitos y bombones,173.9,1159,4997492.0
+2025-04,CABA,Caballito,Helado por kilo,1796.4,1996,33327436.0
+2025-04,CABA,Caballito,Cucuruchos y vasitos,664.9,3693,17001396.0
+2025-04,CABA,Caballito,Postres helados,278.6,464,6273681.0
+2025-04,CABA,Caballito,Palitos y bombones,195.6,1303,5492296.0
+2025-04,Santa Fe,Rosario Centro,Helado por kilo,1515.7,1684,26490459.0
+2025-04,Santa Fe,Rosario Centro,Cucuruchos y vasitos,537.6,2986,13424050.0
+2025-04,Santa Fe,Rosario Centro,Postres helados,242.8,404,5478207.0
+2025-04,Santa Fe,Rosario Centro,Palitos y bombones,136.3,908,3991594.0
+2025-04,Santa Fe,Santa Fe Capital,Helado por kilo,1356.0,1506,24374832.0
+2025-04,Santa Fe,Santa Fe Capital,Cucuruchos y vasitos,489.7,2720,12097118.0
+2025-04,Santa Fe,Santa Fe Capital,Postres helados,211.9,353,4703138.0
+2025-04,Santa Fe,Santa Fe Capital,Palitos y bombones,128.1,854,3582052.0
+2025-04,Mendoza,Mendoza Centro,Helado por kilo,1329.9,1477,23795533.0
+2025-04,Mendoza,Mendoza Centro,Cucuruchos y vasitos,468.5,2602,11654195.0
+2025-04,Mendoza,Mendoza Centro,Postres helados,200.9,334,4445250.0
+2025-04,Mendoza,Mendoza Centro,Palitos y bombones,110.9,739,3132776.0
+2025-04,Mendoza,Godoy Cruz,Helado por kilo,1340.1,1488,24045138.0
+2025-04,Mendoza,Godoy Cruz,Cucuruchos y vasitos,447.6,2486,10946488.0
+2025-04,Mendoza,Godoy Cruz,Postres helados,213.4,355,4787061.0
+2025-04,Mendoza,Godoy Cruz,Palitos y bombones,127.5,850,3545069.0
+2025-04,Tucumán,San Miguel de Tucumán,Helado por kilo,1633.1,1814,29912796.0
+2025-04,Tucumán,San Miguel de Tucumán,Cucuruchos y vasitos,543.6,3020,13494812.0
+2025-04,Tucumán,San Miguel de Tucumán,Postres helados,263.9,439,5654520.0
+2025-04,Tucumán,San Miguel de Tucumán,Palitos y bombones,146.2,974,4371885.0
+2025-05,Córdoba,Nueva Córdoba,Helado por kilo,1059.7,1177,19773842.0
+2025-05,Córdoba,Nueva Córdoba,Cucuruchos y vasitos,372.1,2067,9291097.0
+2025-05,Córdoba,Nueva Córdoba,Postres helados,186.7,311,4373566.0
+2025-05,Córdoba,Nueva Córdoba,Palitos y bombones,100.8,671,2876917.0
+2025-05,Córdoba,Cerro de las Rosas,Helado por kilo,1087.3,1208,20263009.0
+2025-05,Córdoba,Cerro de las Rosas,Cucuruchos y vasitos,395.5,2197,9610608.0
+2025-05,Córdoba,Cerro de las Rosas,Postres helados,161.8,269,3674372.0
+2025-05,Córdoba,Cerro de las Rosas,Palitos y bombones,95.7,638,2615905.0
+2025-05,Córdoba,General Paz,Helado por kilo,1050.2,1166,19958115.0
+2025-05,Córdoba,General Paz,Cucuruchos y vasitos,376.4,2091,9496477.0
+2025-05,Córdoba,General Paz,Postres helados,155.3,258,3538666.0
+2025-05,Córdoba,General Paz,Palitos y bombones,95.0,633,2703199.0
+2025-05,Córdoba,Villa Carlos Paz,Helado por kilo,1318.0,1464,24109167.0
+2025-05,Córdoba,Villa Carlos Paz,Cucuruchos y vasitos,445.4,2474,11487510.0
+2025-05,Córdoba,Villa Carlos Paz,Postres helados,212.0,353,4686713.0
+2025-05,Córdoba,Villa Carlos Paz,Palitos y bombones,119.0,793,3330763.0
+2025-05,Buenos Aires,Mar del Plata,Helado por kilo,1098.6,1220,20363261.0
+2025-05,Buenos Aires,Mar del Plata,Cucuruchos y vasitos,351.8,1954,8990340.0
+2025-05,Buenos Aires,Mar del Plata,Postres helados,175.4,292,3975580.0
+2025-05,Buenos Aires,Mar del Plata,Palitos y bombones,100.6,670,2927335.0
+2025-05,Buenos Aires,La Plata,Helado por kilo,1261.5,1401,23445135.0
+2025-05,Buenos Aires,La Plata,Cucuruchos y vasitos,450.2,2501,11921955.0
+2025-05,Buenos Aires,La Plata,Postres helados,197.6,329,4527975.0
+2025-05,Buenos Aires,La Plata,Palitos y bombones,111.5,743,3166562.0
+2025-05,Buenos Aires,Pilar,Helado por kilo,1186.9,1318,21524158.0
+2025-05,Buenos Aires,Pilar,Cucuruchos y vasitos,433.3,2407,11419223.0
+2025-05,Buenos Aires,Pilar,Postres helados,160.1,266,3515536.0
+2025-05,Buenos Aires,Pilar,Palitos y bombones,112.3,748,3117402.0
+2025-05,CABA,Palermo,Helado por kilo,1267.7,1408,23492081.0
+2025-05,CABA,Palermo,Cucuruchos y vasitos,464.7,2581,12120368.0
+2025-05,CABA,Palermo,Postres helados,209.1,348,4708560.0
+2025-05,CABA,Palermo,Palitos y bombones,126.6,844,3685468.0
+2025-05,CABA,Belgrano,Helado por kilo,1357.8,1508,25900775.0
+2025-05,CABA,Belgrano,Cucuruchos y vasitos,491.5,2730,12439071.0
+2025-05,CABA,Belgrano,Postres helados,198.5,330,4494065.0
+2025-05,CABA,Belgrano,Palitos y bombones,129.3,862,3827969.0
+2025-05,CABA,Caballito,Helado por kilo,1256.8,1396,22761603.0
+2025-05,CABA,Caballito,Cucuruchos y vasitos,437.4,2429,11170148.0
+2025-05,CABA,Caballito,Postres helados,205.6,342,4778529.0
+2025-05,CABA,Caballito,Palitos y bombones,121.6,810,3428004.0
+2025-05,Santa Fe,Rosario Centro,Helado por kilo,994.1,1104,18770870.0
+2025-05,Santa Fe,Rosario Centro,Cucuruchos y vasitos,367.0,2038,9558644.0
+2025-05,Santa Fe,Rosario Centro,Postres helados,154.6,257,3381924.0
+2025-05,Santa Fe,Rosario Centro,Palitos y bombones,96.1,640,2847843.0
+2025-05,Santa Fe,Santa Fe Capital,Helado por kilo,903.4,1003,16508100.0
+2025-05,Santa Fe,Santa Fe Capital,Cucuruchos y vasitos,321.7,1786,8043616.0
+2025-05,Santa Fe,Santa Fe Capital,Postres helados,136.5,227,3077195.0
+2025-05,Santa Fe,Santa Fe Capital,Palitos y bombones,98.1,653,2829888.0
+2025-05,Mendoza,Mendoza Centro,Helado por kilo,909.5,1010,16280177.0
+2025-05,Mendoza,Mendoza Centro,Cucuruchos y vasitos,338.6,1880,8715494.0
+2025-05,Mendoza,Mendoza Centro,Postres helados,160.4,267,3582603.0
+2025-05,Mendoza,Mendoza Centro,Palitos y bombones,94.1,627,2639958.0
+2025-05,Mendoza,Godoy Cruz,Helado por kilo,879.0,976,16417874.0
+2025-05,Mendoza,Godoy Cruz,Cucuruchos y vasitos,303.7,1687,7851165.0
+2025-05,Mendoza,Godoy Cruz,Postres helados,149.5,249,3354991.0
+2025-05,Mendoza,Godoy Cruz,Palitos y bombones,83.9,559,2359085.0
+2025-05,Tucumán,San Miguel de Tucumán,Helado por kilo,1086.0,1206,19593136.0
+2025-05,Tucumán,San Miguel de Tucumán,Cucuruchos y vasitos,399.7,2220,10338486.0
+2025-05,Tucumán,San Miguel de Tucumán,Postres helados,175.2,292,3939606.0
+2025-05,Tucumán,San Miguel de Tucumán,Palitos y bombones,104.8,698,3015776.0
+2025-06,Córdoba,Nueva Córdoba,Helado por kilo,865.4,961,16029124.0
+2025-06,Córdoba,Nueva Córdoba,Cucuruchos y vasitos,276.1,1533,6862266.0
+2025-06,Córdoba,Nueva Córdoba,Postres helados,119.4,198,2699565.0
+2025-06,Córdoba,Nueva Córdoba,Palitos y bombones,71.0,473,2069992.0
+2025-06,Córdoba,Cerro de las Rosas,Helado por kilo,816.3,906,15749274.0
+2025-06,Córdoba,Cerro de las Rosas,Cucuruchos y vasitos,285.2,1584,7423393.0
+2025-06,Córdoba,Cerro de las Rosas,Postres helados,131.3,218,2996512.0
+2025-06,Córdoba,Cerro de las Rosas,Palitos y bombones,79.1,527,2312988.0
+2025-06,Córdoba,General Paz,Helado por kilo,866.1,962,16403782.0
+2025-06,Córdoba,General Paz,Cucuruchos y vasitos,312.7,1736,8172317.0
+2025-06,Córdoba,General Paz,Postres helados,133.3,222,2980466.0
+2025-06,Córdoba,General Paz,Palitos y bombones,81.7,544,2392023.0
+2025-06,Córdoba,Villa Carlos Paz,Helado por kilo,1026.9,1140,19134977.0
+2025-06,Córdoba,Villa Carlos Paz,Cucuruchos y vasitos,407.3,2262,10614136.0
+2025-06,Córdoba,Villa Carlos Paz,Postres helados,173.8,289,4051464.0
+2025-06,Córdoba,Villa Carlos Paz,Palitos y bombones,103.8,691,2981729.0
+2025-06,Buenos Aires,Mar del Plata,Helado por kilo,804.7,894,14710985.0
+2025-06,Buenos Aires,Mar del Plata,Cucuruchos y vasitos,281.6,1564,7229407.0
+2025-06,Buenos Aires,Mar del Plata,Postres helados,131.5,219,2995473.0
+2025-06,Buenos Aires,Mar del Plata,Palitos y bombones,79.6,530,2381531.0
+2025-06,Buenos Aires,La Plata,Helado por kilo,876.0,973,16510564.0
+2025-06,Buenos Aires,La Plata,Cucuruchos y vasitos,308.5,1714,8133230.0
+2025-06,Buenos Aires,La Plata,Postres helados,143.5,239,3205206.0
+2025-06,Buenos Aires,La Plata,Palitos y bombones,85.3,568,2410604.0
+2025-06,Buenos Aires,Pilar,Helado por kilo,975.9,1084,17998740.0
+2025-06,Buenos Aires,Pilar,Cucuruchos y vasitos,325.6,1808,8519622.0
+2025-06,Buenos Aires,Pilar,Postres helados,154.8,257,3727906.0
+2025-06,Buenos Aires,Pilar,Palitos y bombones,88.5,590,2609417.0
+2025-06,CABA,Palermo,Helado por kilo,910.1,1011,16760072.0
+2025-06,CABA,Palermo,Cucuruchos y vasitos,325.5,1808,8468828.0
+2025-06,CABA,Palermo,Postres helados,160.3,267,3550309.0
+2025-06,CABA,Palermo,Palitos y bombones,85.9,572,2480103.0
+2025-06,CABA,Belgrano,Helado por kilo,959.3,1065,18203025.0
+2025-06,CABA,Belgrano,Cucuruchos y vasitos,351.8,1954,9130210.0
+2025-06,CABA,Belgrano,Postres helados,150.1,250,3456660.0
+2025-06,CABA,Belgrano,Palitos y bombones,91.3,608,2648874.0
+2025-06,CABA,Caballito,Helado por kilo,990.9,1100,18140971.0
+2025-06,CABA,Caballito,Cucuruchos y vasitos,343.8,1910,8348603.0
+2025-06,CABA,Caballito,Postres helados,155.0,258,3568649.0
+2025-06,CABA,Caballito,Palitos y bombones,102.9,686,2986848.0
+2025-06,Santa Fe,Rosario Centro,Helado por kilo,684.9,760,12552095.0
+2025-06,Santa Fe,Rosario Centro,Cucuruchos y vasitos,268.5,1491,7374633.0
+2025-06,Santa Fe,Rosario Centro,Postres helados,117.6,195,2693993.0
+2025-06,Santa Fe,Rosario Centro,Palitos y bombones,68.4,456,1915890.0
+2025-06,Santa Fe,Santa Fe Capital,Helado por kilo,733.4,814,13707962.0
+2025-06,Santa Fe,Santa Fe Capital,Cucuruchos y vasitos,300.5,1669,7898771.0
+2025-06,Santa Fe,Santa Fe Capital,Postres helados,138.4,230,3151534.0
+2025-06,Santa Fe,Santa Fe Capital,Palitos y bombones,80.3,535,2276207.0
+2025-06,Mendoza,Mendoza Centro,Helado por kilo,606.9,674,11089477.0
+2025-06,Mendoza,Mendoza Centro,Cucuruchos y vasitos,217.6,1208,5478447.0
+2025-06,Mendoza,Mendoza Centro,Postres helados,114.1,190,2614651.0
+2025-06,Mendoza,Mendoza Centro,Palitos y bombones,64.0,426,1864887.0
+2025-06,Mendoza,Godoy Cruz,Helado por kilo,641.3,712,12270264.0
+2025-06,Mendoza,Godoy Cruz,Cucuruchos y vasitos,228.1,1267,5776948.0
+2025-06,Mendoza,Godoy Cruz,Postres helados,102.4,170,2390674.0
+2025-06,Mendoza,Godoy Cruz,Palitos y bombones,66.5,443,1961402.0
+2025-06,Tucumán,San Miguel de Tucumán,Helado por kilo,759.1,843,13879363.0
+2025-06,Tucumán,San Miguel de Tucumán,Cucuruchos y vasitos,273.3,1518,7038525.0
+2025-06,Tucumán,San Miguel de Tucumán,Postres helados,129.2,215,3016173.0
+2025-06,Tucumán,San Miguel de Tucumán,Palitos y bombones,82.3,548,2396832.0
+2025-07,Córdoba,Nueva Córdoba,Helado por kilo,817.3,908,15841470.0
+2025-07,Córdoba,Nueva Córdoba,Cucuruchos y vasitos,291.0,1616,7946339.0
+2025-07,Córdoba,Nueva Córdoba,Postres helados,132.9,221,3027439.0
+2025-07,Córdoba,Nueva Córdoba,Palitos y bombones,84.7,564,2501014.0
+2025-07,Córdoba,Cerro de las Rosas,Helado por kilo,954.2,1060,18505149.0
+2025-07,Córdoba,Cerro de las Rosas,Cucuruchos y vasitos,334.3,1857,8817333.0
+2025-07,Córdoba,Cerro de las Rosas,Postres helados,157.0,261,3710401.0
+2025-07,Córdoba,Cerro de las Rosas,Palitos y bombones,96.9,646,2926278.0
+2025-07,Córdoba,General Paz,Helado por kilo,855.8,950,16499110.0
+2025-07,Córdoba,General Paz,Cucuruchos y vasitos,282.5,1569,7546011.0
+2025-07,Córdoba,General Paz,Postres helados,134.7,224,3207513.0
+2025-07,Córdoba,General Paz,Palitos y bombones,79.7,531,2289593.0
+2025-07,Córdoba,Villa Carlos Paz,Helado por kilo,1364.1,1515,25530942.0
+2025-07,Córdoba,Villa Carlos Paz,Cucuruchos y vasitos,499.6,2775,13143225.0
+2025-07,Córdoba,Villa Carlos Paz,Postres helados,225.0,375,5354045.0
+2025-07,Córdoba,Villa Carlos Paz,Palitos y bombones,140.2,934,4046050.0
+2025-07,Buenos Aires,Mar del Plata,Helado por kilo,1069.5,1188,20274147.0
+2025-07,Buenos Aires,Mar del Plata,Cucuruchos y vasitos,404.5,2247,10619768.0
+2025-07,Buenos Aires,Mar del Plata,Postres helados,177.5,295,4159899.0
+2025-07,Buenos Aires,Mar del Plata,Palitos y bombones,110.3,735,3191012.0
+2025-07,Buenos Aires,La Plata,Helado por kilo,1054.5,1171,20520419.0
+2025-07,Buenos Aires,La Plata,Cucuruchos y vasitos,364.0,2022,9964293.0
+2025-07,Buenos Aires,La Plata,Postres helados,166.8,277,3830300.0
+2025-07,Buenos Aires,La Plata,Palitos y bombones,105.7,704,3072437.0
+2025-07,Buenos Aires,Pilar,Helado por kilo,1068.1,1186,19883795.0
+2025-07,Buenos Aires,Pilar,Cucuruchos y vasitos,403.3,2240,10848513.0
+2025-07,Buenos Aires,Pilar,Postres helados,157.4,262,3563644.0
+2025-07,Buenos Aires,Pilar,Palitos y bombones,97.4,649,2857485.0
+2025-07,CABA,Palermo,Helado por kilo,1064.4,1182,20404443.0
+2025-07,CABA,Palermo,Cucuruchos y vasitos,335.4,1863,8834646.0
+2025-07,CABA,Palermo,Postres helados,178.0,296,4092998.0
+2025-07,CABA,Palermo,Palitos y bombones,105.6,703,3086914.0
+2025-07,CABA,Belgrano,Helado por kilo,1108.5,1231,21275179.0
+2025-07,CABA,Belgrano,Cucuruchos y vasitos,399.5,2219,10448360.0
+2025-07,CABA,Belgrano,Postres helados,180.5,300,4179739.0
+2025-07,CABA,Belgrano,Palitos y bombones,112.1,747,3190502.0
+2025-07,CABA,Caballito,Helado por kilo,973.3,1081,18584582.0
+2025-07,CABA,Caballito,Cucuruchos y vasitos,363.9,2021,9854844.0
+2025-07,CABA,Caballito,Postres helados,149.1,248,3574736.0
+2025-07,CABA,Caballito,Palitos y bombones,90.7,604,2673348.0
+2025-07,Santa Fe,Rosario Centro,Helado por kilo,915.7,1017,17430245.0
+2025-07,Santa Fe,Rosario Centro,Cucuruchos y vasitos,338.6,1881,9210828.0
+2025-07,Santa Fe,Rosario Centro,Postres helados,147.1,245,3430198.0
+2025-07,Santa Fe,Rosario Centro,Palitos y bombones,83.6,557,2485647.0
+2025-07,Santa Fe,Santa Fe Capital,Helado por kilo,863.7,959,15991734.0
+2025-07,Santa Fe,Santa Fe Capital,Cucuruchos y vasitos,294.2,1634,7590486.0
+2025-07,Santa Fe,Santa Fe Capital,Postres helados,143.9,239,3378752.0
+2025-07,Santa Fe,Santa Fe Capital,Palitos y bombones,78.1,520,2375867.0
+2025-07,Mendoza,Mendoza Centro,Helado por kilo,885.1,983,17387214.0
+2025-07,Mendoza,Mendoza Centro,Cucuruchos y vasitos,300.5,1669,7972500.0
+2025-07,Mendoza,Mendoza Centro,Postres helados,125.8,209,2951787.0
+2025-07,Mendoza,Mendoza Centro,Palitos y bombones,83.8,558,2501186.0
+2025-07,Mendoza,Godoy Cruz,Helado por kilo,751.7,835,14324973.0
+2025-07,Mendoza,Godoy Cruz,Cucuruchos y vasitos,290.5,1613,7474208.0
+2025-07,Mendoza,Godoy Cruz,Postres helados,124.7,207,2967965.0
+2025-07,Mendoza,Godoy Cruz,Palitos y bombones,72.3,481,2150012.0
+2025-07,Tucumán,San Miguel de Tucumán,Helado por kilo,880.5,978,16676046.0
+2025-07,Tucumán,San Miguel de Tucumán,Cucuruchos y vasitos,311.7,1731,8480834.0
+2025-07,Tucumán,San Miguel de Tucumán,Postres helados,138.3,230,3233266.0
+2025-07,Tucumán,San Miguel de Tucumán,Palitos y bombones,84.0,560,2455112.0
+2025-08,Córdoba,Nueva Córdoba,Helado por kilo,852.4,947,16564624.0
+2025-08,Córdoba,Nueva Córdoba,Cucuruchos y vasitos,275.4,1530,7449735.0
+2025-08,Córdoba,Nueva Córdoba,Postres helados,130.9,218,3210107.0
+2025-08,Córdoba,Nueva Córdoba,Palitos y bombones,75.9,506,2224955.0
+2025-08,Córdoba,Cerro de las Rosas,Helado por kilo,876.0,973,16915634.0
+2025-08,Córdoba,Cerro de las Rosas,Cucuruchos y vasitos,339.8,1887,9266858.0
+2025-08,Córdoba,Cerro de las Rosas,Postres helados,140.6,234,3354047.0
+2025-08,Córdoba,Cerro de las Rosas,Palitos y bombones,83.6,557,2529001.0
+2025-08,Córdoba,General Paz,Helado por kilo,818.4,909,15601534.0
+2025-08,Córdoba,General Paz,Cucuruchos y vasitos,276.7,1537,7435230.0
+2025-08,Córdoba,General Paz,Postres helados,138.2,230,3328702.0
+2025-08,Córdoba,General Paz,Palitos y bombones,92.4,616,2716189.0
+2025-08,Córdoba,Villa Carlos Paz,Helado por kilo,1065.5,1183,20520856.0
+2025-08,Córdoba,Villa Carlos Paz,Cucuruchos y vasitos,374.5,2080,9958531.0
+2025-08,Córdoba,Villa Carlos Paz,Postres helados,182.4,304,4400716.0
+2025-08,Córdoba,Villa Carlos Paz,Palitos y bombones,109.6,730,3344383.0
+2025-08,Buenos Aires,Mar del Plata,Helado por kilo,1035.7,1150,20576183.0
+2025-08,Buenos Aires,Mar del Plata,Cucuruchos y vasitos,349.8,1943,9471780.0
+2025-08,Buenos Aires,Mar del Plata,Postres helados,164.5,274,3980074.0
+2025-08,Buenos Aires,Mar del Plata,Palitos y bombones,94.9,632,2831368.0
+2025-08,Buenos Aires,La Plata,Helado por kilo,1028.8,1143,20159526.0
+2025-08,Buenos Aires,La Plata,Cucuruchos y vasitos,344.9,1916,9160851.0
+2025-08,Buenos Aires,La Plata,Postres helados,164.9,274,3987740.0
+2025-08,Buenos Aires,La Plata,Palitos y bombones,92.4,616,2652135.0
+2025-08,Buenos Aires,Pilar,Helado por kilo,1012.1,1124,19608128.0
+2025-08,Buenos Aires,Pilar,Cucuruchos y vasitos,356.5,1980,9488974.0
+2025-08,Buenos Aires,Pilar,Postres helados,164.6,274,3885270.0
+2025-08,Buenos Aires,Pilar,Palitos y bombones,100.4,669,3123025.0
+2025-08,CABA,Palermo,Helado por kilo,1031.4,1145,19347747.0
+2025-08,CABA,Palermo,Cucuruchos y vasitos,390.2,2167,10189117.0
+2025-08,CABA,Palermo,Postres helados,172.5,287,4083858.0
+2025-08,CABA,Palermo,Palitos y bombones,108.2,721,3189403.0
+2025-08,CABA,Belgrano,Helado por kilo,1141.2,1267,22030562.0
+2025-08,CABA,Belgrano,Cucuruchos y vasitos,415.6,2308,10712235.0
+2025-08,CABA,Belgrano,Postres helados,168.6,281,3978209.0
+2025-08,CABA,Belgrano,Palitos y bombones,103.7,691,3084132.0
+2025-08,CABA,Caballito,Helado por kilo,1180.5,1311,23358552.0
+2025-08,CABA,Caballito,Cucuruchos y vasitos,383.4,2130,10445144.0
+2025-08,CABA,Caballito,Postres helados,170.1,283,3996754.0
+2025-08,CABA,Caballito,Palitos y bombones,109.0,726,3294581.0
+2025-08,Santa Fe,Rosario Centro,Helado por kilo,816.8,907,15631740.0
+2025-08,Santa Fe,Rosario Centro,Cucuruchos y vasitos,289.9,1610,7876281.0
+2025-08,Santa Fe,Rosario Centro,Postres helados,132.4,220,3217354.0
+2025-08,Santa Fe,Rosario Centro,Palitos y bombones,77.3,515,2288139.0
+2025-08,Santa Fe,Santa Fe Capital,Helado por kilo,852.2,946,16399079.0
+2025-08,Santa Fe,Santa Fe Capital,Cucuruchos y vasitos,282.7,1570,7564832.0
+2025-08,Santa Fe,Santa Fe Capital,Postres helados,137.0,228,3313167.0
+2025-08,Santa Fe,Santa Fe Capital,Palitos y bombones,69.8,465,2137915.0
+2025-08,Mendoza,Mendoza Centro,Helado por kilo,841.6,935,16804403.0
+2025-08,Mendoza,Mendoza Centro,Cucuruchos y vasitos,306.4,1702,8426888.0
+2025-08,Mendoza,Mendoza Centro,Postres helados,126.9,211,2916748.0
+2025-08,Mendoza,Mendoza Centro,Palitos y bombones,79.2,527,2353731.0
+2025-08,Mendoza,Godoy Cruz,Helado por kilo,773.8,859,15785347.0
+2025-08,Mendoza,Godoy Cruz,Cucuruchos y vasitos,308.8,1715,8293304.0
+2025-08,Mendoza,Godoy Cruz,Postres helados,127.8,213,3102547.0
+2025-08,Mendoza,Godoy Cruz,Palitos y bombones,83.5,556,2524598.0
+2025-08,Tucumán,San Miguel de Tucumán,Helado por kilo,903.4,1003,17156756.0
+2025-08,Tucumán,San Miguel de Tucumán,Cucuruchos y vasitos,349.6,1942,9515453.0
+2025-08,Tucumán,San Miguel de Tucumán,Postres helados,142.6,237,3453495.0
+2025-08,Tucumán,San Miguel de Tucumán,Palitos y bombones,91.1,607,2705330.0
+2025-09,Córdoba,Nueva Córdoba,Helado por kilo,1210.5,1344,23741263.0
+2025-09,Córdoba,Nueva Córdoba,Cucuruchos y vasitos,428.0,2377,11703247.0
+2025-09,Córdoba,Nueva Córdoba,Postres helados,189.2,315,4552300.0
+2025-09,Córdoba,Nueva Córdoba,Palitos y bombones,108.4,722,3349225.0
+2025-09,Córdoba,Cerro de las Rosas,Helado por kilo,1318.4,1464,25846993.0
+2025-09,Córdoba,Cerro de las Rosas,Cucuruchos y vasitos,365.2,2029,10238455.0
+2025-09,Córdoba,Cerro de las Rosas,Postres helados,201.2,335,5070073.0
+2025-09,Córdoba,Cerro de las Rosas,Palitos y bombones,122.1,814,3759875.0
+2025-09,Córdoba,General Paz,Helado por kilo,1062.9,1180,21493224.0
+2025-09,Córdoba,General Paz,Cucuruchos y vasitos,366.8,2037,10292729.0
+2025-09,Córdoba,General Paz,Postres helados,188.1,313,4611683.0
+2025-09,Córdoba,General Paz,Palitos y bombones,102.7,684,3134949.0
+2025-09,Córdoba,Villa Carlos Paz,Helado por kilo,1362.8,1514,27886166.0
+2025-09,Córdoba,Villa Carlos Paz,Cucuruchos y vasitos,456.1,2533,12940782.0
+2025-09,Córdoba,Villa Carlos Paz,Postres helados,202.7,337,4865565.0
+2025-09,Córdoba,Villa Carlos Paz,Palitos y bombones,121.2,808,3679893.0
+2025-09,Buenos Aires,Mar del Plata,Helado por kilo,1207.3,1341,23887295.0
+2025-09,Buenos Aires,Mar del Plata,Cucuruchos y vasitos,447.3,2485,12347530.0
+2025-09,Buenos Aires,Mar del Plata,Postres helados,206.0,343,4976520.0
+2025-09,Buenos Aires,Mar del Plata,Palitos y bombones,118.7,791,3717884.0
+2025-09,Buenos Aires,La Plata,Helado por kilo,1444.7,1605,28090491.0
+2025-09,Buenos Aires,La Plata,Cucuruchos y vasitos,492.2,2734,13851289.0
+2025-09,Buenos Aires,La Plata,Postres helados,245.3,408,5882597.0
+2025-09,Buenos Aires,La Plata,Palitos y bombones,140.9,939,4332730.0
+2025-09,Buenos Aires,Pilar,Helado por kilo,1481.9,1646,29215960.0
+2025-09,Buenos Aires,Pilar,Cucuruchos y vasitos,477.1,2650,13060479.0
+2025-09,Buenos Aires,Pilar,Postres helados,206.2,343,4848976.0
+2025-09,Buenos Aires,Pilar,Palitos y bombones,123.8,825,3747163.0
+2025-09,CABA,Palermo,Helado por kilo,1581.2,1756,31233666.0
+2025-09,CABA,Palermo,Cucuruchos y vasitos,488.8,2715,12918962.0
+2025-09,CABA,Palermo,Postres helados,233.6,389,5796101.0
+2025-09,CABA,Palermo,Palitos y bombones,142.2,947,4349868.0
+2025-09,CABA,Belgrano,Helado por kilo,1372.8,1525,27354126.0
+2025-09,CABA,Belgrano,Cucuruchos y vasitos,552.5,3069,15359503.0
+2025-09,CABA,Belgrano,Postres helados,264.5,440,6626012.0
+2025-09,CABA,Belgrano,Palitos y bombones,165.1,1100,4981473.0
+2025-09,CABA,Caballito,Helado por kilo,1612.7,1791,30765734.0
+2025-09,CABA,Caballito,Cucuruchos y vasitos,562.5,3125,15708156.0
+2025-09,CABA,Caballito,Postres helados,236.1,393,5724903.0
+2025-09,CABA,Caballito,Palitos y bombones,151.4,1009,4587509.0
+2025-09,Santa Fe,Rosario Centro,Helado por kilo,1084.5,1204,22206696.0
+2025-09,Santa Fe,Rosario Centro,Cucuruchos y vasitos,356.6,1981,10099874.0
+2025-09,Santa Fe,Rosario Centro,Postres helados,190.2,316,4742938.0
+2025-09,Santa Fe,Rosario Centro,Palitos y bombones,112.9,752,3499773.0
+2025-09,Santa Fe,Santa Fe Capital,Helado por kilo,1192.8,1325,23451077.0
+2025-09,Santa Fe,Santa Fe Capital,Cucuruchos y vasitos,366.6,2036,9992993.0
+2025-09,Santa Fe,Santa Fe Capital,Postres helados,183.6,306,4589677.0
+2025-09,Santa Fe,Santa Fe Capital,Palitos y bombones,104.3,695,3323367.0
+2025-09,Mendoza,Mendoza Centro,Helado por kilo,1082.1,1202,21723852.0
+2025-09,Mendoza,Mendoza Centro,Cucuruchos y vasitos,400.8,2226,10840851.0
+2025-09,Mendoza,Mendoza Centro,Postres helados,186.2,310,4583662.0
+2025-09,Mendoza,Mendoza Centro,Palitos y bombones,113.1,754,3405128.0
+2025-09,Mendoza,Godoy Cruz,Helado por kilo,1190.6,1322,23483445.0
+2025-09,Mendoza,Godoy Cruz,Cucuruchos y vasitos,399.5,2219,11212144.0
+2025-09,Mendoza,Godoy Cruz,Postres helados,177.0,294,4308201.0
+2025-09,Mendoza,Godoy Cruz,Palitos y bombones,107.3,715,3330160.0
+2025-09,Tucumán,San Miguel de Tucumán,Helado por kilo,1145.9,1273,22558616.0
+2025-09,Tucumán,San Miguel de Tucumán,Cucuruchos y vasitos,414.1,2300,11654214.0
+2025-09,Tucumán,San Miguel de Tucumán,Postres helados,193.7,322,4818408.0
+2025-09,Tucumán,San Miguel de Tucumán,Palitos y bombones,114.5,763,3615327.0
+2025-10,Córdoba,Nueva Córdoba,Helado por kilo,1559.0,1732,32464037.0
+2025-10,Córdoba,Nueva Córdoba,Cucuruchos y vasitos,481.1,2672,13382651.0
+2025-10,Córdoba,Nueva Córdoba,Postres helados,238.5,397,5869008.0
+2025-10,Córdoba,Nueva Córdoba,Palitos y bombones,139.9,932,4394283.0
+2025-10,Córdoba,Cerro de las Rosas,Helado por kilo,1641.8,1824,34127005.0
+2025-10,Córdoba,Cerro de las Rosas,Cucuruchos y vasitos,617.5,3430,17476456.0
+2025-10,Córdoba,Cerro de las Rosas,Postres helados,303.1,505,7621545.0
+2025-10,Córdoba,Cerro de las Rosas,Palitos y bombones,150.0,999,4693159.0
+2025-10,Córdoba,General Paz,Helado por kilo,1764.1,1960,35959539.0
+2025-10,Córdoba,General Paz,Cucuruchos y vasitos,640.5,3558,18070794.0
+2025-10,Córdoba,General Paz,Postres helados,316.3,527,7918994.0
+2025-10,Córdoba,General Paz,Palitos y bombones,163.8,1092,5139480.0
+2025-10,Córdoba,Villa Carlos Paz,Helado por kilo,1463.4,1626,28888841.0
+2025-10,Córdoba,Villa Carlos Paz,Cucuruchos y vasitos,489.9,2721,13715364.0
+2025-10,Córdoba,Villa Carlos Paz,Postres helados,229.0,381,5811612.0
+2025-10,Córdoba,Villa Carlos Paz,Palitos y bombones,138.2,921,4291026.0
+2025-10,Buenos Aires,Mar del Plata,Helado por kilo,1595.7,1772,31786698.0
+2025-10,Buenos Aires,Mar del Plata,Cucuruchos y vasitos,564.8,3137,15414147.0
+2025-10,Buenos Aires,Mar del Plata,Postres helados,294.7,491,7140372.0
+2025-10,Buenos Aires,Mar del Plata,Palitos y bombones,162.8,1085,5170341.0
+2025-10,Buenos Aires,La Plata,Helado por kilo,2027.5,2252,41006882.0
+2025-10,Buenos Aires,La Plata,Cucuruchos y vasitos,552.4,3069,15660510.0
+2025-10,Buenos Aires,La Plata,Postres helados,296.5,494,7515778.0
+2025-10,Buenos Aires,La Plata,Palitos y bombones,158.6,1057,4944411.0
+2025-10,Buenos Aires,Pilar,Helado por kilo,1823.9,2026,37229105.0
+2025-10,Buenos Aires,Pilar,Cucuruchos y vasitos,620.3,3445,17481745.0
+2025-10,Buenos Aires,Pilar,Postres helados,299.1,498,7477111.0
+2025-10,Buenos Aires,Pilar,Palitos y bombones,153.5,1023,4754274.0
+2025-10,CABA,Palermo,Helado por kilo,2120.7,2356,43083388.0
+2025-10,CABA,Palermo,Cucuruchos y vasitos,674.1,3745,18517485.0
+2025-10,CABA,Palermo,Postres helados,331.2,551,8193313.0
+2025-10,CABA,Palermo,Palitos y bombones,174.0,1160,5575188.0
+2025-10,CABA,Belgrano,Helado por kilo,2102.2,2335,41812267.0
+2025-10,CABA,Belgrano,Cucuruchos y vasitos,724.2,4023,20455199.0
+2025-10,CABA,Belgrano,Postres helados,340.4,567,8290918.0
+2025-10,CABA,Belgrano,Palitos y bombones,175.1,1167,5554984.0
+2025-10,CABA,Caballito,Helado por kilo,2145.2,2383,44468744.0
+2025-10,CABA,Caballito,Cucuruchos y vasitos,691.0,3838,19509972.0
+2025-10,CABA,Caballito,Postres helados,356.5,594,8553067.0
+2025-10,CABA,Caballito,Palitos y bombones,224.5,1496,7039090.0
+2025-10,Santa Fe,Rosario Centro,Helado por kilo,1515.3,1683,30938135.0
+2025-10,Santa Fe,Rosario Centro,Cucuruchos y vasitos,525.2,2917,14595233.0
+2025-10,Santa Fe,Rosario Centro,Postres helados,237.6,395,6158107.0
+2025-10,Santa Fe,Rosario Centro,Palitos y bombones,145.2,968,4377693.0
+2025-10,Santa Fe,Santa Fe Capital,Helado por kilo,1726.0,1917,35726073.0
+2025-10,Santa Fe,Santa Fe Capital,Cucuruchos y vasitos,600.0,3333,17529865.0
+2025-10,Santa Fe,Santa Fe Capital,Postres helados,276.3,460,6831982.0
+2025-10,Santa Fe,Santa Fe Capital,Palitos y bombones,153.1,1020,4894099.0
+2025-10,Mendoza,Mendoza Centro,Helado por kilo,1440.3,1600,29202685.0
+2025-10,Mendoza,Mendoza Centro,Cucuruchos y vasitos,508.5,2825,14136605.0
+2025-10,Mendoza,Mendoza Centro,Postres helados,217.2,361,5360143.0
+2025-10,Mendoza,Mendoza Centro,Palitos y bombones,134.0,893,4172664.0
+2025-10,Mendoza,Godoy Cruz,Helado por kilo,1658.8,1843,34006521.0
+2025-10,Mendoza,Godoy Cruz,Cucuruchos y vasitos,561.5,3119,15434882.0
+2025-10,Mendoza,Godoy Cruz,Postres helados,254.4,424,6312037.0
+2025-10,Mendoza,Godoy Cruz,Palitos y bombones,146.7,977,4596320.0
+2025-10,Tucumán,San Miguel de Tucumán,Helado por kilo,1631.4,1812,33984279.0
+2025-10,Tucumán,San Miguel de Tucumán,Cucuruchos y vasitos,553.9,3077,15242749.0
+2025-10,Tucumán,San Miguel de Tucumán,Postres helados,279.3,465,6843717.0
+2025-10,Tucumán,San Miguel de Tucumán,Palitos y bombones,158.7,1058,4987102.0
+2025-11,Córdoba,Nueva Córdoba,Helado por kilo,1861.6,2068,39011355.0
+2025-11,Córdoba,Nueva Córdoba,Cucuruchos y vasitos,726.6,4036,20336659.0
+2025-11,Córdoba,Nueva Córdoba,Postres helados,321.7,536,7995177.0
+2025-11,Córdoba,Nueva Córdoba,Palitos y bombones,198.8,1325,6483396.0
+2025-11,Córdoba,Cerro de las Rosas,Helado por kilo,2367.6,2630,48941002.0
+2025-11,Córdoba,Cerro de las Rosas,Cucuruchos y vasitos,817.5,4541,23050525.0
+2025-11,Córdoba,Cerro de las Rosas,Postres helados,349.1,581,9049202.0
+2025-11,Córdoba,Cerro de las Rosas,Palitos y bombones,213.5,1423,6893178.0
+2025-11,Córdoba,General Paz,Helado por kilo,2133.8,2370,45294451.0
+2025-11,Córdoba,General Paz,Cucuruchos y vasitos,822.7,4570,22879034.0
+2025-11,Córdoba,General Paz,Postres helados,326.1,543,8340990.0
+2025-11,Córdoba,General Paz,Palitos y bombones,207.0,1380,6909601.0
+2025-11,Córdoba,Villa Carlos Paz,Helado por kilo,1474.7,1638,30383682.0
+2025-11,Córdoba,Villa Carlos Paz,Cucuruchos y vasitos,490.6,2725,13847808.0
+2025-11,Córdoba,Villa Carlos Paz,Postres helados,238.2,396,6024867.0
+2025-11,Córdoba,Villa Carlos Paz,Palitos y bombones,138.9,925,4560225.0
+2025-11,Buenos Aires,Mar del Plata,Helado por kilo,2069.7,2299,43202881.0
+2025-11,Buenos Aires,Mar del Plata,Cucuruchos y vasitos,741.1,4117,21212593.0
+2025-11,Buenos Aires,Mar del Plata,Postres helados,307.9,513,7805999.0
+2025-11,Buenos Aires,Mar del Plata,Palitos y bombones,204.7,1364,6478958.0
+2025-11,Buenos Aires,La Plata,Helado por kilo,2306.5,2562,47073540.0
+2025-11,Buenos Aires,La Plata,Cucuruchos y vasitos,803.6,4464,22452095.0
+2025-11,Buenos Aires,La Plata,Postres helados,353.3,588,9108654.0
+2025-11,Buenos Aires,La Plata,Palitos y bombones,206.8,1378,6599050.0
+2025-11,Buenos Aires,Pilar,Helado por kilo,2247.5,2497,46734480.0
+2025-11,Buenos Aires,Pilar,Cucuruchos y vasitos,801.4,4452,22961498.0
+2025-11,Buenos Aires,Pilar,Postres helados,380.3,633,9461154.0
+2025-11,Buenos Aires,Pilar,Palitos y bombones,233.4,1556,7350612.0
+2025-11,CABA,Palermo,Helado por kilo,2381.4,2646,48258839.0
+2025-11,CABA,Palermo,Cucuruchos y vasitos,867.0,4816,25404065.0
+2025-11,CABA,Palermo,Postres helados,390.4,650,10144836.0
+2025-11,CABA,Palermo,Palitos y bombones,264.7,1764,8475982.0
+2025-11,CABA,Belgrano,Helado por kilo,2738.0,3042,55675072.0
+2025-11,CABA,Belgrano,Cucuruchos y vasitos,952.6,5292,27546001.0
+2025-11,CABA,Belgrano,Postres helados,417.7,696,10766700.0
+2025-11,CABA,Belgrano,Palitos y bombones,283.0,1886,9082203.0
+2025-11,CABA,Caballito,Helado por kilo,2521.8,2801,53044090.0
+2025-11,CABA,Caballito,Cucuruchos y vasitos,914.7,5081,26556446.0
+2025-11,CABA,Caballito,Postres helados,389.6,649,10085100.0
+2025-11,CABA,Caballito,Palitos y bombones,260.1,1733,8211614.0
+2025-11,Santa Fe,Rosario Centro,Helado por kilo,1947.2,2163,40016325.0
+2025-11,Santa Fe,Rosario Centro,Cucuruchos y vasitos,712.3,3957,20885046.0
+2025-11,Santa Fe,Rosario Centro,Postres helados,316.2,527,8019318.0
+2025-11,Santa Fe,Rosario Centro,Palitos y bombones,180.0,1200,5973942.0
+2025-11,Santa Fe,Santa Fe Capital,Helado por kilo,1888.9,2098,38767258.0
+2025-11,Santa Fe,Santa Fe Capital,Cucuruchos y vasitos,739.8,4110,20670634.0
+2025-11,Santa Fe,Santa Fe Capital,Postres helados,321.9,536,8134536.0
+2025-11,Santa Fe,Santa Fe Capital,Palitos y bombones,178.9,1192,5693703.0
+2025-11,Mendoza,Mendoza Centro,Helado por kilo,1646.7,1829,34674537.0
+2025-11,Mendoza,Mendoza Centro,Cucuruchos y vasitos,653.2,3628,18750638.0
+2025-11,Mendoza,Mendoza Centro,Postres helados,285.0,475,7418648.0
+2025-11,Mendoza,Mendoza Centro,Palitos y bombones,174.6,1163,5630463.0
+2025-11,Mendoza,Godoy Cruz,Helado por kilo,1889.8,2099,39396718.0
+2025-11,Mendoza,Godoy Cruz,Cucuruchos y vasitos,654.8,3637,19290989.0
+2025-11,Mendoza,Godoy Cruz,Postres helados,314.2,523,8031346.0
+2025-11,Mendoza,Godoy Cruz,Palitos y bombones,165.0,1099,5460542.0
+2025-11,Tucumán,San Miguel de Tucumán,Helado por kilo,2110.3,2344,44011043.0
+2025-11,Tucumán,San Miguel de Tucumán,Cucuruchos y vasitos,745.8,4143,21932733.0
+2025-11,Tucumán,San Miguel de Tucumán,Postres helados,335.2,558,8413242.0
+2025-11,Tucumán,San Miguel de Tucumán,Palitos y bombones,208.4,1389,6529698.0
+2025-12,Córdoba,Nueva Córdoba,Helado por kilo,2617.0,2907,55761838.0
+2025-12,Córdoba,Nueva Córdoba,Cucuruchos y vasitos,849.1,4717,24556127.0
+2025-12,Córdoba,Nueva Córdoba,Postres helados,384.4,640,10206598.0
+2025-12,Córdoba,Nueva Córdoba,Palitos y bombones,247.3,1648,8383661.0
+2025-12,Córdoba,Cerro de las Rosas,Helado por kilo,2945.4,3272,62743825.0
+2025-12,Córdoba,Cerro de las Rosas,Cucuruchos y vasitos,1134.4,6301,33384243.0
+2025-12,Córdoba,Cerro de las Rosas,Postres helados,507.0,844,13130724.0
+2025-12,Córdoba,Cerro de las Rosas,Palitos y bombones,297.6,1983,9811229.0
+2025-12,Córdoba,General Paz,Helado por kilo,2703.2,3003,58974067.0
+2025-12,Córdoba,General Paz,Cucuruchos y vasitos,901.1,5006,27191276.0
+2025-12,Córdoba,General Paz,Postres helados,447.0,745,11977898.0
+2025-12,Córdoba,General Paz,Palitos y bombones,275.7,1837,9143264.0
+2025-12,Córdoba,Villa Carlos Paz,Helado por kilo,2268.8,2520,48591871.0
+2025-12,Córdoba,Villa Carlos Paz,Cucuruchos y vasitos,852.1,4733,24795697.0
+2025-12,Córdoba,Villa Carlos Paz,Postres helados,376.5,627,9924075.0
+2025-12,Córdoba,Villa Carlos Paz,Palitos y bombones,244.9,1632,8133959.0
+2025-12,Buenos Aires,Mar del Plata,Helado por kilo,3032.8,3369,66099470.0
+2025-12,Buenos Aires,Mar del Plata,Cucuruchos y vasitos,1123.2,6239,34205559.0
+2025-12,Buenos Aires,Mar del Plata,Postres helados,474.6,791,12451827.0
+2025-12,Buenos Aires,Mar del Plata,Palitos y bombones,290.9,1939,9973793.0
+2025-12,Buenos Aires,La Plata,Helado por kilo,3281.3,3645,68356687.0
+2025-12,Buenos Aires,La Plata,Cucuruchos y vasitos,1206.1,6700,35235799.0
+2025-12,Buenos Aires,La Plata,Postres helados,534.9,891,13222059.0
+2025-12,Buenos Aires,La Plata,Palitos y bombones,346.9,2312,11411189.0
+2025-12,Buenos Aires,Pilar,Helado por kilo,2898.3,3220,59274885.0
+2025-12,Buenos Aires,Pilar,Cucuruchos y vasitos,960.0,5333,29073397.0
+2025-12,Buenos Aires,Pilar,Postres helados,473.8,789,12274725.0
+2025-12,Buenos Aires,Pilar,Palitos y bombones,261.4,1742,8748812.0
+2025-12,CABA,Palermo,Helado por kilo,3131.0,3478,67303485.0
+2025-12,CABA,Palermo,Cucuruchos y vasitos,1165.8,6476,35482038.0
+2025-12,CABA,Palermo,Postres helados,579.6,965,14886675.0
+2025-12,CABA,Palermo,Palitos y bombones,319.8,2132,10577116.0
+2025-12,CABA,Belgrano,Helado por kilo,3033.8,3370,65863643.0
+2025-12,CABA,Belgrano,Cucuruchos y vasitos,1156.2,6423,33652828.0
+2025-12,CABA,Belgrano,Postres helados,490.3,817,12879037.0
+2025-12,CABA,Belgrano,Palitos y bombones,254.4,1696,8701768.0
+2025-12,CABA,Caballito,Helado por kilo,3524.2,3915,75037890.0
+2025-12,CABA,Caballito,Cucuruchos y vasitos,1294.9,7193,38553225.0
+2025-12,CABA,Caballito,Postres helados,577.8,962,14218333.0
+2025-12,CABA,Caballito,Palitos y bombones,346.8,2311,11610010.0
+2025-12,Santa Fe,Rosario Centro,Helado por kilo,2979.0,3309,65578326.0
+2025-12,Santa Fe,Rosario Centro,Cucuruchos y vasitos,1016.3,5646,29744623.0
+2025-12,Santa Fe,Rosario Centro,Postres helados,446.5,744,11723821.0
+2025-12,Santa Fe,Rosario Centro,Palitos y bombones,278.5,1856,9811058.0
+2025-12,Santa Fe,Santa Fe Capital,Helado por kilo,2754.4,3060,57829039.0
+2025-12,Santa Fe,Santa Fe Capital,Cucuruchos y vasitos,998.4,5546,30153627.0
+2025-12,Santa Fe,Santa Fe Capital,Postres helados,453.1,755,11679725.0
+2025-12,Santa Fe,Santa Fe Capital,Palitos y bombones,262.9,1752,8642285.0
+2025-12,Mendoza,Mendoza Centro,Helado por kilo,2824.2,3138,62078785.0
+2025-12,Mendoza,Mendoza Centro,Cucuruchos y vasitos,972.3,5401,29958460.0
+2025-12,Mendoza,Mendoza Centro,Postres helados,460.9,768,12096538.0
+2025-12,Mendoza,Mendoza Centro,Palitos y bombones,243.2,1621,8116477.0
+2025-12,Mendoza,Godoy Cruz,Helado por kilo,2397.6,2664,51781413.0
+2025-12,Mendoza,Godoy Cruz,Cucuruchos y vasitos,821.3,4562,24278756.0
+2025-12,Mendoza,Godoy Cruz,Postres helados,364.7,607,9423420.0
+2025-12,Mendoza,Godoy Cruz,Palitos y bombones,231.9,1545,7447427.0
+2025-12,Tucumán,San Miguel de Tucumán,Helado por kilo,2874.9,3194,61853553.0
+2025-12,Tucumán,San Miguel de Tucumán,Cucuruchos y vasitos,1048.3,5823,31600667.0
+2025-12,Tucumán,San Miguel de Tucumán,Postres helados,468.5,780,11969831.0
+2025-12,Tucumán,San Miguel de Tucumán,Palitos y bombones,278.8,1858,9384881.0

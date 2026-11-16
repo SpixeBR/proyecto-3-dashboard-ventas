@@ -1,0 +1,590 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dashboard Heladerías</title>
+<meta name="description" content="Dashboard de ventas de una cadena de heladerías ficticia: 15 locales en 6 provincias argentinas, 2024–2025.">
+<style>
+:root {
+  color-scheme: light;
+  --bg: #f4f3f0; --surface: #fcfcfb; --border: #e4e3df;
+  --text: #0b0b0b; --text-2: #52514e; --text-3: #6e6d68;
+  --accent: #2a78d6; --accent-soft: #d6e6f8; --prev: #a3a29c; --grid: #ecebe7;
+  --up: #007a00; --down: #c23b3a; --track: #efeee9;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --bg: #111110; --surface: #1a1a19; --border: #2e2e2c;
+    --text: #f0efec; --text-2: #c3c2b7; --text-3: #9a998f;
+    --accent: #3987e5; --accent-soft: #1d3555; --prev: #6f6e68; --grid: #262624;
+    --up: #3fb93f; --down: #e66767; --track: #232322;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #111110; --surface: #1a1a19; --border: #2e2e2c;
+  --text: #f0efec; --text-2: #c3c2b7; --text-3: #9a998f;
+  --accent: #3987e5; --accent-soft: #1d3555; --prev: #6f6e68; --grid: #262624;
+  --up: #3fb93f; --down: #e66767; --track: #232322;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text);
+  font: 14px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+.wrap { max-width: 1180px; margin: 0 auto; padding: 24px 16px 40px; }
+header h1 { font-size: 22px; margin: 0 0 2px; letter-spacing: -0.01em; }
+header p { margin: 0; color: var(--text-2); font-size: 13px; }
+
+/* Filtros */
+.filtros { display: flex; flex-wrap: wrap; gap: 10px 18px; align-items: end; margin: 20px 0 16px; }
+.filtro label, .filtro .lbl { display: block; font-size: 11px; text-transform: uppercase; letter-spacing: .06em; color: var(--text-3); margin-bottom: 4px; }
+select { font: inherit; color: var(--text); background: var(--surface); border: 1px solid var(--border);
+  border-radius: 8px; padding: 7px 10px; min-width: 150px; }
+.seg { display: inline-flex; border: 1px solid var(--border); border-radius: 8px; overflow: hidden; background: var(--surface); }
+.seg button { font: inherit; border: 0; background: transparent; color: var(--text-2); padding: 7px 14px; cursor: pointer; }
+.seg button + button { border-left: 1px solid var(--border); }
+.seg button[aria-pressed="true"] { background: var(--accent); color: #fff; }
+select:focus-visible, .seg button:focus-visible, th:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+/* Tarjetas */
+.kpis { display: grid; grid-template-columns: repeat(5, 1fr); gap: 12px; margin-bottom: 12px; }
+.seg.mini button { padding: 3px 10px; font-size: 12px; }
+.seg[hidden], .filtro[hidden] { display: none; }
+.yoy { position: relative; height: 190px; }
+.yoy svg { display: block; width: 100%; height: 100%; overflow: visible; }
+.vacio { color: var(--text-3); font-size: 13px; padding: 24px 0; }
+.mb { margin-bottom: 12px; }
+.card { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 16px; min-width: 0; }
+.kpi .lbl { font-size: 12px; color: var(--text-2); }
+.kpi .val { font-size: 24px; font-weight: 650; margin: 2px 0; font-variant-numeric: tabular-nums; letter-spacing: -0.01em; white-space: nowrap; }
+.kpi .var { font-size: 12px; color: var(--text-3); }
+.var .up { color: var(--up); font-weight: 600; } .var .down { color: var(--down); font-weight: 600; }
+.grid2 { display: grid; grid-template-columns: 1.6fr 1fr; gap: 12px; margin-bottom: 12px; }
+.grid3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-bottom: 12px; }
+.card h2 { font-size: 14px; margin: 0 0 2px; }
+.card .sub { font-size: 12px; color: var(--text-3); margin: 0 0 12px; }
+.card-head { display: flex; justify-content: space-between; align-items: start; gap: 12px; flex-wrap: wrap; }
+.leyenda { display: flex; gap: 14px; font-size: 12px; color: var(--text-2); }
+.leyenda span { display: inline-flex; align-items: center; gap: 6px; }
+.leyenda i { display: inline-block; width: 18px; height: 0; border-top: 2px solid var(--accent); }
+.leyenda i.prev { border-top: 2px dashed var(--prev); }
+
+/* Gráfico de líneas (SVG) */
+.linea { position: relative; height: 300px; }
+.linea svg { display: block; width: 100%; height: 100%; overflow: visible; }
+.eje { fill: var(--text-3); font-size: 11px; font-variant-numeric: tabular-nums; }
+.grilla { stroke: var(--grid); stroke-width: 1; }
+.base { stroke: var(--border); stroke-width: 1; }
+
+/* Barras horizontales (HTML) */
+.barras { display: grid; gap: 10px; }
+.fila-barra { display: grid; grid-template-columns: 1fr auto; gap: 3px 10px; font-size: 13px;
+  padding: 3px 6px; margin: 0 -6px; border-radius: 6px; cursor: default; }
+.fila-barra:hover { background: var(--track); }
+.fila-barra .nombre { color: var(--text-2); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.fila-barra .valor { font-variant-numeric: tabular-nums; color: var(--text); text-align: right; white-space: nowrap; }
+.pista { grid-column: 1 / -1; height: 10px; background: var(--track); border-radius: 4px; overflow: hidden; }
+.barra { height: 100%; background: var(--accent); border-radius: 0 4px 4px 0; min-width: 2px; transition: width .25s ease; }
+
+/* Tooltip */
+.tip { position: fixed; pointer-events: none; z-index: 10; background: var(--surface); color: var(--text);
+  border: 1px solid var(--border); border-radius: 8px; padding: 8px 10px; font-size: 12px; line-height: 1.5;
+  box-shadow: 0 4px 16px rgb(0 0 0 / .12); opacity: 0; transition: opacity .1s; white-space: nowrap; }
+.tip b { font-weight: 600; }
+.tip .muted { color: var(--text-2); }
+.tip i { display: inline-block; width: 12px; margin-right: 6px; vertical-align: middle; border-top: 2px solid var(--accent); }
+.tip i.prev { border-top: 2px dashed var(--prev); }
+
+/* Lectura rápida y tabla */
+.lectura { border-left: 3px solid var(--accent); }
+.lectura ul { margin: 6px 0 0; padding-left: 18px; color: var(--text-2); }
+.lectura li { margin: 6px 0; }
+.lectura b { color: var(--text); }
+table { width: 100%; border-collapse: collapse; font-variant-numeric: tabular-nums; font-size: 13px; }
+th { text-align: left; font-weight: 600; color: var(--text-2); font-size: 12px; border-bottom: 1px solid var(--border); padding: 8px 6px; cursor: pointer; user-select: none; white-space: nowrap; }
+th.num, td.num { text-align: right; }
+td { padding: 7px 6px; border-bottom: 1px solid var(--grid); }
+td.num { white-space: nowrap; }
+td.up { color: var(--up); } td.down { color: var(--down); } td.nota { color: var(--text-3); }
+.tabla-wrap { overflow-x: auto; }
+.nota-pie { font-size: 12px; color: var(--text-3); margin-top: 18px; }
+
+@media (max-width: 1060px) {
+  .kpis { grid-template-columns: repeat(3, 1fr); }
+}
+@media (max-width: 860px) {
+  .kpis { grid-template-columns: repeat(2, 1fr); }
+  .grid2, .grid3 { grid-template-columns: 1fr; }
+  .kpi .val { font-size: 21px; }
+}
+@media (max-width: 1060px) and (min-width: 861px) {
+  .grid3 { grid-template-columns: 1fr 1fr; }
+  .grid3 > :last-child { grid-column: 1 / -1; }
+}
+@media (max-width: 600px) {
+  .col-prov, .col-part { display: none; }   /* en el celular se priorizan las columnas clave */
+  table { font-size: 12px; }
+  th { white-space: normal; }
+}
+@media (max-width: 420px) {
+  .kpi .val { font-size: 18px; }
+  select { min-width: 130px; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Heladerías Del Sur · Ventas</h1>
+    <p>15 locales en 6 provincias · enero 2024 – diciembre 2025 · ventas simuladas, inflación real (IPC INDEC)</p>
+  </header>
+
+  <div class="filtros">
+    <div class="filtro"><label for="f-anio">Año</label>
+      <select id="f-anio"></select></div>
+    <div class="filtro"><label for="f-prov">Provincia</label>
+      <select id="f-prov"></select></div>
+    <div class="filtro"><span class="lbl" id="lbl-metrica">Métrica</span>
+      <div class="seg" role="group" aria-labelledby="lbl-metrica">
+        <button type="button" data-metrica="facturacion" aria-pressed="true">Facturación</button>
+        <button type="button" data-metrica="facturacion_real" aria-pressed="false">Sin inflación</button>
+        <button type="button" data-metrica="kilos" aria-pressed="false">Kilos</button>
+      </div></div>
+    <div class="filtro" id="filtro-defl" hidden><label for="f-defl">Ajustar con</label>
+      <select id="f-defl"></select></div>
+  </div>
+
+  <section class="kpis" id="kpis" aria-label="Indicadores principales"></section>
+
+  <section class="grid2">
+    <div class="card">
+      <div class="card-head">
+        <div><h2 id="t-mensual">Evolución mensual</h2><p class="sub" id="s-mensual"></p></div>
+        <div class="leyenda" id="leyenda"></div>
+      </div>
+      <div class="linea" id="c-mensual"></div>
+    </div>
+    <div class="card lectura"><h2>Lectura rápida</h2><ul id="lectura"></ul></div>
+  </section>
+
+  <section class="card mb">
+    <h2 id="t-yoy">Variación contra el mismo mes del año anterior</h2><p class="sub" id="s-yoy"></p>
+    <div class="yoy" id="c-yoy"></div>
+  </section>
+
+  <section class="grid3">
+    <div class="card">
+      <div class="card-head">
+        <div><h2 id="t-ranking">Por provincia</h2><p class="sub" id="s-ranking"></p></div>
+        <div class="seg mini" id="rank-modo" role="group" aria-label="Forma de comparar provincias">
+          <button type="button" data-modo="total" aria-pressed="true">Total</button>
+          <button type="button" data-modo="local" aria-pressed="false">Por local</button>
+        </div>
+      </div>
+      <div class="barras" id="c-ranking"></div></div>
+    <div class="card"><h2>Por categoría</h2><p class="sub" id="s-cat"></p>
+      <div class="barras" id="c-cat"></div></div>
+    <div class="card"><h2>Top sabores</h2><p class="sub" id="s-sabores"></p>
+      <div class="barras" id="c-sabores"></div></div>
+  </section>
+
+  <section class="card">
+    <h2>Detalle por local</h2><p class="sub">Tocá un encabezado para ordenar</p>
+    <div class="tabla-wrap"><table id="tabla"></table></div>
+  </section>
+
+  <p class="nota-pie"><b>Facturación</b> está en pesos corrientes: su variación incluye el aumento de precios.
+  <b>Sin inflación</b> expresa todos los meses en pesos de <span id="base-nota"></span> con un índice de precios del INDEC
+  (<span id="fuentes-nota"></span>; fuente: datos.gob.ar). Mide el <b>poder de compra</b> de lo facturado, no la rentabilidad:
+  para márgenes harían falta los costos del negocio. <b>Por local</b> divide cada provincia por sus locales abiertos (equivalentes a año completo).
+  La variación por local solo se calcula para locales abiertos todo el año anterior.</p>
+</div>
+<div class="tip" id="tip" role="tooltip"></div>
+
+<script>
+const VENTAS = __VENTAS__;
+const SABORES = __SABORES__;
+const INFLACION = __INFLACION__;   // inflación mensual real por índice (IPC INDEC), en %
+const DEFLACTORES = __DEFLACTORES__; // índices disponibles: nombre y serie de datos.gob.ar
+const BASE_REAL = __BASE_REAL__;   // mes al que se expresan los pesos constantes
+
+// ------------------------------------------------------------ utilidades
+const $ = s => document.querySelector(s);
+const MESES = ["Ene", "Feb", "Mar", "Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov", "Dic"];
+const MESES_LARGOS = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto",
+                      "septiembre", "octubre", "noviembre", "diciembre"];
+const nf = new Intl.NumberFormat("es-AR", { maximumFractionDigits: 0 });
+const nf1 = new Intl.NumberFormat("es-AR", { minimumFractionDigits: 1, maximumFractionDigits: 1 });
+const nf2 = new Intl.NumberFormat("es-AR", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+const fmtCant = v => (Math.abs(v - Math.round(v)) < 0.05 ? nf.format(Math.round(v)) : nf1.format(v));   // 4 o 3,5
+const fmtPesos = v => "$ " + nf.format(v);
+const fmtMillones = v => "$ " + nf.format(v / 1e6) + " M";
+const fmtKg = v => nf.format(v) + " kg";
+const fmtPct = v => (v > 0 ? "+" : "") + nf1.format(v) + "%";
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+const anios = [...new Set(VENTAS.map(r => r.mes.slice(0, 4)))].sort();
+const provincias = [...new Set(VENTAS.map(r => r.provincia))].sort((a, b) => a.localeCompare(b, "es"));
+const estado = { anio: anios.at(-1), prov: "Todas", metrica: "facturacion", deflactor: "general", rankModo: "total" };
+// Columna de datos de cada métrica: "sin inflación" depende del índice elegido
+const columna = k => (k === "facturacion_real" ? `facturacion_real_${estado.deflactor}` : k);
+
+const filtrar = (rows, anio) => rows.filter(r => r.mes.startsWith(anio) && (estado.prov === "Todas" || r.provincia === estado.prov));
+const sumar = (rows, k) => rows.reduce((s, r) => s + r[k], 0);
+function agrupar(rows, clave, k) {
+  const m = new Map();
+  rows.forEach(r => m.set(r[clave], (m.get(r[clave]) || 0) + r[k]));
+  return [...m.entries()].sort((a, b) => b[1] - a[1]);
+}
+const porMes = (rows, k) => MESES.map((_, i) => sumar(rows.filter(r => +r.mes.slice(5) === i + 1), k));
+const variacion = (a, b) => (b ? (a / b - 1) * 100 : null);
+
+// ------------------------------------------------------------ tooltip
+const tip = $("#tip");
+function mostrarTip(html, x, y) {
+  tip.innerHTML = html;
+  tip.style.opacity = 1;
+  const r = tip.getBoundingClientRect(), m = 12;
+  let left = x + m, top = y - r.height - m;
+  if (left + r.width > innerWidth - 8) left = x - r.width - m;
+  if (left < 8) left = 8;
+  if (top < 8) top = y + m;
+  tip.style.left = left + "px";
+  tip.style.top = top + "px";
+}
+const ocultarTip = () => { tip.style.opacity = 0; };
+
+// ------------------------------------------------------------ gráfico de líneas (SVG propio)
+function escalaLinda(max, n = 4) {
+  // Devuelve un máximo "redondo" y el paso entre líneas de grilla
+  const crudo = max / n, pot = 10 ** Math.floor(Math.log10(crudo));
+  const paso = [1, 2, 2.5, 5, 10].map(f => f * pot).find(p => p >= crudo);
+  return { max: paso * Math.ceil(max / paso), paso };
+}
+
+function graficoLineas(contenedor, series, fmtEje, fmtTip) {
+  const W = contenedor.clientWidth, H = contenedor.clientHeight;
+  const etiquetasY = [];
+  const maxDato = Math.max(...series.flatMap(s => s.datos));
+  const { max, paso } = escalaLinda(maxDato || 1);
+  for (let v = 0; v <= max + paso / 2; v += paso) etiquetasY.push(v);
+  const izq = Math.max(...etiquetasY.map(v => fmtEje(v).length)) * 6.6 + 10;
+  const m = { t: 10, r: 10, b: 26, l: izq };
+  const x = i => m.l + (i * (W - m.l - m.r)) / 11;
+  const y = v => H - m.b - (v / max) * (H - m.t - m.b);
+  const NS = "http://www.w3.org/2000/svg";
+
+  let svg = `<svg xmlns="${NS}" viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(contenedor.dataset.titulo || "")}">`;
+  etiquetasY.forEach(v => {
+    svg += `<line class="${v === 0 ? "base" : "grilla"}" x1="${m.l}" x2="${W - m.r}" y1="${y(v)}" y2="${y(v)}"/>`;
+    svg += `<text class="eje" x="${m.l - 8}" y="${y(v) + 4}" text-anchor="end">${fmtEje(v)}</text>`;
+  });
+  const cadaN = W < 420 ? 2 : 1;  // en pantallas angostas se muestra un mes sí y otro no
+  MESES.forEach((mes, i) => {
+    if (i % cadaN === 0) svg += `<text class="eje" x="${x(i)}" y="${H - 6}" text-anchor="middle">${mes}</text>`;
+  });
+  // Primero la serie de comparación (abajo), después la principal (arriba)
+  [...series].reverse().forEach(s => {
+    const d = s.datos.map((v, i) => `${i ? "L" : "M"}${x(i).toFixed(1)},${y(v).toFixed(1)}`).join("");
+    svg += `<path d="${d}" fill="none" stroke="var(${s.color})" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+             ${s.punteada ? 'stroke-dasharray="5 4"' : ""}/>`;
+    if (!s.punteada) s.datos.forEach((v, i) => {
+      svg += `<circle cx="${x(i)}" cy="${y(v)}" r="3" fill="var(${s.color})" stroke="var(--surface)" stroke-width="1.5"/>`;
+    });
+  });
+  svg += `<line id="cruz" x1="0" x2="0" y1="${m.t}" y2="${H - m.b}" stroke="var(--text-3)" stroke-width="1" stroke-dasharray="3 3" opacity="0"/>`;
+  series.forEach((s, j) => {
+    svg += `<circle class="foco" data-j="${j}" r="5" fill="var(${s.color})" stroke="var(--surface)" stroke-width="2" opacity="0"/>`;
+  });
+  svg += `<rect x="${m.l}" y="0" width="${W - m.l - m.r}" height="${H - m.b}" fill="transparent"/></svg>`;
+  contenedor.innerHTML = svg;
+
+  // Interacción: cruz vertical + tooltip con todas las series del mes más cercano
+  const el = contenedor.querySelector("svg"), cruz = el.querySelector("#cruz"), focos = el.querySelectorAll(".foco");
+  const mover = ev => {
+    const r = el.getBoundingClientRect();
+    const px = ((ev.clientX - r.left) / r.width) * W;
+    const i = Math.max(0, Math.min(11, Math.round(((px - m.l) / (W - m.l - m.r)) * 11)));
+    cruz.setAttribute("x1", x(i)); cruz.setAttribute("x2", x(i)); cruz.setAttribute("opacity", 1);
+    focos.forEach(f => {
+      const s = series[f.dataset.j];
+      f.setAttribute("cx", x(i)); f.setAttribute("cy", y(s.datos[i])); f.setAttribute("opacity", 1);
+    });
+    mostrarTip(fmtTip(i), ev.clientX, ev.clientY);
+  };
+  const salir = () => { cruz.setAttribute("opacity", 0); focos.forEach(f => f.setAttribute("opacity", 0)); ocultarTip(); };
+  el.addEventListener("pointermove", mover);
+  el.addEventListener("pointerdown", mover);
+  el.addEventListener("pointerleave", salir);
+}
+
+// ------------------------------------------------------------ variación interanual (barras verticales SVG)
+function graficoVariacion(contenedor, vals, fmtTip) {
+  const W = contenedor.clientWidth, H = contenedor.clientHeight;
+  const validos = vals.filter(v => v !== null && isFinite(v));
+  const lo = Math.min(0, ...validos), hi = Math.max(0, ...validos);
+  const { paso } = escalaLinda((hi - lo) || 1, 4);
+  const min = Math.floor(lo / paso) * paso, max = Math.ceil(hi / paso) * paso || paso;
+  const ticks = [];
+  for (let v = min; v <= max + paso / 2; v += paso) ticks.push(Math.round(v * 1e6) / 1e6);
+  const fmtEje = v => nf.format(v) + "%";
+  const m = { t: 14, r: 6, b: 24, l: Math.max(...ticks.map(v => fmtEje(v).length)) * 6.6 + 12 };
+  const banda = (W - m.l - m.r) / 12, ancho = banda * 0.62;
+  const y = v => m.t + ((max - v) / (max - min)) * (H - m.t - m.b);
+  const angosto = W < 560;
+  let svg = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(contenedor.dataset.titulo || "")}">`;
+  ticks.forEach(v => {
+    svg += `<line class="${v === 0 ? "base" : "grilla"}" x1="${m.l}" x2="${W - m.r}" y1="${y(v)}" y2="${y(v)}"/>`;
+    svg += `<text class="eje" x="${m.l - 8}" y="${y(v) + 4}" text-anchor="end">${fmtEje(v)}</text>`;
+  });
+  vals.forEach((v, i) => {
+    const cx = m.l + i * banda + banda / 2;
+    if (!angosto || i % 2 === 0) svg += `<text class="eje" x="${cx}" y="${H - 6}" text-anchor="middle">${MESES[i]}</text>`;
+    if (v === null || !isFinite(v)) return;
+    const y0 = y(0), y1 = y(v), alto = Math.max(Math.abs(y1 - y0), 1);
+    const color = v >= 0 ? "var(--accent)" : "var(--down)";
+    svg += `<rect x="${cx - ancho / 2}" y="${Math.min(y0, y1)}" width="${ancho}" height="${alto}" rx="3" fill="${color}"/>`;
+    if (!angosto) svg += `<text class="eje" x="${cx}" y="${v >= 0 ? y1 - 4 : y1 + 12}" text-anchor="middle">${fmtPct(v)}</text>`;
+  });
+  vals.forEach((_, i) => {   // zonas de interacción más grandes que las barras
+    svg += `<rect class="zona" data-i="${i}" x="${m.l + i * banda}" y="0" width="${banda}" height="${H - m.b}" fill="transparent"/>`;
+  });
+  contenedor.innerHTML = svg + "</svg>";
+  contenedor.querySelectorAll(".zona").forEach(z => {
+    z.addEventListener("pointermove", ev => mostrarTip(fmtTip(+z.dataset.i), ev.clientX, ev.clientY));
+    z.addEventListener("pointerdown", ev => mostrarTip(fmtTip(+z.dataset.i), ev.clientX, ev.clientY));
+    z.addEventListener("pointerleave", ocultarTip);
+  });
+}
+
+// ------------------------------------------------------------ barras horizontales
+function graficoBarras(contenedor, items, fmt, fmtTip) {
+  const max = Math.max(...items.map(i => i[1])) || 1;
+  contenedor.innerHTML = items.map(([nombre, valor], idx) => `
+    <div class="fila-barra" data-i="${idx}">
+      <span class="nombre" title="${esc(nombre)}">${esc(nombre)}</span>
+      <span class="valor">${fmt(valor)}</span>
+      <div class="pista"><div class="barra" style="width:${(valor / max) * 100}%"></div></div>
+    </div>`).join("");
+  contenedor.querySelectorAll(".fila-barra").forEach(f => {
+    f.addEventListener("pointermove", ev => mostrarTip(fmtTip(items[f.dataset.i]), ev.clientX, ev.clientY));
+    f.addEventListener("pointerleave", ocultarTip);
+  });
+}
+
+// ------------------------------------------------------------ render
+function render() {
+  const k = estado.metrica, kc = columna(k), enKilos = k === "kilos", real = k === "facturacion_real";
+  const fr = columna("facturacion_real");
+  const fmtCorto = enKilos ? fmtKg : fmtMillones, fmtLargo = enKilos ? fmtKg : fmtPesos;
+  const nombreMetrica = { facturacion: "Facturación", facturacion_real: "Facturación sin inflación", kilos: "Kilos" }[k];
+  const defl = DEFLACTORES[estado.deflactor];
+  const aclaracion = real ? ` · pesos de ${BASE_REAL} (${defl.nombre})` : "";
+  const actual = filtrar(VENTAS, estado.anio);
+  const anioPrev = String(+estado.anio - 1);
+  const prev = anios.includes(anioPrev) ? filtrar(VENTAS, anioPrev) : [];
+  const ambito = estado.prov === "Todas" ? "todas las provincias" : estado.prov;
+  $("#filtro-defl").hidden = !(real && Object.keys(DEFLACTORES).length > 1);
+
+  // KPIs
+  const campos = ["facturacion", fr, "kilos", "tickets"];
+  const tot = Object.fromEntries(campos.map(c => [c, sumar(actual, c)]));
+  const totP = Object.fromEntries(campos.map(c => [c, sumar(prev, c)]));
+  const varReal = variacion(tot[fr], totP[fr]);
+  const ticket = tot.facturacion / tot.tickets, ticketP = totP.tickets ? totP.facturacion / totP.tickets : 0;
+  const ticketReal = tot[fr] / tot.tickets, ticketRealP = totP.tickets ? totP[fr] / totP.tickets : 0;
+  const kgTicket = tot.kilos / tot.tickets, kgTicketP = totP.tickets ? totP.kilos / totP.tickets : 0;
+  const extra = d => (d === null ? "" : `<div class="var">Sin inflación: <span class="${d >= 0 ? "up" : "down"}">${fmtPct(d)}</span></div>`);
+  const kpis = [
+    ["Facturación", fmtMillones(tot.facturacion), variacion(tot.facturacion, totP.facturacion), extra(varReal)],
+    ["Kilos vendidos", fmtKg(tot.kilos), variacion(tot.kilos, totP.kilos), ""],
+    ["Tickets", nf.format(tot.tickets), variacion(tot.tickets, totP.tickets), ""],
+    ["Ticket promedio", fmtPesos(ticket), variacion(ticket, ticketP), extra(variacion(ticketReal, ticketRealP))],
+    ["Kilos por ticket", nf2.format(kgTicket) + " kg", variacion(kgTicket, kgTicketP), ""],
+  ];
+  $("#kpis").innerHTML = kpis.map(([l, v, d, ex]) => `<div class="card kpi"><div class="lbl">${l}</div><div class="val">${v}</div>
+    <div class="var">${d === null ? "Sin año anterior para comparar"
+      : `<span class="${d >= 0 ? "up" : "down"}">${d >= 0 ? "▲" : "▼"} ${fmtPct(d)}</span> vs ${anioPrev}`}</div>${ex}</div>`).join("");
+
+  // Evolución mensual: año elegido vs. anterior, en el mismo eje
+  const serieA = porMes(actual, kc), serieP = prev.length ? porMes(prev, kc) : null;
+  const inflMes = i => (INFLACION[estado.deflactor] || {})[`${estado.anio}-${String(i + 1).padStart(2, "0")}`];
+  const nombreMes = i => MESES_LARGOS[i][0].toUpperCase() + MESES_LARGOS[i].slice(1);
+  $("#t-mensual").textContent = nombreMetrica + " por mes";
+  $("#s-mensual").textContent = `${estado.anio}${serieP ? " vs " + anioPrev : ""} · ${ambito}${aclaracion}`;
+  $("#leyenda").innerHTML = `<span><i></i>${estado.anio}</span>` + (serieP ? `<span><i class="prev"></i>${anioPrev}</span>` : "");
+  const series = [{ nombre: estado.anio, datos: serieA, color: "--accent" }];
+  if (serieP) series.push({ nombre: anioPrev, datos: serieP, color: "--prev", punteada: true });
+  const cont = $("#c-mensual");
+  cont.dataset.titulo = `${nombreMetrica} por mes, ${estado.anio}${serieP ? " comparado con " + anioPrev : ""}`;
+  graficoLineas(cont, series, enKilos ? v => nf.format(v / 1000) + " t" : fmtMillones, i => {
+    let h = `<b>${nombreMes(i)}</b><br><i></i>${estado.anio}: <b>${fmtLargo(serieA[i])}</b>`;
+    if (serieP) {
+      h += `<br><i class="prev"></i>${anioPrev}: ${fmtLargo(serieP[i])}`;
+      h += `<br><span class="muted">Variación: ${fmtPct(variacion(serieA[i], serieP[i]))}</span>`;
+    }
+    if (inflMes(i) !== undefined) h += `<br><span class="muted">Inflación del mes (${defl.nombre}): ${nf1.format(inflMes(i))}%</span>`;
+    return h;
+  });
+
+  // Variación interanual por mes: quita la estacionalidad comparando cada mes con el mismo mes del año anterior
+  const contYoy = $("#c-yoy");
+  $("#t-yoy").textContent = serieP ? `Variación contra el mismo mes de ${anioPrev}` : "Variación contra el mismo mes del año anterior";
+  if (serieP) {
+    const yoy = serieA.map((v, i) => variacion(v, serieP[i]));
+    $("#s-yoy").textContent = `${nombreMetrica} · ${ambito}` + (k === "facturacion"
+      ? " · en pesos corrientes incluye la inflación: usá «Sin inflación» o «Kilos» para ver el crecimiento real" : aclaracion);
+    contYoy.dataset.titulo = `Variación interanual por mes de ${nombreMetrica.toLowerCase()}`;
+    graficoVariacion(contYoy, yoy, i => `<b>${nombreMes(i)}</b><br>${estado.anio}: ${fmtLargo(serieA[i])}<br>${anioPrev}: ${fmtLargo(serieP[i])}
+      <br><b>${fmtPct(yoy[i])}</b>`);
+  } else {
+    $("#s-yoy").textContent = "";
+    contYoy.innerHTML = `<p class="vacio">No hay datos de ${anioPrev} para comparar. Elegí ${anios.at(-1)} para ver la variación contra ${+anios.at(-1) - 1}.</p>`;
+  }
+
+  // Ranking: provincias (total o por local) o, si se filtra una provincia, sus locales
+  const clave = estado.prov === "Todas" ? "provincia" : "local";
+  $("#rank-modo").hidden = clave !== "provincia";
+  const meses = new Set(actual.map(r => r.mes)).size || 1;
+  const localesEquiv = prov => new Set(actual.filter(r => r.provincia === prov).map(r => r.local + "|" + r.mes)).size / meses;
+  const rankTotal = agrupar(actual, clave, kc);
+  const rankLocal = clave === "provincia"
+    ? rankTotal.map(([p, v]) => [p, v / localesEquiv(p)]).sort((a, b) => b[1] - a[1]) : rankTotal;
+  const porLocal = clave === "provincia" && estado.rankModo === "local";
+  const rank = porLocal ? rankLocal : rankTotal;
+  const totRank = rankTotal.reduce((s, r) => s + r[1], 0);
+  $("#t-ranking").textContent = clave === "provincia" ? "Por provincia" : `Locales de ${estado.prov}`;
+  $("#s-ranking").textContent = `${nombreMetrica}${porLocal ? " por local" : ""} ${estado.anio}${aclaracion}`;
+  graficoBarras($("#c-ranking"), rank, fmtCorto, ([n, v]) => {
+    if (!porLocal) return `<b>${esc(n)}</b><br>${fmtLargo(v)}<br><span class="muted">${nf1.format((v / totRank) * 100)}% del total</span>`;
+    const eq = localesEquiv(n);
+    return `<b>${esc(n)}</b><br>${fmtLargo(v)} por local<br><span class="muted">${fmtCant(eq)} local(es) · total ${fmtCorto(v * eq)}</span>`;
+  });
+
+  // Sabores (kilos de helado por kilo)
+  const sabAnio = filtrar(SABORES, estado.anio), totSab = sumar(sabAnio, "kilos");
+  const sab = agrupar(sabAnio, "sabor", "kilos").slice(0, 8);
+  $("#s-sabores").textContent = `Kilos de helado por kilo · ${estado.anio} · ${ambito}`;
+  graficoBarras($("#c-sabores"), sab, v => nf1.format((v / totSab) * 100) + "%",
+    ([n, v]) => `<b>${esc(n)}</b><br>${fmtKg(v)}<br><span class="muted">${nf1.format((v / totSab) * 100)}% de los kilos</span>`);
+
+  // Categorías
+  const cat = agrupar(actual, "categoria", kc), totCat = cat.reduce((s, r) => s + r[1], 0);
+  $("#s-cat").textContent = `${nombreMetrica} ${estado.anio} · ${ambito}${aclaracion}`;
+  graficoBarras($("#c-cat"), cat, fmtCorto,
+    ([n, v]) => `<b>${esc(n)}</b><br>${fmtLargo(v)}<br><span class="muted">${nf1.format((v / totCat) * 100)}% del total</span>`);
+
+  // Tabla por local
+  const locales = agrupar(actual, "local", kc).map(([local, v]) => {
+    const prevLocal = prev.filter(r => r.local === local);
+    // Solo se compara si el local estuvo abierto todo el año anterior; si no, la variación engaña
+    const completo = new Set(prevLocal.map(r => r.mes)).size === 12;
+    return {
+      local, provincia: actual.find(r => r.local === local).provincia, valor: v,
+      nuevo: prev.length > 0 && !completo,
+      varKg: completo ? variacion(sumar(actual.filter(r => r.local === local), "kilos"), sumar(prevLocal, "kilos")) : null,
+    };
+  });
+  renderTabla(locales, fmtLargo, nombreMetrica, anioPrev);
+
+  // Lectura rápida: conclusiones que se recalculan con los filtros
+  const iMax = serieA.indexOf(Math.max(...serieA)), iMin = serieA.indexOf(Math.min(...serieA));
+  const items = [`El mejor mes fue <b>${MESES_LARGOS[iMax]}</b> y el más flojo, <b>${MESES_LARGOS[iMin]}</b>: en ${MESES_LARGOS[iMax]}
+    se vendió <b>${nf1.format(serieA[iMax] / serieA[iMin])} veces</b> lo de ${MESES_LARGOS[iMin]}.`];
+  const mesesInf = Object.entries(INFLACION[estado.deflactor] || {}).filter(([m]) => m.startsWith(estado.anio));
+  const infAnual = (mesesInf.reduce((acc, [, v]) => acc * (1 + v / 100), 1) - 1) * 100;
+  if (!prev.length && mesesInf.length === 12) {
+    items.push(`La inflación de ${estado.anio} fue de <b>${nf1.format(infAnual)}%</b> (${defl.nombre}, INDEC): para comparar
+      meses entre sí, conviene usar la vista <b>Sin inflación</b>.`);
+  }
+  if (prev.length) {
+    const vk = variacion(tot.kilos, totP.kilos), vf = variacion(tot.facturacion, totP.facturacion);
+    items.push(`La facturación subió <b>${fmtPct(vf)}</b> en pesos, con una inflación de <b>${nf1.format(infAnual)}%</b>
+      (${defl.nombre}). Descontada la inflación, su poder de compra varió <b>${fmtPct(varReal)}</b>; los kilos, ${fmtPct(vk)}.`
+      + (Math.abs(varReal - vk) >= 3 ? ` La diferencia indica que los precios del negocio subieron ${varReal > vk ? "más" : "menos"}
+      que ese índice.` : ""));
+    const vt = variacion(kgTicket, kgTicketP);
+    if (Math.abs(vt) >= 1) items.push(`Cada ticket lleva <b>${nf2.format(kgTicket)} kg</b> (${fmtPct(vt)}): los clientes compran
+      porciones ${vt > 0 ? "más grandes" : "más chicas"} que en ${anioPrev}.`);
+  }
+  const nuevos = locales.filter(l => l.nuevo).map(l => l.local);
+  if (nuevos.length) items.push(`Ojo al comparar con ${anioPrev}: <b>${nuevos.join(", ")}</b> abrió durante ese año,
+    así que parte del crecimiento viene de la apertura.`);
+  if (clave === "provincia") {
+    const lider = rankTotal[0][0], eficiente = rankLocal[0][0];
+    const puesto = rankLocal.findIndex(r => r[0] === lider) + 1;
+    items.push(eficiente === lider
+      ? `<b>${lider}</b> lidera tanto en total como por local.`
+      : `<b>${lider}</b> lidera en total, pero tiene ${fmtCant(localesEquiv(lider))} locales: por local queda <b>${puesto}.º</b>
+         y la más eficiente es <b>${eficiente}</b>.`);
+  } else if (rankTotal.length > 1) {
+    items.push(`En ${estado.prov}, el local que más vende es <b>${rankTotal[0][0]}</b>.`);
+  }
+  const conVar = locales.filter(l => l.varKg !== null);
+  if (conVar.length) {
+    const mejor = conVar.reduce((a, b) => (b.varKg > a.varKg ? b : a));
+    items.push(`Mayor crecimiento en kilos: <b>${mejor.local}</b> (${fmtPct(mejor.varKg)}), entre los locales abiertos todo ${anioPrev}.`);
+  }
+  items.push(`El sabor más pedido es <b>${sab[0][0]}</b>, con el ${nf.format((sab[0][1] / totSab) * 100)}% de los kilos.`);
+  $("#lectura").innerHTML = items.map(i => `<li>${i}</li>`).join("");
+}
+
+let orden = { col: "valor", asc: false };
+function renderTabla(filas, fmtLargo, nombreMetrica, anioPrev) {
+  const total = filas.reduce((s, f) => s + f.valor, 0);
+  filas.forEach(f => { f.part = (f.valor / total) * 100; });
+  const cols = [["local", "Local", false], ["provincia", "Provincia", false],
+                ["valor", nombreMetrica, true], ["part", "% del total", true], ["varKg", "Var. kilos vs " + anioPrev, true]];
+  filas.sort((a, b) => {
+    const x = a[orden.col], y = b[orden.col];
+    const r = typeof x === "string" ? x.localeCompare(y, "es") : (x ?? -Infinity) - (y ?? -Infinity);
+    return orden.asc ? r : -r;
+  });
+  const flecha = c => (orden.col === c ? (orden.asc ? " ↑" : " ↓") : "");
+  const sort = c => (orden.col === c ? (orden.asc ? "ascending" : "descending") : "none");
+  const celdaVar = f => f.varKg === null
+    ? `<td class="num nota">${f.nuevo ? "Abrió en " + anioPrev : "—"}</td>`
+    : `<td class="num ${f.varKg >= 0 ? "up" : "down"}">${fmtPct(f.varKg)}</td>`;
+  $("#tabla").innerHTML = `<thead><tr>${cols.map(([c, t, n]) =>
+      `<th scope="col" tabindex="0" data-col="${c}" class="${n ? "num" : ""}${c === "provincia" ? " col-prov" : c === "part" ? " col-part" : ""}" aria-sort="${sort(c)}">${t}${flecha(c)}</th>`).join("")}</tr></thead>
+    <tbody>${filas.map(f => `<tr><td>${esc(f.local)}</td><td class="col-prov">${esc(f.provincia)}</td>
+      <td class="num">${fmtLargo(f.valor)}</td><td class="num col-part">${nf1.format(f.part)}%</td>${celdaVar(f)}</tr>`).join("")}</tbody>`;
+  $("#tabla").querySelectorAll("th").forEach(th => {
+    const ordenar = () => {
+      const c = th.dataset.col;
+      orden = { col: c, asc: orden.col === c ? !orden.asc : c === "local" || c === "provincia" };
+      render();
+      $(`#tabla th[data-col="${c}"]`).focus();
+    };
+    th.onclick = ordenar;
+    th.onkeydown = e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); ordenar(); } };
+  });
+}
+
+// ------------------------------------------------------------ filtros
+$("#f-anio").innerHTML = anios.slice().reverse().map(a => `<option>${a}</option>`).join("");
+$("#f-prov").innerHTML = ["Todas", ...provincias].map(p => `<option>${esc(p)}</option>`).join("");
+$("#f-anio").onchange = e => { estado.anio = e.target.value; render(); };
+$("#f-prov").onchange = e => { estado.prov = e.target.value; render(); };
+document.querySelectorAll(".seg button[data-metrica]").forEach(b => b.onclick = () => {
+  estado.metrica = b.dataset.metrica;
+  document.querySelectorAll(".seg button[data-metrica]").forEach(x => x.setAttribute("aria-pressed", x === b));
+  render();
+});
+
+$("#base-nota").textContent = BASE_REAL;
+$("#fuentes-nota").textContent = Object.values(DEFLACTORES).map(d => `${d.nombre}, serie ${d.serie}`).join("; ");
+$("#f-defl").innerHTML = Object.entries(DEFLACTORES).map(([c, d]) => `<option value="${c}">${esc(d.nombre)}</option>`).join("");
+$("#f-defl").onchange = e => { estado.deflactor = e.target.value; render(); };
+document.querySelectorAll("#rank-modo button").forEach(b => b.onclick = () => {
+  estado.rankModo = b.dataset.modo;
+  document.querySelectorAll("#rank-modo button").forEach(x => x.setAttribute("aria-pressed", x === b));
+  render();
+});
+render();
+let pendiente;
+addEventListener("resize", () => { clearTimeout(pendiente); pendiente = setTimeout(render, 120); });
+</script>
+</body>
+</html>
