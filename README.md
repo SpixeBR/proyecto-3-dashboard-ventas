@@ -6,7 +6,7 @@ A web dashboard to track sales for an ice cream chain with 15 stores in 6 Argent
 
 It is **a single HTML file** with no external libraries: it opens in any browser without internet, works on mobile, and can be published for free with GitHub Pages.
 
-**[Live dashboard](https://spixebr.github.io/proyecto-3-dashboard-ventas/dashboard.html)** (available once GitHub Pages is enabled, see below).
+**[Live dashboard](https://spixebr.github.io/proyecto-3-dashboard-ventas/dashboard.html)**
 
 > **Data:** sales are **simulated** (fictional chain). Inflation is **real**: INDEC national CPI, headline and food & non-alcoholic beverages, from December 2016 to August 2026.
 
@@ -75,6 +75,7 @@ Annual inflation is computed December to December, as INDEC does.
 ├── plantilla.html                 # dashboard design and logic (HTML, CSS, JavaScript, custom SVG charts)
 ├── construir_dashboard.py         # validates data, adjusts for inflation and builds the final HTML
 ├── dashboard.html                 # final output
+├── index.html                     # redirects to dashboard.html (for the GitHub Pages root link)
 ├── requirements.txt               # dependencies, exact versions
 └── docs/                          # screenshots
 ```

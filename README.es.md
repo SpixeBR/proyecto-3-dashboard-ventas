@@ -6,7 +6,7 @@ Dashboard web para seguir las ventas de una cadena de heladerías con 15 locales
 
 Es **un solo archivo HTML**, sin librerías externas: se abre en cualquier navegador sin internet, funciona en el celular y se publica gratis con GitHub Pages.
 
-**[Ver el dashboard en vivo](https://spixebr.github.io/proyecto-3-dashboard-ventas/dashboard.html)** (disponible una vez activado GitHub Pages, ver más abajo).
+**[Ver el dashboard en vivo](https://spixebr.github.io/proyecto-3-dashboard-ventas/dashboard.html)**
 
 > **Datos:** las ventas son **simuladas** (cadena ficticia). La inflación es **real**: IPC nacional del INDEC, nivel general y alimentos y bebidas, de diciembre de 2016 a agosto de 2026.
 
@@ -75,6 +75,7 @@ La inflación anual se calcula de diciembre a diciembre, igual que el INDEC.
 ├── plantilla.html                 # diseño y lógica del dashboard (HTML, CSS, JavaScript, gráficos SVG propios)
 ├── construir_dashboard.py         # valida los datos, ajusta por inflación y arma el HTML final
 ├── dashboard.html                 # resultado final
+├── index.html                     # redirige a dashboard.html (para el link raíz de GitHub Pages)
 ├── requirements.txt               # dependencias con versiones exactas
 └── docs/                          # capturas
 ```
