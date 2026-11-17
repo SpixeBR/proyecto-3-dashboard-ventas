@@ -1,6 +1,7 @@
 # Dashboard de ventas ajustado por inflación — cadena de heladerías
 
 [![tests](https://github.com/SpixeBR/proyecto-3-dashboard-ventas/actions/workflows/tests.yml/badge.svg)](https://github.com/SpixeBR/proyecto-3-dashboard-ventas/actions/workflows/tests.yml)
+
 🇬🇧 [English version](README.md)
 
 Dashboard web para seguir las ventas de una cadena de heladerías con 15 locales en 6 provincias argentinas (2024–2025), con los montos **ajustados por inflación con índices reales del INDEC**.

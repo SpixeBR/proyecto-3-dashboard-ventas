@@ -1,6 +1,7 @@
 # Inflation-adjusted sales dashboard — ice cream chain
 
 [![tests](https://github.com/SpixeBR/proyecto-3-dashboard-ventas/actions/workflows/tests.yml/badge.svg)](https://github.com/SpixeBR/proyecto-3-dashboard-ventas/actions/workflows/tests.yml)
+
 🇦🇷 [Versión en español](README.es.md)
 
 A web dashboard to track sales for an ice cream chain with 15 stores in 6 Argentine provinces (2024–2025), with amounts **adjusted for inflation using real INDEC price indices**.
