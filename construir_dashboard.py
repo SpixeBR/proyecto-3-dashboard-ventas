@@ -53,7 +53,7 @@ def main() -> None:
         faltan = sorted(set(meses) - set(ipc.index))
         assert not faltan, f"a {d['archivo']} le faltan meses: {faltan}"
         ventas[f"facturacion_real_{clave}"] = (ventas["facturacion"] * ipc[base] / ventas["mes"].map(ipc)).round(0)
-        serie = ipc.loc[[previo] + meses] if previo in ipc.index else ipc.loc[meses]
+        serie = ipc.loc[[previo, *meses]] if previo in ipc.index else ipc.loc[meses]
         inflacion[clave] = {m: round(v * 100, 4) for m, v in serie.pct_change().dropna().items()}
         meta[clave] = {"nombre": d["nombre"], "serie": d["serie"]}
     assert "general" in meta, "el IPC nivel general es obligatorio"
